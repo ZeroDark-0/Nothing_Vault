@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "e92d0ceff9ab3357",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab209a8164db7d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da9e3a5599e8b7cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09 - Periodic/00 - Daily/2025-01-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-23"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b630b9aac8110f5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1633a2e82699072f",
+        "type": "tabs",
+        "dimension": 67.50272628135224,
+        "children": [
+          {
+            "id": "48db5e5e042efd58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1c216b84f65404e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#git  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b92a72d2ba5d78e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "9c4718c0c6e5c0c7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "c903b9ce1872da81",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5118e9db2e3d4256",
+        "type": "tabs",
+        "dimension": 32.49727371864776,
+        "children": [
+          {
+            "id": "d30463d87258ed7b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "e2923ca1019dc92a",
+    "type": "split",
+    "children": [
+      {
+        "id": "062ce06b6ec9ecd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95e1f78d8ee90273",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Maps of Content/Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Map"
+            }
+          },
+          {
+            "id": "4361557318f5ec66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "09 - Atomic/02 - Operating System/Secure Boot (202501010734).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Secure Boot (202501010734)"
+            }
+          },
+          {
+            "id": "507e26278cc7532e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f56ec680efde17b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2d07d74799cb79e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09 - Atomic/02 - Operating System/Secure Boot (202501010734).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Secure Boot (202501010734)"
+            }
+          },
+          {
+            "id": "473af58c90869e4b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "aff64bf368e55f1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "48db5e5e042efd58",
+  "lastOpenFiles": [
+    "README.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "09 - Periodic/00 - Daily/2025-01-23.md",
+    "09 - Periodic/00 - Daily/2024-12-29.md",
+    "05 - Archives/Git by Tech With Tim (202501211138).md",
+    "05 - Archives/Git by Nick White (202501041552).md",
+    "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md",
+    "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
+    "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
+    "03 - Resources/00 - Resources Map (202501181840).md",
+    "05 - Archives/00 - Archives Map (202501181835).md",
+    "06 - Atomic/00 - Atomic Map (202501181835).md",
+    "05 - Archives/Deleting Dual Boot (202501011016).md",
+    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
+    "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md",
+    "08 - Fleeting/Placeholder.md",
+    "09 - Periodic/02 - Monthly/Placeholder.md",
+    "05 - Archives/Placeholder.md",
+    "05 - Archives/Untitled.md",
+    "00 - Maps of Content/01 Map.md",
+    "99 - Meta/attachments/2-01 Map.gif",
+    "99 - Meta/attachments/1-01 Map.gif",
+    "99 - Meta/attachments/RGB Strip.gif",
+    "99 - Meta/attachments/Pasted Image 20250120105435_188.png",
+    "07 - Others/DSA Class - (202501071044).md",
+    "99 - Meta/attachments/suicide-jump.gif",
+    "99 - Meta/attachments/Blender shortcut.png",
+    "99 - Meta/attachments/Algo.pdf",
+    "99 - Meta/attachments/1-202501010710.png",
+    "99 - Meta/attachments/Blender.png",
+    "99 - Meta/attachments/1-Git (202501041552).png",
+    "99 - Meta/attachments/1-demo.png",
+    "99 - Meta/attachments/C++ cookbook.pdf",
+    "07 - Others/00 - Other Map (202501211110).md",
+    "07 - Others/Discord  (202501121656).md",
+    "07 - Others/Blender golden rule of 3 (202501091933).md",
+    "04 - Permanent/Placeholder.md",
+    "04 - Permanent/00 - Permanent Map (202501181836).md",
+    "04 - Permanent/03 - Gamedev",
+    "03 - Resources/02 - GameDev",
+    "07 - Others",
+    "04 - Permanent/01 - Programming Languages/Mark Down",
+    "05 - Archives/Arch Linux Installation and command",
+    "04 - Permanent/03 - Gamedev/Unreal",
+    "04 - Permanent/03 - Gamedev/Unity",
+    "03 - Resources/04 - Operating System",
+    "03 - Resources/Untitled.canvas"
+  ]
+}

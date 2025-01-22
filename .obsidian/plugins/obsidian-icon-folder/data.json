@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "- Maps of Content",
+        "icon": "BoBxGlobeAlt",
+        "for": "folders",
+        "order": 0
+      },
+      {
+        "rule": "- Projects",
+        "icon": "BoBxsPen",
+        "for": "folders",
+        "order": 1
+      },
+      {
+        "rule": "- Areas",
+        "icon": "LiPackage",
+        "for": "folders",
+        "order": 2
+      },
+      {
+        "rule": "- Resource",
+        "icon": "BoBxsBook",
+        "for": "folders",
+        "order": 3
+      },
+      {
+        "rule": "- Permanent",
+        "icon": "BoBxsFile",
+        "for": "folders",
+        "order": 4
+      },
+      {
+        "rule": "- Fleeting",
+        "icon": "BoBxsPencil",
+        "for": "folders",
+        "order": 5
+      },
+      {
+        "rule": "- Periodic",
+        "icon": "BoBxCalendarAlt",
+        "for": "folders",
+        "order": 6
+      },
+      {
+        "rule": "- Meeting",
+        "icon": "BoBxsCalendarEvent",
+        "for": "folders",
+        "order": 7
+      },
+      {
+        "rule": "- Atomic",
+        "icon": "LiAtom",
+        "for": "folders",
+        "order": 8
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 9,
+        "useFilePath": false
+      },
+      {
+        "rule": "- Entities",
+        "icon": "BoBxsCategory",
+        "for": "folders",
+        "order": 10
+      },
+      {
+        "rule": "- Meta",
+        "icon": "BoBxSelection",
+        "for": "everything",
+        "order": 11
+      },
+      {
+        "rule": "- Templates",
+        "icon": "BoBxRuler",
+        "for": "everything",
+        "order": 12
+      },
+      {
+        "rule": "- Others",
+        "icon": "LiMoreVertical",
+        "for": "folders",
+        "order": 13
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  }
+}

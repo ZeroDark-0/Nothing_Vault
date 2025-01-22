@@ -1,0 +1,23 @@
+{
+  "accentColor": "#2c0bd0",
+  "cssTheme": "Vauxhall",
+  "interfaceFontFamily": "MonoLisa,JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "MonoLisa,JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "MonoLisa,JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [
+    "retro-notebook-bg",
+    "Daily Note",
+    "Runescape",
+    "Japanese Fonts",
+    "Japanese Font Support",
+    "Colored Sidebar Items",
+    "Minecraft",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Notebook Backgrounds -2",
+    "Notebook Backgrounds"
+  ],
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 17
+}
