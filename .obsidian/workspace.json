@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Periodic/00 - Daily/2025-01-23.md",
+                "file": "05 - Archives/Git by Tech With Tim (202501211138).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-23"
+              "title": "Git by Tech With Tim (202501211138)"
+            }
+          },
+          {
+            "id": "5c75d38f72fc0b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/01 Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Map"
+            }
+          },
+          {
+            "id": "d101ed57a1340bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/00 Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,19 +282,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48db5e5e042efd58",
+  "active": "d101ed57a1340bef",
   "lastOpenFiles": [
-    "README.md",
+    "99 - Meta/Backgrounds/couple.md",
     "00 - Maps of Content/00 Homepage.md",
-    "09 - Periodic/00 - Daily/2025-01-23.md",
-    "09 - Periodic/00 - Daily/2024-12-29.md",
+    "99 - Meta/attachments/1-couple.png",
+    "99 - Meta/Backgrounds/requiem2_banner.jpg",
+    "00 - Maps of Content/01 Map.md",
+    "05 - Archives/00 - Archives Map (202501181835).md",
     "05 - Archives/Git by Tech With Tim (202501211138).md",
     "05 - Archives/Git by Nick White (202501041552).md",
+    "09 - Periodic/00 - Daily/2025-01-23.md",
+    "README.md",
+    "09 - Periodic/00 - Daily/2024-12-29.md",
     "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md",
     "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
     "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
     "03 - Resources/00 - Resources Map (202501181840).md",
-    "05 - Archives/00 - Archives Map (202501181835).md",
     "06 - Atomic/00 - Atomic Map (202501181835).md",
     "05 - Archives/Deleting Dual Boot (202501011016).md",
     "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
@@ -274,7 +307,6 @@
     "09 - Periodic/02 - Monthly/Placeholder.md",
     "05 - Archives/Placeholder.md",
     "05 - Archives/Untitled.md",
-    "00 - Maps of Content/01 Map.md",
     "99 - Meta/attachments/2-01 Map.gif",
     "99 - Meta/attachments/1-01 Map.gif",
     "99 - Meta/attachments/RGB Strip.gif",
@@ -285,14 +317,10 @@
     "99 - Meta/attachments/Algo.pdf",
     "99 - Meta/attachments/1-202501010710.png",
     "99 - Meta/attachments/Blender.png",
-    "99 - Meta/attachments/1-Git (202501041552).png",
-    "99 - Meta/attachments/1-demo.png",
     "99 - Meta/attachments/C++ cookbook.pdf",
     "07 - Others/00 - Other Map (202501211110).md",
     "07 - Others/Discord  (202501121656).md",
     "07 - Others/Blender golden rule of 3 (202501091933).md",
-    "04 - Permanent/Placeholder.md",
-    "04 - Permanent/00 - Permanent Map (202501181836).md",
     "04 - Permanent/03 - Gamedev",
     "03 - Resources/02 - GameDev",
     "07 - Others",

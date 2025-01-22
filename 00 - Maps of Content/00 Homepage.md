@@ -1,7 +1,7 @@
 ---
-banner: "![[requiem2_banner.jpg]]"
-banner_y: 0.65
-cssclasses: []
+banner: "![[1-couple.png]]"
+banner_y: 0.29
+cssclasses:
 ---
 # Home
 
