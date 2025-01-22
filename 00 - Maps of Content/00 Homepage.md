@@ -1,7 +1,7 @@
 ---
-banner: "![[1-couple.png]]"
-banner_y: 0.29
+banner: "![[4-Backgrounds Banners202501230315.gif]]"
 cssclasses:
+banner_y: 0.615
 ---
 # Home
 

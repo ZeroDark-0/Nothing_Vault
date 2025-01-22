@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "requiem2_banner",
+      "path": "99 - Meta/Backgrounds/requiem2_banner.jpg"
+    },
+    {
+      "basename": "C++ cookbook",
+      "path": "99 - Meta/attachments/C++ cookbook.pdf"
+    },
+    {
+      "basename": "Blender shortcut",
+      "path": "99 - Meta/attachments/Blender shortcut.png"
+    },
+    {
+      "basename": "Blender",
+      "path": "99 - Meta/attachments/Blender.png"
+    },
+    {
+      "basename": "Algo",
+      "path": "99 - Meta/attachments/Algo.pdf"
+    },
+    {
+      "basename": "Backgrounds Banners202501230315",
+      "path": "99 - Meta/Backgrounds/Backgrounds Banners202501230315.md"
+    },
+    {
+      "basename": "5-Backgrounds Banners202501230315",
+      "path": "99 - Meta/attachments/5-Backgrounds Banners202501230315.gif"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "couple",
-      "path": "99 - Meta/Backgrounds/couple.md"
+      "basename": "8-Backgrounds Banners202501230315",
+      "path": "99 - Meta/attachments/8-Backgrounds Banners202501230315.gif"
     },
     {
-      "basename": "requiem2_banner",
-      "path": "99 - Meta/Backgrounds/requiem2_banner.jpg"
+      "basename": "1-Backgrounds Banners202501230315",
+      "path": "99 - Meta/attachments/1-Backgrounds Banners202501230315.jpg"
+    },
+    {
+      "basename": "1-Backgrounds Banners202501230315",
+      "path": "99 - Meta/attachments/1-Backgrounds Banners202501230315.gif"
+    },
+    {
+      "basename": "7-Backgrounds Banners202501230315",
+      "path": "99 - Meta/attachments/7-Backgrounds Banners202501230315.gif"
+    },
+    {
+      "basename": "00 - Other Map (202501211110)",
+      "path": "07 - Others/00 - Other Map (202501211110).md"
+    },
+    {
+      "basename": "4-Backgrounds Banners202501230315",
+      "path": "99 - Meta/attachments/4-Backgrounds Banners202501230315.gif"
+    },
+    {
+      "basename": "1-couple",
+      "path": "99 - Meta/Backgrounds/1-couple.png"
     },
     {
       "basename": "01 Map",
@@ -81,32 +129,12 @@
       "path": "99 - Meta/attachments/suicide-jump.gif"
     },
     {
-      "basename": "Blender shortcut",
-      "path": "99 - Meta/attachments/Blender shortcut.png"
-    },
-    {
-      "basename": "Algo",
-      "path": "99 - Meta/attachments/Algo.pdf"
-    },
-    {
       "basename": "1-202501010710",
       "path": "99 - Meta/attachments/1-202501010710.png"
     },
     {
-      "basename": "Blender",
-      "path": "99 - Meta/attachments/Blender.png"
-    },
-    {
       "basename": "1-Git (202501041552)",
       "path": "99 - Meta/attachments/1-Git (202501041552).png"
-    },
-    {
-      "basename": "C++ cookbook",
-      "path": "99 - Meta/attachments/C++ cookbook.pdf"
-    },
-    {
-      "basename": "00 - Other Map (202501211110)",
-      "path": "07 - Others/00 - Other Map (202501211110).md"
     },
     {
       "basename": "Discord  (202501121656)",
@@ -171,26 +199,6 @@
     {
       "basename": "CrossMind Day-1 (202501082014)",
       "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
-    },
-    {
-      "basename": "CrossMind Day-4 (202501082017)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-4 (202501082017).md"
-    },
-    {
-      "basename": "CrossMind Day-3 (202501082016)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-3 (202501082016).md"
-    },
-    {
-      "basename": "CrossMind Day-2 (202501082015)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-2 (202501082015).md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "CrossMind Day-5 (202501082018)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-5 (202501082018).md"
     }
   ],
   "omittedPaths": [],
