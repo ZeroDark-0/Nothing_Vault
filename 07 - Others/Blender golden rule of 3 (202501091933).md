@@ -3,7 +3,7 @@ date: 2025-01-09T19:33
 tags:
   - Blender
 ---
-https://youtu.be/1aNnERnHRZg?si=FXpW04R9Zs0ZmlVu
+<iframe title="How to make an abandoned house in Blender - Tutorial" src="https://www.youtube.com/embed/1aNnERnHRZg?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 - rule of composition in photography 
 
