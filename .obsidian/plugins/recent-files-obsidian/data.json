@@ -5,6 +5,34 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "00 - Archives Map (202501181835)",
+      "path": "05 - Archives/00 - Archives Map (202501181835).md"
+    },
+    {
+      "basename": "00 - Permanent Map (202501181836)",
+      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
+    },
+    {
+      "basename": "00 - Resources Map (202501181840)",
+      "path": "03 - Resources/00 - Resources Map (202501181840).md"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+    },
+    {
+      "basename": "00 - Projects Map (202501181840)",
+      "path": "01 - Projects/00 - Projects Map (202501181840).md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "2024-12-29",
+      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
+    },
+    {
       "basename": "night sky",
       "path": "99 - Meta/Backgrounds/night sky.gif"
     },
@@ -33,10 +61,6 @@
       "path": "99 - Meta/Backgrounds/requiem2_banner.jpg"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
       "basename": "Git by Tech With Tim (202501211138)",
       "path": "05 - Archives/Git by Tech With Tim (202501211138).md"
     },
@@ -61,20 +85,8 @@
       "path": "07 - Others/00 - Other Map (202501211110).md"
     },
     {
-      "basename": "00 - Archives Map (202501181835)",
-      "path": "05 - Archives/00 - Archives Map (202501181835).md"
-    },
-    {
       "basename": "Git by Nick White (202501041552)",
       "path": "05 - Archives/Git by Nick White (202501041552).md"
-    },
-    {
-      "basename": "2025-01-23",
-      "path": "09 - Periodic/00 - Daily/2025-01-23.md"
-    },
-    {
-      "basename": "2024-12-29",
-      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
     },
     {
       "basename": "Blender Course by CrossMind Studio (202501081845)",
@@ -87,10 +99,6 @@
     {
       "basename": "Blender shortcut (202501121407)",
       "path": "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md"
-    },
-    {
-      "basename": "00 - Resources Map (202501181840)",
-      "path": "03 - Resources/00 - Resources Map (202501181840).md"
     },
     {
       "basename": "00 - Atomic Map (202501181835)",
@@ -133,10 +141,6 @@
       "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
     },
     {
-      "basename": "00 - Permanent Map (202501181836)",
-      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
-    },
-    {
       "basename": "Indexing Format (202412310036)",
       "path": "06 - Atomic/Indexing Format (202412310036).md"
     },
@@ -173,16 +177,8 @@
       "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
     },
     {
-      "basename": "00 - Projects Map (202501181840)",
-      "path": "01 - Projects/00 - Projects Map (202501181840).md"
-    },
-    {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
     },
     {
       "basename": "CrossMind Day-1 (202501082014)",

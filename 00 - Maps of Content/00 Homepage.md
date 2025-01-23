@@ -1,7 +1,6 @@
 ---
-banner: "![[night sky.gif]]"
-cssclasses: 
-banner_y: 0.325
+banner: "![[blue night sky.gif]]"
+banner_y: 1
 ---
 # Home
 

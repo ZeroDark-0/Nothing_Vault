@@ -4,7 +4,7 @@ tags:
   - "#Universal_path_to_Nothingness"
   - Map
 banner: "![[requiem2_banner.jpg]]"
-banner_y: 0.825
+banner_y: 0.816
 ---
 # Map
 
