@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "DSA Class - (202501071044)",
+      "path": "07 - Others/DSA Class - (202501071044).md"
+    },
+    {
       "basename": "Blender golden rule of 3 (202501091933)",
       "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
+    },
+    {
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
     },
     {
       "basename": "00 - Other Map (202501211110)",
@@ -33,8 +45,36 @@
       "path": "01 - Projects/00 - Projects Map (202501181840).md"
     },
     {
+      "basename": "CrossMind Day-1 (202501082014)",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
+    },
+    {
+      "basename": "Git by Tech With Tim (202501211138)",
+      "path": "05 - Archives/Git by Tech With Tim (202501211138).md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "00 - Atomic Map (202501181835)",
+      "path": "06 - Atomic/00 - Atomic Map (202501181835).md"
+    },
+    {
+      "basename": "Secure Boot YT(202501031505)",
+      "path": "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md"
+    },
+    {
+      "basename": "Blender Course by CrossMind Studio (202501081845)",
+      "path": "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
+    },
+    {
+      "basename": "PBR Videos - (202501221912)",
+      "path": "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "2024-12-29",
@@ -69,10 +109,6 @@
       "path": "99 - Meta/Backgrounds/requiem2_banner.jpg"
     },
     {
-      "basename": "Git by Tech With Tim (202501211138)",
-      "path": "05 - Archives/Git by Tech With Tim (202501211138).md"
-    },
-    {
       "basename": "C++ cookbook",
       "path": "99 - Meta/attachments/C++ cookbook.pdf"
     },
@@ -93,20 +129,8 @@
       "path": "05 - Archives/Git by Nick White (202501041552).md"
     },
     {
-      "basename": "Blender Course by CrossMind Studio (202501081845)",
-      "path": "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
-    },
-    {
-      "basename": "PBR Videos - (202501221912)",
-      "path": "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md"
-    },
-    {
       "basename": "Blender shortcut (202501121407)",
       "path": "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md"
-    },
-    {
-      "basename": "00 - Atomic Map (202501181835)",
-      "path": "06 - Atomic/00 - Atomic Map (202501181835).md"
     },
     {
       "basename": "Deleting Dual Boot (202501011016)",
@@ -123,10 +147,6 @@
     {
       "basename": "RGB Strip",
       "path": "99 - Meta/attachments/RGB Strip.gif"
-    },
-    {
-      "basename": "DSA Class - (202501071044)",
-      "path": "07 - Others/DSA Class - (202501071044).md"
     },
     {
       "basename": "suicide-jump",
@@ -165,24 +185,12 @@
       "path": "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md"
     },
     {
-      "basename": "Secure Boot YT(202501031505)",
-      "path": "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
-    },
-    {
       "basename": "Introduction to Algorithms (202501071042)",
       "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
     },
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "CrossMind Day-1 (202501082014)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
     }
   ],
   "omittedPaths": [],

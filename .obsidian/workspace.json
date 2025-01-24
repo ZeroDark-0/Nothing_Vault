@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "00 Homepage"
             }
+          },
+          {
+            "id": "cb24a734cef1153f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#git  ",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 303.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -218,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -253,17 +268,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5c75d38f72fc0b27",
+  "active": "cb24a734cef1153f",
   "lastOpenFiles": [
-    "07 - Others/Blender golden rule of 3 (202501091933).md",
-    "07 - Others/00 - Other Map (202501211110).md",
     "00 - Maps of Content/00 Homepage.md",
+    "Untitled.md",
+    "99 - Meta/Backgrounds/scenery beach side.jpg",
+    "99 - Meta/Backgrounds/starfall.jpg",
+    "99 - Meta/Backgrounds/blue ocean.jpg",
+    "07 - Others/DSA Class - (202501071044).md",
+    "09 - Periodic/00 - Daily/2025-01-24.md",
+    "07 - Others/Blender golden rule of 3 (202501091933).md",
+    "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
+    "07 - Others/00 - Other Map (202501211110).md",
     "05 - Archives/00 - Archives Map (202501181835).md",
     "04 - Permanent/00 - Permanent Map (202501181836).md",
     "03 - Resources/00 - Resources Map (202501181840).md",
     "02 - Areas/00 - Areas Map (202501181839).md",
     "01 - Projects/00 - Projects Map (202501181840).md",
+    "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md",
+    "05 - Archives/Git by Tech With Tim (202501211138).md",
     "00 - Maps of Content/01 Map.md",
+    "06 - Atomic/00 - Atomic Map (202501181835).md",
+    "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md",
+    "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md",
+    "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
+    "README.md",
     "99 - Meta/Backgrounds/moon manga.jpg",
     "99 - Meta/Backgrounds/blue night sky.gif",
     "99 - Meta/Backgrounds/stary night sky.jpg",
@@ -273,26 +302,12 @@
     "99 - Meta/Backgrounds/6-Backgrounds Banners202501230315.gif",
     "99 - Meta/Backgrounds/7-Backgrounds Banners202501230315.gif",
     "99 - Meta/Backgrounds/branch.gif",
-    "99 - Meta/Backgrounds/Miku's eyes.gif",
-    "99 - Meta/attachments/1-03 Mark Down.png",
-    "99 - Meta/attachments/1-202501010710.png",
     "99 - Meta/Backgrounds/Backgrounds Banners202501230315.md",
-    "05 - Archives/Git by Tech With Tim (202501211138).md",
     "99 - Meta/attachments/C++ cookbook.pdf",
     "99 - Meta/attachments/Algo.pdf",
     "99 - Meta/Backgrounds/couple.md",
     "05 - Archives/Git by Nick White (202501041552).md",
-    "README.md",
-    "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md",
-    "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
     "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
-    "06 - Atomic/00 - Atomic Map (202501181835).md",
-    "05 - Archives/Deleting Dual Boot (202501011016).md",
-    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
-    "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md",
-    "08 - Fleeting/Placeholder.md",
-    "09 - Periodic/02 - Monthly/Placeholder.md",
-    "05 - Archives/Placeholder.md",
     "04 - Permanent/03 - Gamedev",
     "03 - Resources/02 - GameDev",
     "07 - Others",

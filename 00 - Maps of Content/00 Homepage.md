@@ -2,29 +2,11 @@
 banner: "![[blue night sky.gif]]"
 banner_y: 1
 ---
-# Home
-
-Nothing includes Programming, Gamedev, 3D Art, DSA and the other stuff related to that.....
-
----
-
-#### ->Start - [[01 Map]]
+# <code style="color:Blue">Main Force</code>
 
 
----
-## Areas
+Nothing includes Programming, Game dev, 3D Art, DSA and the other stuff related to that.....
 
-```dataview
-LIST
-FROM #area
-WHERE !contains(file.folder, "00 - Templates")
-SORT file.name ASC
-```
-## Projects
+![[stary night sky.jpg]]
+The main section is divided into 9 categories -
 
-```dataview
-TABLE status, deadline, area
-FROM #project
-WHERE !contains(file.path, "00 - Templates")
-SORT deadline ASC
-```
