@@ -263,14 +263,14 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "5341b1344bd4a0e9",
   "lastOpenFiles": [
-    "00 - Maps of Content/00 Homepage.md",
     "01 - Projects/DSA.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md",
     "01 - Projects/Placeholder.md",
     "01 - Projects/one indie game.md",
     "00 - Maps of Content/01 Map.md",
@@ -295,7 +295,6 @@
     "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
     "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
     "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md",
-    "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md",
     "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
     "02 - Areas/2D Art/Body Structures.md",
     "03 - Resources/Untitled.md",

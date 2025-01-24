@@ -9,6 +9,10 @@
       "path": "01 - Projects/DSA.md"
     },
     {
+      "basename": "Introduction to Algorithms (202501071042)",
+      "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
+    },
+    {
       "basename": "one indie game",
       "path": "01 - Projects/one indie game.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Blender Course by CrossMind Studio (202501081845)",
       "path": "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
-    },
-    {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
     },
     {
       "basename": "Modern C++ Programming Cookbook",
