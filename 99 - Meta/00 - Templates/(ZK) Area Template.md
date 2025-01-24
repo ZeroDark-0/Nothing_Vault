@@ -3,7 +3,8 @@ tags:
   - area
 links: 
 deadline: <% tp.date.now("YYYY-MM-DD") %>
-area: [[My Areas]]
+area:
+  - - My Areas
 ---
 ## Related Projects
 

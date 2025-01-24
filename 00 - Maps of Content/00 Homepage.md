@@ -5,8 +5,26 @@ banner_y: 1
 # <code style="color:Blue">Main Force</code>
 
 
-Nothing includes Programming, Game dev, 3D Art, DSA and the other stuff related to that.....
-
 ![[stary night sky.jpg]]
-The main section is divided into 9 categories -
+
+
+
+## **<code style="color:cyan">Projects</code>** 
+  The Folder for the projects with the deadline 
+  
+  ```dataview
+TABLE status, deadline, area
+FROM #project
+WHERE !contains(file.path, "00 - Templates")
+SORT deadline ASC
+```
+  
+## <code style="color:blue">Areas</code>
+
+```dataview
+LIST
+FROM #area
+WHERE !contains(file.folder, "00 - Templates")
+SORT file.name ASC
+```
 
