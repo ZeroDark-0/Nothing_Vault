@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "202501260222",
+      "path": "202501260222.md"
+    },
+    {
+      "basename": "Latex Snippet 202501260153",
+      "path": "Latex Snippet 202501260153.md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "Introduction to Algorithms (202501071042)",
+      "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 3/1-DSA by iNeuron.pdf"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Body Structures (male).md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "DSA",
+      "path": "01 - Projects/DSA.md"
     },
     {
       "basename": "00 - DSA by iNeuron",
@@ -45,14 +85,6 @@
       "path": "04 - Permanent/01 - Programming Languages/Mark Down/Mark Down.md"
     },
     {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
-    },
-    {
       "basename": "00 - Areas Map (202501181839)",
       "path": "02 - Areas/00 - Areas Map (202501181839).md"
     },
@@ -61,16 +93,8 @@
       "path": "01 - Projects/one indie game.md"
     },
     {
-      "basename": "DSA",
-      "path": "01 - Projects/DSA.md"
-    },
-    {
       "basename": "00 - Projects Map (202501181840)",
       "path": "01 - Projects/00 - Projects Map (202501181840).md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "theta notation",
@@ -91,14 +115,6 @@
     {
       "basename": "Live Session Notes- Dynamic Programming",
       "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 37/Live Session Notes- Dynamic Programming.pdf"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Body Structures (male).md"
     },
     {
       "basename": "99 Meetings",
@@ -183,18 +199,6 @@
     {
       "basename": "night sky",
       "path": "99 - Meta/Backgrounds/night sky.gif"
-    },
-    {
-      "basename": "branch",
-      "path": "99 - Meta/Backgrounds/branch.gif"
-    },
-    {
-      "basename": "1-03 Mark Down",
-      "path": "99 - Meta/attachments/1-03 Mark Down.png"
-    },
-    {
-      "basename": "1-202501010710",
-      "path": "99 - Meta/attachments/1-202501010710.png"
     }
   ],
   "omittedPaths": [],
