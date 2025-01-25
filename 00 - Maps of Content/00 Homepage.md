@@ -1,6 +1,8 @@
 ---
 banner: "![[blue night sky.gif]]"
 banner_y: 1
+cssclasses:
+  - center-images
 ---
 # <code style="color:Blue">Main Force</code>
 
@@ -9,8 +11,7 @@ banner_y: 1
 
 
 
-## **<code style="color:cyan">Projects</code>** 
-  The Folder for the projects with the deadline 
+## **<code style="color:cyan">Projects -</code>**  
   
   ```dataview
 TABLE status, deadline, area

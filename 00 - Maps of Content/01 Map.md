@@ -5,13 +5,15 @@ tags:
   - Map
 banner: "![[requiem2_banner.jpg]]"
 banner_y: 0.816
+cssclasses:
+  - center-images
 ---
 # Map
 
 Back to Homepage - >>[[00 Homepage]]<< 
 
 --- 
-
+![[Miku's eyes.gif]]
 ![[1-01 Map.gif]]
 
 ---
