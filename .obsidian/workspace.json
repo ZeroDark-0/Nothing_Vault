@@ -8,44 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01118eff7fff140b",
+            "id": "1c92110aed0e36dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Algorithms (202501071042)"
+              "title": "01 Map"
             }
           },
           {
             "id": "b9a92d56add3e4c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
+                "file": "03 - Resources/01 - Programming/Latex.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1-DSA by iNeuron"
-            }
-          },
-          {
-            "id": "9b46ae89bd4ca663",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1-DSA by iNeuron"
+              "icon": "lucide-file",
+              "title": "Latex"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,53 +268,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01118eff7fff140b",
+  "active": "b9a92d56add3e4c9",
   "lastOpenFiles": [
-    "07 - Others/DSA Class - (202501071044).md",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
-    "00 - Maps of Content/00 Homepage.md",
-    "Latex Snippet 202501260153.md",
-    "202501260222.md",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf",
-    "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
-    "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 3/1-DSA by iNeuron.pdf",
-    "02 - Areas/2D Art/Body Structures (male).md",
-    "00 - Maps of Content/01 Map.md",
-    "01 - Projects/DSA.md",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
-    "03 - Resources/00 - Resources Map (202501181840).md",
     "README.md",
+    "99 - Meta/attachments/1-README.png",
+    "03 - Resources/01 - Programming/Latex.md",
+    "Latex Snippet 202501260153.md",
+    "04 - Permanent/00 - Permanent Map (202501181836).md",
+    "05 - Archives/00 - Archives Map (202501181835).md",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
+    "00 - Maps of Content/01 Map.md",
+    "01 - Projects/00 - Projects Map (202501181840).md",
+    "00 - Maps of Content/00 Homepage.md",
+    "04 - Permanent/01 - Programming Languages/08 - Latex",
+    "01 - Projects/Rust.md",
+    "02 - Areas/00 - Areas Map (202501181839).md",
+    "02 - Areas/Rust.md",
+    "03 - Resources/00 - Resources Map (202501181840).md",
+    "04 - Permanent/01 - Programming Languages/07 - Rust",
+    "04 - Permanent/01 - Programming Languages/06 - BrainFuck",
+    "04 - Permanent/01 - Programming Languages/05 - Python",
+    "04 - Permanent/01 - Programming Languages/04 - C++++",
+    "04 - Permanent/01 - Programming Languages/03 - C++",
+    "04 - Permanent/01 - Programming Languages/02 - C Programming",
+    "03 - Resources/05 - DSA",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
+    "202501260222.md",
+    "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md",
+    "07 - Others/DSA Class - (202501071044).md",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
+    "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
+    "02 - Areas/2D Art/Body Structures (male).md",
+    "01 - Projects/DSA.md",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/README.md",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/1-DSA by iNeuron.pdf",
     "07 - Others/Discord  (202501121656).md",
     "07 - Others/Blender golden rule of 3 (202501091933).md",
     "05 - Archives/Deleting Dual Boot (202501011016).md",
-    "04 - Permanent/01 - Programming Languages/Mark Down/Mark Down.md",
-    "02 - Areas/00 - Areas Map (202501181839).md",
+    "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md",
     "01 - Projects/one indie game.md",
-    "01 - Projects/00 - Projects Map (202501181840).md",
-    "Untitled.md",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/theta notation.png",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 37/Live Session Notes- Dynamic Programming.pdf",
-    "01 - Projects/Placeholder.md",
-    "00 - Maps of Content/99 Meetings.md",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.docx",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9",
-    "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md",
-    "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/theta notation.png",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png",
     "99 - Meta/Backgrounds/Miku's eyes.gif",
     "99 - Meta/Backgrounds/scenery beach side.jpg",
     "99 - Meta/Backgrounds/starfall.jpg",
     "99 - Meta/Backgrounds/blue ocean.jpg",
     "99 - Meta/Backgrounds/moon manga.jpg",
     "99 - Meta/Backgrounds/blue night sky.gif",
-    "99 - Meta/Backgrounds/stary night sky.jpg",
     "03 - Resources/Untitled.canvas"
   ]
 }

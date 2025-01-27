@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
+    },
+    {
+      "basename": "00 - Permanent Map (202501181836)",
+      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
+    },
+    {
+      "basename": "00 - Archives Map (202501181835)",
+      "path": "05 - Archives/00 - Archives Map (202501181835).md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Rust",
+      "path": "01 - Projects/Rust.md"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+    },
+    {
+      "basename": "00 - Resources Map (202501181840)",
+      "path": "03 - Resources/00 - Resources Map (202501181840).md"
+    },
+    {
+      "basename": "00 - DSA by iNeuron",
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
+    },
+    {
+      "basename": "202501260222",
+      "path": "202501260222.md"
+    },
+    {
       "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
+      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
     },
     {
       "basename": "DSA Class - (202501071044)",
@@ -10,27 +54,11 @@
     },
     {
       "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "Latex Snippet 202501260153",
-      "path": "Latex Snippet 202501260153.md"
-    },
-    {
-      "basename": "202501260222",
-      "path": "202501260222.md"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "Modern C++ Programming Cookbook",
@@ -38,39 +66,23 @@
     },
     {
       "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 3/1-DSA by iNeuron.pdf"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 3/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "Body Structures (male)",
       "path": "02 - Areas/2D Art/Body Structures (male).md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
       "basename": "DSA",
       "path": "01 - Projects/DSA.md"
     },
     {
-      "basename": "00 - DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
-    },
-    {
-      "basename": "00 - Resources Map (202501181840)",
-      "path": "03 - Resources/00 - Resources Map (202501181840).md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
     },
     {
       "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/1-DSA by iNeuron.pdf"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "Discord  (202501121656)",
@@ -86,39 +98,31 @@
     },
     {
       "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     },
     {
       "basename": "one indie game",
       "path": "01 - Projects/one indie game.md"
     },
     {
-      "basename": "00 - Projects Map (202501181840)",
-      "path": "01 - Projects/00 - Projects Map (202501181840).md"
-    },
-    {
       "basename": "theta notation",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/theta notation.png"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/theta notation.png"
     },
     {
       "basename": "Omega Notation",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png"
     },
     {
       "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png"
     },
     {
       "basename": "Live Session Notes- Dynamic Programming",
-      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 37/Live Session Notes- Dynamic Programming.pdf"
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 37/Live Session Notes- Dynamic Programming.pdf"
     },
     {
       "basename": "99 Meetings",
@@ -177,14 +181,6 @@
       "path": "07 - Others/00 - Other Map (202501211110).md"
     },
     {
-      "basename": "00 - Archives Map (202501181835)",
-      "path": "05 - Archives/00 - Archives Map (202501181835).md"
-    },
-    {
-      "basename": "00 - Permanent Map (202501181836)",
-      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
-    },
-    {
       "basename": "CrossMind Day-1 (202501082014)",
       "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "00 - Atomic Map (202501181835)",
       "path": "06 - Atomic/00 - Atomic Map (202501181835).md"
-    },
-    {
-      "basename": "2024-12-29",
-      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
     }
   ],
   "omittedPaths": [],

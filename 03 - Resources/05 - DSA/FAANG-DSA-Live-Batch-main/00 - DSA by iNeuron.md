@@ -14,5 +14,6 @@ Lecture 5 - Data Structure, Linear data Structure, Binary Search, Recursion.
 Lecture 6 - Interview Questions.
 Lecture 7 - Ternary Search, Sorting Types, Stable and unstable sort, Inplace and Outplace Sorting, Bubble Sort, Selection Sort.
 Lecture 8 - Insertion Sort, Heap sort, Binary tree, Minheap and Maxheap.
-Lecture 9 - 
+Lecture 9 - Minheap insertion and Deletion, HeapSort, Examples, and the Building of Minheap and Maxheap, properties and 3 Problem statement
+Lecture 10 - 
 

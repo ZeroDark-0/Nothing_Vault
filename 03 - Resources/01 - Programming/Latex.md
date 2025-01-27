@@ -1,6 +1,7 @@
 ---
-date: 2025-01-26T01:53
-tags: []
+tags:
+  - resource
+links:
 ---
 https://castel.dev
 https://quickref.me/latex

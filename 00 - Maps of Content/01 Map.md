@@ -18,7 +18,7 @@ Back to Homepage - >>[[00 Homepage]]<<
 
 ---
 
-1. Projects - [[00 - Projects Map (202501181840)]]
+1. Projects - NONE
 2. Areas - [[00 - Areas Map (202501181839)]]
 3. Resource - [[00 - Resources Map (202501181840)]]
 4. Permanent - [[00 - Permanent Map (202501181836)]]
