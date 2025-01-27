@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduction to Algorithms (202501071042)",
+      "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
+    },
+    {
+      "basename": "DSA Class - (202501071044)",
+      "path": "07 - Others/DSA Class - (202501071044).md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "Latex Snippet 202501260153",
       "path": "Latex Snippet 202501260153.md"
     },
@@ -21,16 +37,8 @@
       "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
     },
     {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md"
-    },
-    {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 3/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Body Structures (male)",
@@ -63,10 +71,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "DSA Class - (202501071044)",
-      "path": "07 - Others/DSA Class - (202501071044).md"
     },
     {
       "basename": "Discord  (202501121656)",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-12-29",
       "path": "09 - Periodic/00 - Daily/2024-12-29.md"
-    },
-    {
-      "basename": "night sky",
-      "path": "99 - Meta/Backgrounds/night sky.gif"
     }
   ],
   "omittedPaths": [],

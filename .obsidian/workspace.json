@@ -13,12 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex Snippet 202501260153.md",
+                "file": "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex Snippet 202501260153"
+              "title": "Introduction to Algorithms (202501071042)"
+            }
+          },
+          {
+            "id": "b9a92d56add3e4c9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1-DSA by iNeuron"
+            }
+          },
+          {
+            "id": "9b46ae89bd4ca663",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1-DSA by iNeuron"
             }
           }
         ]
@@ -255,14 +279,16 @@
   },
   "active": "01118eff7fff140b",
   "lastOpenFiles": [
-    "202501260222.md",
+    "07 - Others/DSA Class - (202501071044).md",
+    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
+    "00 - Maps of Content/00 Homepage.md",
     "Latex Snippet 202501260153.md",
+    "202501260222.md",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf",
     "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
     "03 - Resources/01 - Programming/Introduction to Algorithms (202501071042).md",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 3/1-DSA by iNeuron.pdf",
-    "00 - Maps of Content/00 Homepage.md",
     "02 - Areas/2D Art/Body Structures (male).md",
     "00 - Maps of Content/01 Map.md",
     "01 - Projects/DSA.md",
@@ -272,7 +298,6 @@
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/README.md",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/1-DSA by iNeuron.pdf",
-    "07 - Others/DSA Class - (202501071044).md",
     "07 - Others/Discord  (202501121656).md",
     "07 - Others/Blender golden rule of 3 (202501091933).md",
     "05 - Archives/Deleting Dual Boot (202501011016).md",
@@ -289,11 +314,9 @@
     "01 - Projects/Placeholder.md",
     "00 - Maps of Content/99 Meetings.md",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.docx",
-    "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
     "03 - Resources/01 - Programming/FAANG-DSA-Live-Batch-main/Lecture 9",
     "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md",
     "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
-    "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
     "99 - Meta/Backgrounds/Miku's eyes.gif",
     "99 - Meta/Backgrounds/scenery beach side.jpg",
     "99 - Meta/Backgrounds/starfall.jpg",
