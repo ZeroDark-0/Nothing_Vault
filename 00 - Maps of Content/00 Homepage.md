@@ -1,6 +1,6 @@
 ---
 banner: "![[blue night sky.gif]]"
-banner_y: 1
+banner_y: 0.84
 cssclasses:
   - center-images
 ---

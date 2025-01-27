@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Notes System",
+      "path": "06 - Atomic/Notes System.md"
+    },
+    {
+      "basename": "Introduction to Algorithms (202501071042)",
+      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     },
     {
       "basename": "README",
@@ -33,10 +49,6 @@
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
       "basename": "Rust",
       "path": "01 - Projects/Rust.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "202501260222",
       "path": "202501260222.md"
-    },
-    {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
     },
     {
       "basename": "1-DSA by iNeuron",
@@ -99,10 +107,6 @@
     {
       "basename": "Deleting Dual Boot (202501011016)",
       "path": "05 - Archives/Deleting Dual Boot (202501011016).md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     },
     {
       "basename": "one indie game",
@@ -187,14 +191,6 @@
     {
       "basename": "CrossMind Day-1 (202501082014)",
       "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
-    },
-    {
-      "basename": "Git by Tech With Tim (202501211138)",
-      "path": "05 - Archives/Git by Tech With Tim (202501211138).md"
-    },
-    {
-      "basename": "00 - Atomic Map (202501181835)",
-      "path": "06 - Atomic/00 - Atomic Map (202501181835).md"
     }
   ],
   "omittedPaths": [],
