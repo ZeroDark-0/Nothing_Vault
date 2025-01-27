@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "notes-digitize-beta",
+      "path": "notes-digitize-beta.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "202501260222",
+      "path": "202501260222.md"
+    },
+    {
+      "basename": "Introduction to Algorithms (202501071042)",
+      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
@@ -9,20 +29,16 @@
       "path": "06 - Atomic/Notes System.md"
     },
     {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
+      "basename": "00 - Permanent Map (202501181836)",
+      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "Latex mathematics",
+      "path": "01 - Projects/Latex mathematics.md"
     },
     {
       "basename": "Mark Down",
       "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "DSA Class - (202501071044)",
@@ -35,10 +51,6 @@
     {
       "basename": "Latex",
       "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "00 - Permanent Map (202501181836)",
-      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
     },
     {
       "basename": "00 - Archives Map (202501181835)",
@@ -63,10 +75,6 @@
     {
       "basename": "00 - DSA by iNeuron",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
-    },
-    {
-      "basename": "202501260222",
-      "path": "202501260222.md"
     },
     {
       "basename": "1-DSA by iNeuron",
@@ -159,38 +167,6 @@
     {
       "basename": "Algo",
       "path": "99 - Meta/attachments/Algo.pdf"
-    },
-    {
-      "basename": "Miku's eyes",
-      "path": "99 - Meta/Backgrounds/Miku's eyes.gif"
-    },
-    {
-      "basename": "(Periodic) Daily Template",
-      "path": "99 - Meta/00 - Templates/(Periodic) Daily Template.md"
-    },
-    {
-      "basename": "(Periodic) Weekly Template",
-      "path": "99 - Meta/00 - Templates/(Periodic) Weekly Template.md"
-    },
-    {
-      "basename": "(TEMPLATE) Unique",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
-    },
-    {
-      "basename": "(ZK) Area Template",
-      "path": "99 - Meta/00 - Templates/(ZK) Area Template.md"
-    },
-    {
-      "basename": "(ZK) Project Template",
-      "path": "99 - Meta/00 - Templates/(ZK) Project Template.md"
-    },
-    {
-      "basename": "00 - Other Map (202501211110)",
-      "path": "07 - Others/00 - Other Map (202501211110).md"
-    },
-    {
-      "basename": "CrossMind Day-1 (202501082014)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
     }
   ],
   "omittedPaths": [],

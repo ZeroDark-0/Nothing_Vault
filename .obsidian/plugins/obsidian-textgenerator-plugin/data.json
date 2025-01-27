@@ -84,7 +84,12 @@
     "ImageExtractor": true
   },
   "displayErrorInEditor": false,
-  "LLMProviderProfiles": {},
+  "LLMProviderProfiles": {
+    "OpenAI Chat (Langchain) 1": {
+      "extends": "OpenAI Chat (Langchain)",
+      "name": "OpenAI Chat 1"
+    }
+  },
   "LLMProviderOptions": {
     "whisper": {
       "base_path": "https://api.openai.com/v1",
@@ -93,6 +98,9 @@
       "api_version": ""
     },
     "OpenAI Chat (Langchain)": {
+      "basePath": "https://api.openai.com/v1"
+    },
+    "OpenAI Chat (Langchain) 1": {
       "basePath": "https://api.openai.com/v1"
     }
   },
