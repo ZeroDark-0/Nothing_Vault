@@ -8,31 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76d20fe31d3f7a24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes digitize beta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes digitize beta"
-            }
-          },
-          {
             "id": "fd27a0078d4686b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes-digitize-beta.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
               },
-              "icon": "lucide-file",
-              "title": "notes-digitize-beta"
+              "icon": "lucide-file-text",
+              "title": "1-DSA by iNeuron"
             }
           },
           {
@@ -41,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "07 - Others/DSA Class - (202501071044).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "DSA Class - (202501071044)"
             }
           }
         ],
@@ -282,8 +266,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd27a0078d4686b5",
+  "active": "74faa3e4b97eee84",
   "lastOpenFiles": [
+    "00 - Maps of Content/00 Homepage.md",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png",
+    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
+    "07 - Others/DSA Class - (202501071044).md",
+    "notes-digitize-beta.md",
     "FieldNotes/3-notes digitize beta.png",
     "FieldNotes/3-202501272330.png",
     "FieldNotes/2-notes digitize beta.png",
@@ -292,12 +283,7 @@
     "FieldNotes/1-notes digitize beta.png",
     "FieldNotes/1-202501272330.png",
     "FieldNotes/1-202501272306.png",
-    "notes-digitize-beta.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "FieldNotes/4-notes digitize beta.png",
     "README.md",
-    "99 - Meta/attachments/1-README.png",
-    "FieldNotes/4-202501272330.png",
     "202501260222.md",
     "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md",
     "202501272306.md",
@@ -308,7 +294,6 @@
     "FieldNotes",
     "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md",
     "ED-202501272147.excalidraw.md",
-    "07 - Others/DSA Class - (202501071044).md",
     "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
     "03 - Resources/01 - Programming/Latex.md",
     "Latex Snippet 202501260153.md",
@@ -325,8 +310,6 @@
     "04 - Permanent/01 - Programming Languages/05 - Python",
     "04 - Permanent/01 - Programming Languages/04 - C++++",
     "04 - Permanent/01 - Programming Languages/03 - C++",
-    "04 - Permanent/01 - Programming Languages/02 - C Programming",
-    "03 - Resources/05 - DSA",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
     "02 - Areas/2D Art/Body Structures (male).md",
     "01 - Projects/DSA.md",
