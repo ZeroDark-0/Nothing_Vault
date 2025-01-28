@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Blender shortcut",
+      "path": "99 - Meta/attachments/Blender shortcut.png"
+    },
+    {
+      "basename": "Leetcode 463.excalidraw",
+      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+    },
+    {
+      "basename": "Pasted Image 20250129005859_767",
+      "path": "99 - Meta/attachments/Pasted Image 20250129005859_767.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Latex - 202501260222",
       "path": "Latex - 202501260222.md"
+    },
+    {
+      "basename": "Introduction to Algorithms (202501071042)",
+      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
+    },
+    {
+      "basename": "00 - Resources Map (202501181840)",
+      "path": "03 - Resources/00 - Resources Map (202501181840).md"
     },
     {
       "basename": "1-DSA by iNeuron",
@@ -13,20 +45,8 @@
       "path": "07 - Others/DSA Class - (202501071044).md"
     },
     {
-      "basename": "notes-digitize-beta",
-      "path": "notes-digitize-beta.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "2025-01-24",
       "path": "09 - Periodic/00 - Daily/2025-01-24.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Omega Notation",
@@ -39,10 +59,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
     },
     {
       "basename": "01 Map",
@@ -83,14 +99,6 @@
     {
       "basename": "Rust",
       "path": "01 - Projects/Rust.md"
-    },
-    {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
-    },
-    {
-      "basename": "00 - Resources Map (202501181840)",
-      "path": "03 - Resources/00 - Resources Map (202501181840).md"
     },
     {
       "basename": "00 - DSA by iNeuron",

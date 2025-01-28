@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f15896ba16fccfbb",
+        "id": "803e9af003599be4",
         "type": "tabs",
         "children": [
           {
-            "id": "6dba37b1082430be",
+            "id": "b9392677bd03ce9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex - 202501260222.md",
+                "file": "notes-digitize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex - 202501260222"
+              "title": "notes-digitize"
+            }
+          },
+          {
+            "id": "7b42af2cf85da3a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/00 Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Homepage"
+            }
+          },
+          {
+            "id": "8f9603c28196ef76",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 317.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -253,33 +278,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6dba37b1082430be",
+  "active": "7b42af2cf85da3a6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "notes-digitize.md",
+    "99 - Meta/attachments/Blender shortcut.png",
+    "202501290254.md",
+    "FieldNotes/1-notes-digitize.png",
+    "FieldNotes",
+    "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
+    "02 - Areas/00 - Areas Map (202501181839).md",
+    "FieldNotes/3-notes-digitize.png",
+    "FieldNotes/2-notes-digitize.png",
+    "FieldNotes/1-notes-digitize.png",
+    "FieldNotes/1-notes-digitize.png",
+    "FieldNotes/3-notes-digitize-beta.png",
+    "FieldNotes/2-notes-digitize-beta.png",
+    "FieldNotes/1-notes-digitize-beta.png",
+    "FieldNotes/3-notes-digitize-beta.png",
+    "02 - Areas/Leetcode",
+    "02 - Areas/DSA",
+    "FieldNotes/field-note-20250128-573df5e8.png.md",
+    "README.md",
+    "202501282329.md",
+    "Latex - 202501260222.md",
+    "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md",
+    "03 - Resources/00 - Resources Map (202501181840).md",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "07 - Others/DSA Class - (202501071044).md",
-    "Latex - 202501260222.md",
-    "notes-digitize-beta.md",
-    "README.md",
     "09 - Periodic/00 - Daily/2025-01-24.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png",
-    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
-    "FieldNotes/3-notes digitize beta.png",
-    "FieldNotes/3-202501272330.png",
-    "FieldNotes/2-notes digitize beta.png",
-    "FieldNotes/2-202501272330.png",
-    "FieldNotes/1-notes digitize-beta.png",
-    "FieldNotes/1-notes digitize beta.png",
-    "FieldNotes/1-202501272330.png",
-    "FieldNotes/1-202501272306.png",
-    "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md",
     "202501272306.md",
     "00 - Maps of Content/01 Map.md",
     "06 - Atomic/Notes System.md",
     "04 - Permanent/00 - Permanent Map (202501181836).md",
     "01 - Projects/Latex mathematics.md",
-    "FieldNotes",
     "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md",
     "ED-202501272147.excalidraw.md",
     "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
@@ -287,19 +321,10 @@
     "Latex Snippet 202501260153.md",
     "05 - Archives/00 - Archives Map (202501181835).md",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
-    "01 - Projects/00 - Projects Map (202501181840).md",
     "04 - Permanent/01 - Programming Languages/08 - Latex",
-    "01 - Projects/Rust.md",
-    "02 - Areas/00 - Areas Map (202501181839).md",
-    "02 - Areas/Rust.md",
-    "03 - Resources/00 - Resources Map (202501181840).md",
     "04 - Permanent/01 - Programming Languages/07 - Rust",
     "04 - Permanent/01 - Programming Languages/06 - BrainFuck",
     "04 - Permanent/01 - Programming Languages/05 - Python",
-    "04 - Permanent/01 - Programming Languages/04 - C++++",
-    "04 - Permanent/01 - Programming Languages/03 - C++",
-    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
-    "02 - Areas/2D Art/Body Structures (male).md",
     "03 - Resources/Untitled.canvas"
   ]
 }
