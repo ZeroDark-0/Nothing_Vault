@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Discord Bot",
+      "path": "01 - Projects/Discord Bot/Discord Bot.md"
+    },
+    {
       "basename": "How Discord Bot work- (202501292056)",
       "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
     },
@@ -9,12 +17,12 @@
       "path": "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md"
     },
     {
-      "basename": "Discord Bot",
-      "path": "01 - Projects/Discord Bot/Discord Bot.md"
-    },
-    {
       "basename": "Discord bot TOS- (202501291937)",
       "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
+    },
+    {
+      "basename": "Blender shortcut (202501121407)",
+      "path": "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md"
     },
     {
       "basename": "Leetcode 463.excalidraw",
@@ -43,10 +51,6 @@
     {
       "basename": "PBR Videos - (202501221912)",
       "path": "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md"
-    },
-    {
-      "basename": "Blender shortcut (202501121407)",
-      "path": "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md"
     },
     {
       "basename": "Blender Course by CrossMind Studio (202501081845)",
@@ -135,10 +139,6 @@
     {
       "basename": "Blender golden rule of 3 (202501091933)",
       "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Latex - 202501260222",

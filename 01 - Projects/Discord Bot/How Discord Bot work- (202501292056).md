@@ -86,10 +86,10 @@ These languages are less common but still work for Discord bots:
 
 For Understanding - 
 
-- **Beginner?** → Python (`discord.py`)
-- **Web developer?** → JavaScript (`discord.js`)
-- **Need high performance?** → Go or Rust
-- **Building a complex bot?** → Java or C#
+- **Beginner** → Python (`discord.py`)
+- **Web developer** → JavaScript (`discord.js`)
+- **Need high performance** → Go or Rust
+- **Building a complex bot** → Java or C#
 
 ---
 
