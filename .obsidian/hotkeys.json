@@ -16,5 +16,14 @@
       ],
       "key": "P"
     }
+  ],
+  "inkporter:inkporter": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }
