@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "01 - Projects/Discord Bot/Discord Bot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "Discord Bot"
             }
           }
         ]
@@ -255,6 +255,7 @@
   },
   "active": "5e7478377df0b99c",
   "lastOpenFiles": [
+    "00 - Maps of Content/00 Homepage.md",
     "01 - Projects/Discord Bot/Discord Bot.md",
     "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md",
     "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md",
@@ -281,7 +282,6 @@
     "05 - Archives/Git by Nick White (202501041552).md",
     "05 - Archives/Deleting Dual Boot (202501011016).md",
     "05 - Archives/00 - Archives Map (202501181835).md",
-    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
     "01 - Projects/Discord Bot",
     "99 - Meta/attachments/1-202501010710.png",
     "99 - Meta/attachments/Blender shortcut.png",

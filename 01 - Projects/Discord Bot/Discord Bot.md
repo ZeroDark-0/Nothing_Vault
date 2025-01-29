@@ -43,4 +43,8 @@ How - [[How Discord Bot work- (202501292056)]]
 17. Virtual pet bot 
 18. Virtual lawyer bot 
 ---
-  
+19. RPG Adventure Bot
+20. ***Virtual Pet bot***
+21. Random Acts of Kindness Bot
+---
+## Poll and voting bot and point system where people launch a poll against user where if the voting surpass a threshold it will drop the rating for that user (can manually add ban/mute/ or other things) 
