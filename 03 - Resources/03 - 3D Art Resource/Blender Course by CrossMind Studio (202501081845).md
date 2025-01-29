@@ -3,6 +3,7 @@ date: 2025-01-08T18:45
 tags:
   - "#Blender"
   - resource
+  - Cross_Mind
 ---
 ## <code style="color : aqua">Source -</code> <iframe src="https://youtube.com/playlist?list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp&amp;si=u87SKCf_ZeNC9WyU" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
 

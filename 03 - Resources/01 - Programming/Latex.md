@@ -1,7 +1,7 @@
 ---
 tags:
   - resource
-links:
+  - "#latex"
 ---
 https://castel.dev
 https://quickref.me/latex

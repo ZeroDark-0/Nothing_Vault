@@ -1,180 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Discord bot TOS- (202501291937)",
-      "path": "Discord bot TOS- (202501291937).md"
+      "basename": "How Discord Bot work- (202501292056)",
+      "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
     },
     {
       "basename": "Resource for the discord bot (202501291948)",
-      "path": "Resource for the discord bot (202501291948).md"
+      "path": "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md"
     },
     {
       "basename": "Discord Bot",
-      "path": "01 - Projects/Discord Bot.md"
+      "path": "01 - Projects/Discord Bot/Discord Bot.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "00 - Resources Map (202501181840)",
-      "path": "03 - Resources/00 - Resources Map (202501181840).md"
-    },
-    {
-      "basename": "DSA",
-      "path": "01 - Projects/DSA.md"
-    },
-    {
-      "basename": "2025-01-29",
-      "path": "09 - Periodic/00 - Daily/2025-01-29.md"
-    },
-    {
-      "basename": "1-202501010710",
-      "path": "99 - Meta/attachments/1-202501010710.png"
-    },
-    {
-      "basename": "Blender shortcut",
-      "path": "99 - Meta/attachments/Blender shortcut.png"
+      "basename": "Discord bot TOS- (202501291937)",
+      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
     },
     {
       "basename": "Leetcode 463.excalidraw",
       "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
     },
     {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "00 - Permanent Map (202501181836)",
-      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
-    },
-    {
-      "basename": "Pasted Image 20250129005859_767",
-      "path": "99 - Meta/attachments/Pasted Image 20250129005859_767.png"
-    },
-    {
-      "basename": "Latex - 202501260222",
-      "path": "Latex - 202501260222.md"
-    },
-    {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "DSA Class - (202501071044)",
-      "path": "07 - Others/DSA Class - (202501071044).md"
-    },
-    {
-      "basename": "2025-01-24",
-      "path": "09 - Periodic/00 - Daily/2025-01-24.md"
-    },
-    {
-      "basename": "Omega Notation",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png"
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Body Structures (male).md"
     },
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "Notes System",
-      "path": "06 - Atomic/Notes System.md"
-    },
-    {
-      "basename": "Latex mathematics",
-      "path": "01 - Projects/Latex mathematics.md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "00 - Archives Map (202501181835)",
-      "path": "05 - Archives/00 - Archives Map (202501181835).md"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Rust",
-      "path": "01 - Projects/Rust.md"
-    },
-    {
       "basename": "00 - DSA by iNeuron",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
     },
     {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 3/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Body Structures (male).md"
-    },
-    {
-      "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Discord  (202501121656)",
-      "path": "07 - Others/Discord  (202501121656).md"
-    },
-    {
-      "basename": "Blender golden rule of 3 (202501091933)",
-      "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
-    },
-    {
-      "basename": "Deleting Dual Boot (202501011016)",
-      "path": "05 - Archives/Deleting Dual Boot (202501011016).md"
-    },
-    {
-      "basename": "one indie game",
-      "path": "01 - Projects/one indie game.md"
-    },
-    {
-      "basename": "theta notation",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/theta notation.png"
-    },
-    {
-      "basename": "Live Session Notes- Dynamic Programming",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 37/Live Session Notes- Dynamic Programming.pdf"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
+      "basename": "00 - Resources Map (202501181840)",
+      "path": "03 - Resources/00 - Resources Map (202501181840).md"
     },
     {
       "basename": "Secure Boot YT(202501031505)",
@@ -193,8 +53,152 @@
       "path": "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
     },
     {
-      "basename": "Algo",
-      "path": "99 - Meta/attachments/Algo.pdf"
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
+    },
+    {
+      "basename": "00 - Permanent Map (202501181836)",
+      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
+    },
+    {
+      "basename": "CrossMind Day-5 (202501082018)",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-5 (202501082018).md"
+    },
+    {
+      "basename": "CrossMind Day-4 (202501082017)",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-4 (202501082017).md"
+    },
+    {
+      "basename": "CrossMind Day-3 (202501082016)",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-3 (202501082016).md"
+    },
+    {
+      "basename": "CrossMind Day-2 (202501082015)",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-2 (202501082015).md"
+    },
+    {
+      "basename": "CrossMind Day-1 (202501082014)",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
+    },
+    {
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
+    },
+    {
+      "basename": "Git by Tech With Tim (202501211138)",
+      "path": "05 - Archives/Git by Tech With Tim (202501211138).md"
+    },
+    {
+      "basename": "Git by Nick White (202501041552)",
+      "path": "05 - Archives/Git by Nick White (202501041552).md"
+    },
+    {
+      "basename": "Deleting Dual Boot (202501011016)",
+      "path": "05 - Archives/Deleting Dual Boot (202501011016).md"
+    },
+    {
+      "basename": "00 - Archives Map (202501181835)",
+      "path": "05 - Archives/00 - Archives Map (202501181835).md"
+    },
+    {
+      "basename": "Arch Linux Installation (202501010710)",
+      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
+    },
+    {
+      "basename": "Arch Linux commands (202501011001)",
+      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
+    },
+    {
+      "basename": "Secure Boot (202501010734)",
+      "path": "06 - Atomic/Secure Boot (202501010734).md"
+    },
+    {
+      "basename": "Notes System",
+      "path": "06 - Atomic/Notes System.md"
+    },
+    {
+      "basename": "Indexing Format (202412310036)",
+      "path": "06 - Atomic/Indexing Format (202412310036).md"
+    },
+    {
+      "basename": "DSA Class - (202501071044)",
+      "path": "07 - Others/DSA Class - (202501071044).md"
+    },
+    {
+      "basename": "Discord  (202501121656)",
+      "path": "07 - Others/Discord  (202501121656).md"
+    },
+    {
+      "basename": "Blender golden rule of 3 (202501091933)",
+      "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Latex - 202501260222",
+      "path": "Latex - 202501260222.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "2025-01-24",
+      "path": "09 - Periodic/00 - Daily/2025-01-24.md"
+    },
+    {
+      "basename": "DSA",
+      "path": "01 - Projects/DSA.md"
+    },
+    {
+      "basename": "1-202501010710",
+      "path": "99 - Meta/attachments/1-202501010710.png"
+    },
+    {
+      "basename": "Blender shortcut",
+      "path": "99 - Meta/attachments/Blender shortcut.png"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+    },
+    {
+      "basename": "Pasted Image 20250129005859_767",
+      "path": "99 - Meta/attachments/Pasted Image 20250129005859_767.png"
+    },
+    {
+      "basename": "Introduction to Algorithms (202501071042)",
+      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "Omega Notation",
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Latex mathematics",
+      "path": "01 - Projects/Latex mathematics.md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
     }
   ],
   "omittedPaths": [],

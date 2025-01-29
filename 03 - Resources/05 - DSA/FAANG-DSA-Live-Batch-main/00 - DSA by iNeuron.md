@@ -1,6 +1,7 @@
 ---
 tags:
   - resource
+  - DSA
 links: https://github.com/priya6971/FAANG-DSA-Live-Batch
 ---
 <iframe src="https://github.com/priya6971/FAANG-DSA-Live-Batch" allow="fullscreen" allowfullscreen="" style="height:300%;width:100%; aspect-ratio: 16 / 9; "></iframe>
