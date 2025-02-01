@@ -25,12 +25,14 @@
             "id": "96226e57a055543a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.3"
+                "file": "01 - Projects/Discord Bot/Discord Bot.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "icon": "lucide-file",
+              "title": "Discord Bot"
             }
           }
         ],
@@ -67,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Blender",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,24 +271,24 @@
   },
   "active": "96226e57a055543a",
   "lastOpenFiles": [
+    "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md",
+    "01 - Projects/Discord Bot/Discord Bot.md",
+    "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md",
+    "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md",
+    "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md",
     "00 - Maps of Content/00 Homepage.md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
     "07 - Others/DSA Class - (202501071044).md",
     "01 - Projects/Project for LOR",
-    "01 - Projects/Discord Bot/Discord Bot.md",
     "01 - Projects/DSA.md",
     "Latex - 202501260222.md",
     "README.md",
     "09 - Periodic/00 - Daily/2025-02-28.md",
-    "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md",
-    "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md",
-    "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md",
     "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
     "02 - Areas/2D Art/Body Structures (male).md",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
     "03 - Resources/00 - Resources Map (202501181840).md",
-    "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md",
     "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
     "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md",
     "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",

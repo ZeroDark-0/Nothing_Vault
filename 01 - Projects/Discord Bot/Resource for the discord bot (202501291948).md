@@ -3,9 +3,6 @@ date: 2025-01-29T19:48
 tags:
   - "#discord_bot"
 ---
-Main - [[Discord Bot]]
-how - [[How Discord Bot work- (202501292056)]]
-TOS - [[Discord bot TOS- (202501291937)]]
 
 
 ---

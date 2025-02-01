@@ -3,12 +3,6 @@ date: 2025-01-29T20:56
 tags:
   - "#discord_bot"
 ---
-TOS for the Discord Bot  - [[Discord bot TOS- (202501291937)]]
-
-Resource - [[Resource for the discord bot (202501291948)]]
-
-Main - [[Discord Bot]]
-
 ---
 Mainly languages we can use to make a discord bot are -
 ### <code style = "color:cyan">Languages -</code>

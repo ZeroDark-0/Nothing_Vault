@@ -8,11 +8,6 @@ deadline: ""
 area:
   - - My Areas
 ---
-TOS for the Discord Bot  - [[Discord bot TOS- (202501291937)]]
-
-Resource - [[Resource for the discord bot (202501291948)]]
-
-How - [[How Discord Bot work- (202501292056)]]
 
 
 
