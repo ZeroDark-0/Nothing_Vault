@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Leetcode 463.excalidraw",
+      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+    },
+    {
+      "basename": "Blender golden rule of 3 (202501091933)",
+      "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
+    },
+    {
+      "basename": "DSA Class - (202501071044)",
+      "path": "07 - Others/DSA Class - (202501071044).md"
+    },
+    {
       "basename": "Discord Bot",
       "path": "01 - Projects/Discord Bot/Discord Bot.md"
     },
@@ -19,18 +39,6 @@
     {
       "basename": "Discord bot TOS- (202501291937)",
       "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "Leetcode 463.excalidraw",
-      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
-    },
-    {
-      "basename": "DSA Class - (202501071044)",
-      "path": "07 - Others/DSA Class - (202501071044).md"
     },
     {
       "basename": "DSA",
@@ -153,10 +161,6 @@
       "path": "07 - Others/Discord  (202501121656).md"
     },
     {
-      "basename": "Blender golden rule of 3 (202501091933)",
-      "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
-    },
-    {
       "basename": "2025-01-24",
       "path": "09 - Periodic/00 - Daily/2025-01-24.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Latex mathematics",
