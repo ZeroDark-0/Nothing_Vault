@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Leetcode 463.excalidraw",
+      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+    },
+    {
+      "basename": "DSA Class - (202501071044)",
+      "path": "07 - Others/DSA Class - (202501071044).md"
+    },
+    {
       "basename": "Discord Bot",
       "path": "01 - Projects/Discord Bot/Discord Bot.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "DSA",
+      "path": "01 - Projects/DSA.md"
+    },
+    {
+      "basename": "Latex - 202501260222",
+      "path": "Latex - 202501260222.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "2025-02-28",
+      "path": "09 - Periodic/00 - Daily/2025-02-28.md"
     },
     {
       "basename": "How Discord Bot work- (202501292056)",
@@ -23,10 +47,6 @@
     {
       "basename": "Blender shortcut (202501121407)",
       "path": "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md"
-    },
-    {
-      "basename": "Leetcode 463.excalidraw",
-      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
     },
     {
       "basename": "Body Structures (male)",
@@ -129,10 +149,6 @@
       "path": "06 - Atomic/Indexing Format (202412310036).md"
     },
     {
-      "basename": "DSA Class - (202501071044)",
-      "path": "07 - Others/DSA Class - (202501071044).md"
-    },
-    {
       "basename": "Discord  (202501121656)",
       "path": "07 - Others/Discord  (202501121656).md"
     },
@@ -141,20 +157,8 @@
       "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
     },
     {
-      "basename": "Latex - 202501260222",
-      "path": "Latex - 202501260222.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "2025-01-24",
       "path": "09 - Periodic/00 - Daily/2025-01-24.md"
-    },
-    {
-      "basename": "DSA",
-      "path": "01 - Projects/DSA.md"
     },
     {
       "basename": "1-202501010710",
@@ -195,10 +199,6 @@
     {
       "basename": "Latex mathematics",
       "path": "01 - Projects/Latex mathematics.md"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
     }
   ],
   "omittedPaths": [],

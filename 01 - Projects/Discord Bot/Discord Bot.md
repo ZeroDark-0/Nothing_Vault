@@ -4,7 +4,7 @@ tags:
   - project
   - discord_bot
 links: https://discord.com/developers/applications
-deadline: 2025-02-28
+deadline: ""
 area:
   - - My Areas
 ---
@@ -305,3 +305,12 @@ def start_vote(user):
 ---
 
 This ensures that **inactive users** (who haven’t participated in any messages) won’t be subject to the point system or voting, making it fair and preventing abuse of the system for users who are not engaging in the community.
+
+
+--- 
+## other idea
+
+1. event manager bot (give points to the user on chats, mini games, vc time, etc set by the mods and you can redeem those point and get tags or other permission)
+2. code debuffer  bot
+3. Anonymous Confession Bot (as a fun bot) - true and dare/ 
+4. quiz bot for coding 
