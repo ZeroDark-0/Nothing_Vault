@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-01-24",
+      "path": "09 - Periodic/00 - Daily/2025-01-24.md"
+    },
+    {
+      "basename": "2024-12-29",
+      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "2025-02-28",
-      "path": "09 - Periodic/00 - Daily/2025-02-28.md"
     },
     {
       "basename": "Blender shortcut (202501121407)",
@@ -161,10 +165,6 @@
       "path": "07 - Others/Discord  (202501121656).md"
     },
     {
-      "basename": "2025-01-24",
-      "path": "09 - Periodic/00 - Daily/2025-01-24.md"
-    },
-    {
       "basename": "1-202501010710",
       "path": "99 - Meta/attachments/1-202501010710.png"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png"
-    },
-    {
-      "basename": "Latex mathematics",
-      "path": "01 - Projects/Latex mathematics.md"
     }
   ],
   "omittedPaths": [],

@@ -15,7 +15,7 @@
     "enabled": true
   },
   "monthly": {
-    "format": "",
+    "format": "YYYY-MM",
     "template": "99 - Meta/00 - Templates/(Periodic) Monthly Template.md",
     "folder": "09 - Periodic/02 - Monthly",
     "enabled": true
