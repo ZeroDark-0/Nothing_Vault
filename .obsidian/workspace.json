@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37ed9707624d2f0a",
+        "id": "e41b1d3185d1e09a",
         "type": "tabs",
         "children": [
           {
-            "id": "04cbab0ab9332d89",
+            "id": "fde86286820e6c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Periodic/00 - Daily/2025-01-24.md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-24"
+              "title": "00 Homepage"
             }
           }
         ]
@@ -254,12 +254,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "04cbab0ab9332d89",
+  "active": "fde86286820e6c89",
   "lastOpenFiles": [
+    "00 - Maps of Content/00 Homepage.md",
     "09 - Periodic/00 - Daily/2024-12-29.md",
     "09 - Periodic/00 - Daily/2025-01-24.md",
     "09 - Periodic/00 - Daily/2025-02-28.md",
-    "00 - Maps of Content/00 Homepage.md",
     "00 - Maps of Content/01 Map.md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
     "07 - Others/Blender golden rule of 3 (202501091933).md",
