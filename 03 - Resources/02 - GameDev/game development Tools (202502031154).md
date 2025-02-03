@@ -105,8 +105,61 @@ description: "Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on
 url: "https://www.jetbrains.com/rider/"
 ```
 
-## <code style="color:cyan">1. Communications Tools</code>
-## <code style="color:cyan">1. Communications Tools</code>
+## <code style="color:cyan">6. Scripting Tools</code>
+Photoshop - 
+```embed
+title: "Official Adobe Photoshop - Photo & Design Software | Buy Now"
+image: "https://www.adobe.com/products/media_1ca3665bcb0cc6dc06d39b06ba7e5e047bfb9414f.jpeg?width=1200&format=pjpg&optimize=medium"
+description: "Explore quick new ways to create custom scenes, make complex edits & combine images with the latest generative AI features in Adobe Photoshop."
+url: "https://www.adobe.com/products/photoshop.html"
+```
+
+Gimp - Alternative for Photoshop open source (but not as not as photoshop. Just simple, less extension and lack resources)
+```embed
+title: "GIMP"
+image: "https://www.gimp.org/images/frontpage/wilber-big.png"
+description: "The GNU Image Manipulation Program: The Free and Open Source Image Editor"
+url: "https://www.gimp.org"
+```
+
+---
+## <code style="color:cyan">7. Pixels art</code>
+
+Asprite - Best and in depth software for the pixel art (industry standard)
+```embed
+title: "Aseprite"
+image: "https://www.aseprite.org/assets/images/og-image.png"
+description: "Animated sprite editor & pixel art tool"
+url: "https://www.aseprite.org"
+```
+
+Photoshop can also be used for pixels art
+
+---
+
+## <code style="color:cyan">8. 3D art</code>
+
+Blender - free and open source
+```embed
+title: "blender.org - Home of the Blender project - Free and Open 3D Creation Software"
+image: "https://www.blender.org/wp-content/uploads/2024/11/blender_splash_artwork_43_2K-480x270.webp"
+description: "The Freedom to Create"
+url: "https://www.blender.org"
+```
+
+Maya- (industry standard but costly)
+```embed
+title: "Download Maya | Maya Free Trial | Autodesk"
+image: "https://damassets.autodesk.net/content/dam/autodesk/www/universal-header/primary-nav/iconography-cart-light.svg"
+description: "Download a free 30-day trial of Autodesk Maya, software for 3D modeling, computer animation, visual effects, and 3D rendering for film, TV, and games."
+url: "https://www.autodesk.com/products/maya/free-trial"
+```
+
+
+
+## <code style="color:cyan">7. Pixels art</code>
+## <code style="color:cyan">7. Pixels art</code>
+## <code style="color:cyan">7. Pixels art</code>
 
 ---
 
@@ -120,25 +173,8 @@ url: "https://www.artstation.com"
 
 
 
-2. Asprite - Best and in depth software for the pixel art 
-```embed
-title: "Aseprite"
-image: "https://www.aseprite.org/assets/images/og-image.png"
-description: "Animated sprite editor & pixel art tool"
-url: "https://www.aseprite.org"
-```
 
-
-
-3. Blender - Best open source 3D art development 
-```embed
-title: "blender.org - Home of the Blender project - Free and Open 3D Creation Software"
-image: "https://www.blender.org/wp-content/uploads/2024/11/blender_splash_artwork_43_2K-480x270.webp"
-description: "The Freedom to Create"
-url: "https://www.blender.org"
-```
-
-4. Maya - For high fidelity animation, rigging and modelling
+1. Maya - For high fidelity animation, rigging and modelling
 ```embed
 title: "Autodesk empowers innovators everywhere to make the new possible"
 image: "https://damassets.autodesk.net/content/dam/autodesk/www/universal-header/primary-nav/iconography-cart-light.svg"
@@ -147,7 +183,7 @@ url: "https://www.autodesk.com"
 ```
 
 
-5. Substance 3D - it's a 3D painter owned by adobe 
+2. Substance 3D - it's a 3D painter owned by adobe 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://www.adobe.com/products/substance3d.html" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://www.adobe.com/products/media_1493006c2adba238de471ed68a47f1663e254966c.jpeg?width=1200&format=pjpg&optimize=medium')">
@@ -164,7 +200,7 @@ url: "https://www.autodesk.com"
 	</div>
 </a></div>
 
-6. Armour Paint - Alternative for ==Substance 3D== 
+3. Armour Paint - Alternative for ==Substance 3D== 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://armorpaint.org" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://armorpaint.org/img/x.jpg')">
@@ -181,4 +217,4 @@ url: "https://www.autodesk.com"
 	</div>
 </a></div>
 
-7. 
+4. 
