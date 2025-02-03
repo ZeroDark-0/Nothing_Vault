@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Game development Tools (202502031154)",
-      "path": "03 - Resources/02 - GameDev/Game development Tools (202502031154).md"
+      "basename": "(202502040146)",
+      "path": "(202502040146).md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush (202502031154)",
+      "path": "03 - Resources/02 - GameDev/Game development Tools by Thomas brush (202502031154).md"
     },
     {
       "basename": "00 - Atomic Map (202501181835)",
@@ -195,10 +199,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Omega Notation",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,8 @@
 ---
 date: 2025-02-03T11:54
-tags: []
+tags:
+  - game_dev
+links: https://youtu.be/oafQqMg5hco?si=8p-4OgRXf7bEH_2K
 ---
 ---
 ## <code style="color:cyan">1. Communications Tools</code>
@@ -155,66 +157,89 @@ description: "Download a free 30-day trial of Autodesk Maya, software for 3D mod
 url: "https://www.autodesk.com/products/maya/free-trial"
 ```
 
+---
+## <code style="color:cyan">9. 3D Painting</code>
+
+Substance 3D - 
+```embed
+title: "3D design software - Adobe Substance 3D"
+image: "https://www.adobe.com/products/media_1493006c2adba238de471ed68a47f1663e254966c.jpeg?width=1200&format=pjpg&optimize=medium"
+description: "Adobe Substance 3D brings you an ecosystem of apps that empower you to design 3D. Texture assets and render your scenes intuitively. Try it now!"
+url: "https://www.adobe.com/products/substance3d.html"
+```
+
+Armor Paint - (free, the less mature , less support, less smarter)
+```embed
+title: "ArmorPaint | 3D PBR Texture Painting"
+image: "https://armorpaint.org/img/x.jpg"
+description: "ArmorPaint is a software designed for physically-based texture painting."
+url: "https://armorpaint.org"
+```
+
+---
+## <code style="color:cyan">10. Sound Effect</code>
+
+Audacity - 
+```embed
+title: "Audacity ® | Free Audio editor, recorder, music making and more!"
+image: "https://www.audacityteam.org/_astro/Audacity_Logo.FMlith9s.svg"
+description: "Audacity is the world’s most popular audio editing and recording app. Edit, mix, and enhance your audio tracks with the power of Audacity. Download now!"
+url: "https://www.audacityteam.org"
+```
 
 
-## <code style="color:cyan">7. Pixels art</code>
-## <code style="color:cyan">7. Pixels art</code>
-## <code style="color:cyan">7. Pixels art</code>
+Audition - (way advance)
+```embed
+title: "Audio recording and editing software | Adobe Audition"
+image: "https://www.adobe.com/favicon.ico"
+description: "Mix, edit, and create audio content in Adobe Audition audio recording software with a comprehensive toolset that includes multitrack, waveform, and spectral display."
+url: "https://www.adobe.com/products/audition.html"
+```
+
+---
+## <code style="color:cyan">11. Music Creation</code>
+
+Logic pro - (owns by apple)
+```embed
+title: "Logic Pro for Mac"
+image: "https://www.apple.com/v/logic-pro/m/images/meta/og__by7lv61hviz6.png?202411131403"
+description: "Logic Pro is a complete professional recording studio on the Mac. And it has everything musicians need to go from first note to final master."
+url: "https://www.apple.com/logic-pro/"
+```
+
+FL Studio -
+```embed
+title: "Create Your Best Music | FL Studio"
+image: "https://www.image-line.com/static/assets/og-image.3bf463b.png"
+description: "We’re Image‑Line, the makers of FL Studio – the music production software used by millions every day to create their best music."
+url: "https://www.image-line.com"
+```
 
 ---
 
-Art Station - for uploading your arts whether it 3D or 2D (can help you in your portfolio
+# <code style="color:cyan">And lastly...</code>
+Adobe premiere - 
 ```embed
-title: "ArtStation - Explore"
-image: "https://cdn.artstation.com/assets/community/channels/share-explore.jpg"
-description: "ArtStation is the leading showcase platform for games, film, media & entertainment artists."
-url: "https://www.artstation.com"
+title: "Professional video editing software | Adobe Premiere Pro"
+image: "https://www.adobe.com/products/media_1796c2e41fa01b90627824c6ca7bbc31714bf5f2f.jpeg?width=1200&format=pjpg&optimize=medium"
+description: "Discover Premiere Pro’s professional video editing and post production software. Edit and trim video, add effects, mix audio, animate titles, balance color and more."
+url: "https://www.adobe.com/products/premiere.html"
 ```
 
-
-
-
-1. Maya - For high fidelity animation, rigging and modelling
-```embed
-title: "Autodesk empowers innovators everywhere to make the new possible"
-image: "https://damassets.autodesk.net/content/dam/autodesk/www/universal-header/primary-nav/iconography-cart-light.svg"
-description: "Autodesk is a global leader in design and make technology, with expertise across architecture, engineering, construction, design, manufacturing, and entertainment."
-url: "https://www.autodesk.com"
-```
-
-
-2. Substance 3D - it's a 3D painter owned by adobe 
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.adobe.com/products/substance3d.html" target="_blank">
+and Alternative - Davinci  
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank">
 	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://www.adobe.com/products/media_1493006c2adba238de471ed68a47f1663e254966c.jpeg?width=1200&format=pjpg&optimize=medium')">
+		<div class="rich-link-image" style="background-image: url('https://www.blackmagicdesign.com/favicon.ico')">
 	</div>
 	</div>
 	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">3D design software - Adobe Substance 3D</h1>
+		<h1 class="rich-link-card-title">DaVinci Resolve 19 | Blackmagic Design</h1>
 		<p class="rich-link-card-description">
-		Adobe Substance 3D brings you an ecosystem of apps that empower you to design 3D. Texture assets and render your scenes intuitively. Try it now!
+		Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.
 		</p>
 		<p class="rich-link-href">
-		https://www.adobe.com/products/substance3d.html
+		https://www.blackmagicdesign.com/products/davinciresolve
 		</p>
 	</div>
 </a></div>
 
-3. Armour Paint - Alternative for ==Substance 3D== 
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://armorpaint.org" target="_blank">
-	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://armorpaint.org/img/x.jpg')">
-	</div>
-	</div>
-	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">ArmorPaint | 3D PBR Texture Painting</h1>
-		<p class="rich-link-card-description">
-		ArmorPaint is a software designed for physically-based texture painting.
-		</p>
-		<p class="rich-link-href">
-		https://armorpaint.org
-		</p>
-	</div>
-</a></div>
-
-4. 
