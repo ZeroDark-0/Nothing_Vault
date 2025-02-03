@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "game development Tools (202502031154)",
-      "path": "03 - Resources/02 - GameDev/game development Tools (202502031154).md"
+      "basename": "Game development Tools (202502031154)",
+      "path": "03 - Resources/02 - GameDev/Game development Tools (202502031154).md"
+    },
+    {
+      "basename": "00 - Atomic Map (202501181835)",
+      "path": "06 - Atomic/00 - Atomic Map (202501181835).md"
+    },
+    {
+      "basename": "00 - Resources Map (202501181840)",
+      "path": "03 - Resources/00 - Resources Map (202501181840).md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Leetcode 463.excalidraw",
+      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
     },
     {
       "basename": "DSA Class - (202501071044)",
@@ -15,14 +31,6 @@
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "00 - Resources Map (202501181840)",
-      "path": "03 - Resources/00 - Resources Map (202501181840).md"
-    },
-    {
-      "basename": "Leetcode 463.excalidraw",
-      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
     },
     {
       "basename": "README",
@@ -177,10 +185,6 @@
       "path": "99 - Meta/attachments/Blender shortcut.png"
     },
     {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
-    },
-    {
       "basename": "Pasted Image 20250129005859_767",
       "path": "99 - Meta/attachments/Pasted Image 20250129005859_767.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Omega Notation",
       "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/Omega Notation.png"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.png"
     }
   ],
   "omittedPaths": [],
