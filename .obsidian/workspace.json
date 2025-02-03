@@ -11,14 +11,12 @@
             "id": "fde86286820e6c89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
-                "mode": "source",
-                "source": false
+                "file": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "00 Homepage"
+              "icon": "excalidraw-icon",
+              "title": "Leetcode 463.excalidraw"
             }
           }
         ]
@@ -256,14 +254,16 @@
   },
   "active": "fde86286820e6c89",
   "lastOpenFiles": [
+    "README.md",
+    "Latex - 202501260222.md",
+    "07 - Others/DSA Class - (202501071044).md",
+    "07 - Others/Blender golden rule of 3 (202501091933).md",
     "00 - Maps of Content/00 Homepage.md",
     "09 - Periodic/00 - Daily/2024-12-29.md",
     "09 - Periodic/00 - Daily/2025-01-24.md",
     "09 - Periodic/00 - Daily/2025-02-28.md",
     "00 - Maps of Content/01 Map.md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
-    "07 - Others/Blender golden rule of 3 (202501091933).md",
-    "07 - Others/DSA Class - (202501071044).md",
     "01 - Projects/Discord Bot/Discord Bot.md",
     "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md",
     "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md",
@@ -271,8 +271,6 @@
     "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md",
     "01 - Projects/Project for LOR",
     "01 - Projects/DSA.md",
-    "Latex - 202501260222.md",
-    "README.md",
     "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
     "02 - Areas/2D Art/Body Structures (male).md",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
