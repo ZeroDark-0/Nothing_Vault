@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/02 - GameDev/Some extra tools(202502031154).md",
+                "file": "03 - Resources/02 - GameDev/Tools for game development(202502031154).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some extra tools(202502031154)"
+              "title": "Tools for game development(202502031154)"
+            }
+          },
+          {
+            "id": "fa89bbe54bec6a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/00 Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Homepage"
             }
           }
         ]
@@ -254,14 +268,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48db5e5e042efd58",
+  "active": "3f224be9bfaa8e8d",
   "lastOpenFiles": [
+    "00 - Maps of Content/00 Homepage.md",
+    "03 - Resources/02 - GameDev/Tools for game development(202502031154).md",
     "02 - Areas/Gamedev",
     "07 - Others/DSA Class - (202501071044).md",
-    "03 - Resources/02 - GameDev/Some extra tools(202502031154).md",
     "00 - Maps of Content/01 Map.md",
     "03 - Resources/00 - Resources Map (202501181840).md",
-    "00 - Maps of Content/00 Homepage.md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
     "README.md",
     "Latex - 202501260222.md",
@@ -301,7 +315,6 @@
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
     "04 - Permanent/01 - Programming Languages/08 - Latex",
-    "04 - Permanent/01 - Programming Languages/07 - Rust",
     "03 - Resources/Untitled.canvas"
   ]
 }

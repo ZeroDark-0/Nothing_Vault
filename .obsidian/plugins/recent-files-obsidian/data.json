@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Some extra tools(202502031154)",
-      "path": "03 - Resources/02 - GameDev/Some extra tools(202502031154).md"
+      "basename": "Tools for game development(202502031154)",
+      "path": "03 - Resources/02 - GameDev/Tools for game development(202502031154).md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "DSA Class - (202501071044)",
@@ -15,10 +19,6 @@
     {
       "basename": "00 - Resources Map (202501181840)",
       "path": "03 - Resources/00 - Resources Map (202501181840).md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Leetcode 463.excalidraw",
