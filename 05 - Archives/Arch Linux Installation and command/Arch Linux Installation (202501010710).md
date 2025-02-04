@@ -27,7 +27,7 @@ Installation Steps:-
   7. Reboot and enter BIOS
   8. In BIOS enable USB boot (if have that option)
   9. Go to the Boot option set the boot order as the USB as primary 
-  10. Disable secure boot - [[Secure Boot (202501010734)]]
+  10. Disable secure boot - [[Secure Boot]]
   11. Save the changes 
   12. If it fails to boot it will take you to the boot menu, where select ___Arch Linux install medium (x86_64, x64 UEFI)___ 
   13. And after that a terminal appear expecting input (here mouse functionality is disable)
@@ -93,4 +93,4 @@ Installation Steps:-
 
  ![[suicide-jump.gif]]
 
-# <span style="background-color: red;">and if you lost you whole sanity uninstall Arch</span> --> [[Deleting Dual Boot (202501011016)]]
+# <span style="background-color: red;">and if you lost you whole sanity uninstall Arch</span> --> [[Deleting Dual Boot]]

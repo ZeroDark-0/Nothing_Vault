@@ -1,28 +1,124 @@
 {
   "recentFiles": [
     {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush",
+      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md"
+    },
+    {
+      "basename": "Develop.games by Thor",
+      "path": "08 - Gamedev/GameDev Reources/Develop.games by Thor.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "Blender Course by CrossMind Studio (202501081845)",
+      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
+    },
+    {
+      "basename": "Cross Mind Day-5",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-5.md"
+    },
+    {
+      "basename": "Cross Mind Day-1",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-1.md"
+    },
+    {
+      "basename": "Cross Mind Day-2",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-2.md"
+    },
+    {
+      "basename": "Cross Mind Day-3",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-3.md"
+    },
+    {
+      "basename": "Cross Mind Day-4",
+      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-4.md"
+    },
+    {
+      "basename": "Blender golden rule of 3",
+      "path": "07 - Others/Blender golden rule of 3.md"
+    },
+    {
+      "basename": "DSA Class",
+      "path": "07 - Others/DSA Class.md"
+    },
+    {
+      "basename": "Discord",
+      "path": "07 - Others/Discord.md"
+    },
+    {
+      "basename": "Secure Boot",
+      "path": "06 - Atomic/Secure Boot.md"
     },
     {
       "basename": "Notes System",
       "path": "06 - Atomic/Notes System.md"
     },
     {
-      "basename": "Secure Boot (202501010734)",
-      "path": "06 - Atomic/Secure Boot (202501010734).md"
+      "basename": "Indexing Format",
+      "path": "06 - Atomic/Indexing Format.md"
     },
     {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+      "basename": "Git by Tech With Tim",
+      "path": "05 - Archives/Git by Tech With Tim.md"
+    },
+    {
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
+    },
+    {
+      "basename": "Deleting Dual Boot",
+      "path": "05 - Archives/Deleting Dual Boot.md"
+    },
+    {
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+    },
+    {
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
+    },
+    {
+      "basename": "Rust",
+      "path": "01 - Projects/Rust.md"
+    },
+    {
+      "basename": "Latex mathematics",
+      "path": "01 - Projects/Latex mathematics.md"
+    },
+    {
+      "basename": "DSA",
+      "path": "01 - Projects/DSA.md"
+    },
+    {
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "Portfolio for Gamedev.md"
     },
     {
       "basename": "Latex - 202501260222",
       "path": "Latex - 202501260222.md"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
     },
     {
       "basename": "README",
@@ -33,28 +129,12 @@
       "path": "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md"
     },
     {
-      "basename": "Develop.games by Thor  (202502040146)",
-      "path": "08 - Gamedev/GameDev Reources/Develop.games by Thor  (202502040146).md"
-    },
-    {
       "basename": "Body Structures (male)",
       "path": "02 - Areas/2D Art/Body Structures (male).md"
     },
     {
-      "basename": "Game development Tools by Thomas brush (202502031154)",
-      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush (202502031154).md"
-    },
-    {
       "basename": "Leetcode 463.excalidraw",
       "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
-    },
-    {
-      "basename": "DSA Class - (202501071044)",
-      "path": "07 - Others/DSA Class - (202501071044).md"
-    },
-    {
-      "basename": "Blender golden rule of 3 (202501091933)",
-      "path": "07 - Others/Blender golden rule of 3 (202501091933).md"
     },
     {
       "basename": "2025-01-24",
@@ -85,10 +165,6 @@
       "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
     },
     {
-      "basename": "DSA",
-      "path": "01 - Projects/DSA.md"
-    },
-    {
       "basename": "Blender shortcut (202501121407)",
       "path": "08 - Gamedev/3D Art Resource/Blender shortcut (202501121407).md"
     },
@@ -105,68 +181,12 @@
       "path": "08 - Gamedev/3D Art Resource/PBR Videos - (202501221912).md"
     },
     {
-      "basename": "Blender Course by CrossMind Studio (202501081845)",
-      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "CrossMind Day-5 (202501082018)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-5 (202501082018).md"
-    },
-    {
-      "basename": "CrossMind Day-4 (202501082017)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-4 (202501082017).md"
-    },
-    {
-      "basename": "CrossMind Day-3 (202501082016)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-3 (202501082016).md"
-    },
-    {
-      "basename": "CrossMind Day-2 (202501082015)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-2 (202501082015).md"
-    },
-    {
-      "basename": "CrossMind Day-1 (202501082014)",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/CrossMind Day-1 (202501082014).md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "Git by Tech With Tim (202501211138)",
-      "path": "05 - Archives/Git by Tech With Tim (202501211138).md"
-    },
-    {
-      "basename": "Git by Nick White (202501041552)",
-      "path": "05 - Archives/Git by Nick White (202501041552).md"
-    },
-    {
-      "basename": "Deleting Dual Boot (202501011016)",
-      "path": "05 - Archives/Deleting Dual Boot (202501011016).md"
-    },
-    {
       "basename": "Arch Linux Installation (202501010710)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
     },
     {
       "basename": "Arch Linux commands (202501011001)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
-    },
-    {
-      "basename": "Indexing Format (202412310036)",
-      "path": "06 - Atomic/Indexing Format (202412310036).md"
-    },
-    {
-      "basename": "Discord  (202501121656)",
-      "path": "07 - Others/Discord  (202501121656).md"
     },
     {
       "basename": "1-202501010710",
