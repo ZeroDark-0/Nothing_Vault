@@ -4,35 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "42b9bac7bb207883",
+        "id": "1a24e760540ee6e1",
         "type": "tabs",
         "children": [
           {
-            "id": "65f926a5cfccb811",
+            "id": "9382a6ab9528f91f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/02 - GameDev/Develop.games by Thor  (202502040146).md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Develop.games by Thor  (202502040146)"
+              "title": "01 Map"
             }
           },
           {
-            "id": "20c2ad91f285019c",
+            "id": "e9d9ae5714a6284b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/2D Art/Body Structures (male).md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Body Structures (male)"
+              "title": "00 Homepage"
+            }
+          },
+          {
+            "id": "8308e7a9bd97ea73",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -130,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 311.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/Map.md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Map"
+              "title": "Backlinks for 01 Map"
             }
           },
           {
@@ -165,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09 - Atomic/02 - Operating System/Secure Boot (202501010734).md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Secure Boot (202501010734)"
+              "title": "Outgoing links from 01 Map"
             }
           },
           {
@@ -180,7 +190,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -269,37 +281,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65f926a5cfccb811",
+  "active": "9382a6ab9528f91f",
   "lastOpenFiles": [
-    "02 - Areas/2D Art/Body Structures (male).md",
-    "03 - Resources/02 - GameDev/Develop.games by Thor  (202502040146).md",
-    "00 - Maps of Content/00 Homepage.md",
     "03 - Resources/00 - Resources Map (202501181840).md",
-    "03 - Resources/02 - GameDev/Game development Tools by Thomas brush (202502031154).md",
+    "00 - Maps of Content/01 Map.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "06 - Atomic/Notes System.md",
+    "06 - Atomic/Secure Boot (202501010734).md",
+    "04 - Permanent/00 - Permanent Map (202501181836).md",
+    "05 - Archives/00 - Archives Map (202501181835).md",
+    "07 - Others/00 - Other Map (202501211110).md",
     "06 - Atomic/00 - Atomic Map (202501181835).md",
-    "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
     "02 - Areas/00 - Areas Map (202501181839).md",
+    "02 - Areas/Gamedev/Game dev.md",
+    "Latex - 202501260222.md",
+    "README.md",
+    "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md",
+    "03 - Resources/02 - GameDev/Untitled",
+    "02 - Areas/Gamedev/Game Mathematics By",
+    "08 - Gamedev/GameDev Reources/Develop.games by Thor  (202502040146).md",
+    "02 - Areas/2D Art/Body Structures (male).md",
+    "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush (202502031154).md",
+    "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
     "02 - Areas/Gamedev",
     "07 - Others/DSA Class - (202501071044).md",
-    "00 - Maps of Content/01 Map.md",
-    "README.md",
-    "Latex - 202501260222.md",
     "07 - Others/Blender golden rule of 3 (202501091933).md",
     "09 - Periodic/00 - Daily/2024-12-29.md",
     "09 - Periodic/00 - Daily/2025-01-24.md",
     "09 - Periodic/00 - Daily/2025-02-28.md",
     "01 - Projects/Discord Bot/Discord Bot.md",
-    "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md",
+    "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md",
     "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md",
-    "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md",
-    "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md",
     "01 - Projects/Project for LOR",
-    "01 - Projects/DSA.md",
-    "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md",
-    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
-    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
-    "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md",
-    "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "01 - Projects/Discord Bot",
     "99 - Meta/attachments/1-202501010710.png",
     "99 - Meta/attachments/Blender shortcut.png",
@@ -314,9 +328,7 @@
     "FieldNotes/3-notes-digitize.png",
     "02 - Areas/Leetcode",
     "02 - Areas/DSA",
-    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
-    "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
-    "04 - Permanent/01 - Programming Languages/08 - Latex",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "03 - Resources/Untitled.canvas"
   ]
 }

@@ -82,16 +82,22 @@
         "order": 11
       },
       {
+        "rule": "- Gamedev",
+        "icon": "LiGamepad",
+        "for": "folders",
+        "order": 12
+      },
+      {
         "rule": "- Templates",
         "icon": "BoBxRuler",
         "for": "everything",
-        "order": 12
+        "order": 13
       },
       {
         "rule": "- Others",
         "icon": "LiMoreVertical",
         "for": "folders",
-        "order": 13
+        "order": 14
       }
     ],
     "extraMargin": {

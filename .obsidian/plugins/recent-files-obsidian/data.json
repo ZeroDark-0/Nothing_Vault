@@ -1,52 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Develop.games by Thor  (202502040146)",
-      "path": "03 - Resources/02 - GameDev/Develop.games by Thor  (202502040146).md"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Body Structures (male).md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "00 - Resources Map (202501181840)",
-      "path": "03 - Resources/00 - Resources Map (202501181840).md"
+      "basename": "Notes System",
+      "path": "06 - Atomic/Notes System.md"
     },
     {
-      "basename": "Game development Tools by Thomas brush (202502031154)",
-      "path": "03 - Resources/02 - GameDev/Game development Tools by Thomas brush (202502031154).md"
-    },
-    {
-      "basename": "00 - Atomic Map (202501181835)",
-      "path": "06 - Atomic/00 - Atomic Map (202501181835).md"
-    },
-    {
-      "basename": "Leetcode 463.excalidraw",
-      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+      "basename": "Secure Boot (202501010734)",
+      "path": "06 - Atomic/Secure Boot (202501010734).md"
     },
     {
       "basename": "00 - Areas Map (202501181839)",
       "path": "02 - Areas/00 - Areas Map (202501181839).md"
     },
     {
-      "basename": "DSA Class - (202501071044)",
-      "path": "07 - Others/DSA Class - (202501071044).md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "Latex - 202501260222",
+      "path": "Latex - 202501260222.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Latex - 202501260222",
-      "path": "Latex - 202501260222.md"
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Develop.games by Thor  (202502040146)",
+      "path": "08 - Gamedev/GameDev Reources/Develop.games by Thor  (202502040146).md"
+    },
+    {
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Body Structures (male).md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush (202502031154)",
+      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush (202502031154).md"
+    },
+    {
+      "basename": "Leetcode 463.excalidraw",
+      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+    },
+    {
+      "basename": "DSA Class - (202501071044)",
+      "path": "07 - Others/DSA Class - (202501071044).md"
     },
     {
       "basename": "Blender golden rule of 3 (202501091933)",
@@ -66,7 +70,7 @@
     },
     {
       "basename": "Secure Boot YT(202501031505)",
-      "path": "03 - Resources/04 - Operating System/Secure Boot YT(202501031505).md"
+      "path": "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md"
     },
     {
       "basename": "How Discord Bot work- (202501292056)",
@@ -86,23 +90,23 @@
     },
     {
       "basename": "Blender shortcut (202501121407)",
-      "path": "03 - Resources/03 - 3D Art Resource/Blender shortcut (202501121407).md"
+      "path": "08 - Gamedev/3D Art Resource/Blender shortcut (202501121407).md"
     },
     {
       "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "00 - DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
     },
     {
       "basename": "PBR Videos - (202501221912)",
-      "path": "03 - Resources/03 - 3D Art Resource/PBR Videos - (202501221912).md"
+      "path": "08 - Gamedev/3D Art Resource/PBR Videos - (202501221912).md"
     },
     {
       "basename": "Blender Course by CrossMind Studio (202501081845)",
-      "path": "03 - Resources/03 - 3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
+      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
     },
     {
       "basename": "Modern C++ Programming Cookbook",
@@ -111,10 +115,6 @@
     {
       "basename": "Latex",
       "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "00 - Permanent Map (202501181836)",
-      "path": "04 - Permanent/00 - Permanent Map (202501181836).md"
     },
     {
       "basename": "CrossMind Day-5 (202501082018)",
@@ -153,24 +153,12 @@
       "path": "05 - Archives/Deleting Dual Boot (202501011016).md"
     },
     {
-      "basename": "00 - Archives Map (202501181835)",
-      "path": "05 - Archives/00 - Archives Map (202501181835).md"
-    },
-    {
       "basename": "Arch Linux Installation (202501010710)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
     },
     {
       "basename": "Arch Linux commands (202501011001)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
-    },
-    {
-      "basename": "Secure Boot (202501010734)",
-      "path": "06 - Atomic/Secure Boot (202501010734).md"
-    },
-    {
-      "basename": "Notes System",
-      "path": "06 - Atomic/Notes System.md"
     },
     {
       "basename": "Indexing Format (202412310036)",
@@ -187,18 +175,6 @@
     {
       "basename": "Blender shortcut",
       "path": "99 - Meta/attachments/Blender shortcut.png"
-    },
-    {
-      "basename": "Pasted Image 20250129005859_767",
-      "path": "99 - Meta/attachments/Pasted Image 20250129005859_767.png"
-    },
-    {
-      "basename": "Introduction to Algorithms (202501071042)",
-      "path": "03 - Resources/05 - DSA/Introduction to Algorithms (202501071042).md"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/05 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
     }
   ],
   "omittedPaths": [],
