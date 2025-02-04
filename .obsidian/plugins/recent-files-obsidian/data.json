@@ -5,6 +5,18 @@
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
+      "basename": "PBR Videos",
+      "path": "08 - Gamedev/3D Art Resource/PBR Videos.md"
+    },
+    {
+      "basename": "Blender Course by CrossMind Studio",
+      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md"
+    },
+    {
+      "basename": "Blender shortcut",
+      "path": "08 - Gamedev/3D Art Resource/Blender shortcut.md"
+    },
+    {
       "basename": "Game development Tools by Thomas brush",
       "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md"
     },
@@ -17,28 +29,24 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Blender Course by CrossMind Studio (202501081845)",
-      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio (202501081845).md"
-    },
-    {
       "basename": "Cross Mind Day-5",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-5.md"
+      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-5.md"
     },
     {
       "basename": "Cross Mind Day-1",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-1.md"
+      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-1.md"
     },
     {
       "basename": "Cross Mind Day-2",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-2.md"
+      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-2.md"
     },
     {
       "basename": "Cross Mind Day-3",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-3.md"
+      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-3.md"
     },
     {
       "basename": "Cross Mind Day-4",
-      "path": "04 - Permanent/02 - 3D Arts/CrossMind/Cross Mind Day-4.md"
+      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-4.md"
     },
     {
       "basename": "Blender golden rule of 3",
@@ -165,20 +173,12 @@
       "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
     },
     {
-      "basename": "Blender shortcut (202501121407)",
-      "path": "08 - Gamedev/3D Art Resource/Blender shortcut (202501121407).md"
-    },
-    {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "00 - DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
-    },
-    {
-      "basename": "PBR Videos - (202501221912)",
-      "path": "08 - Gamedev/3D Art Resource/PBR Videos - (202501221912).md"
     },
     {
       "basename": "Arch Linux Installation (202501010710)",

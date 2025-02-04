@@ -79,17 +79,7 @@ SORT file.name ASC
     8. Latex
 
 ---
- + 4.2 3D Arts
-    1. Cross Mind
-        [[Cross Mind Day-1]]
-        [[Cross Mind Day-2]]
-        [[Cross Mind Day-3]]
-        [[Cross Mind Day-4]]
-        [[Cross Mind Day-5]]
-        
-    2. 
----
- + 4.3 
+ + 4.2 
    
 
 
@@ -138,6 +128,11 @@ SORT file.name ASC
 # <code style="color:#ee6748">8. Gamedev</code>
 
   - 3D Art Resources
+    1. [[Blender Course by CrossMind Studio]]
+    2. [[Blender shortcut]]
+    3. [[PBR Videos]]
+    4. 
+       
   - Game Dev Resource
      [[Develop.games by Thor]]
      [[Game development Tools by Thomas brush]]
