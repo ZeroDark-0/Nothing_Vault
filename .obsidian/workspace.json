@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/01 Map.md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 Map"
+              "title": "Backlinks for 00 Homepage"
             }
           },
           {
@@ -175,12 +176,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps of Content/01 Map.md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01 Map"
+              "title": "Outgoing links from 00 Homepage"
             }
           },
           {
@@ -281,10 +282,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9382a6ab9528f91f",
+  "active": "e9d9ae5714a6284b",
   "lastOpenFiles": [
-    "03 - Resources/00 - Resources Map (202501181840).md",
     "00 - Maps of Content/01 Map.md",
+    "03 - Resources/00 - Resources Map (202501181840).md",
     "00 - Maps of Content/00 Homepage.md",
     "06 - Atomic/Notes System.md",
     "06 - Atomic/Secure Boot (202501010734).md",
