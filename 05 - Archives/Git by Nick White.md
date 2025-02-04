@@ -3,6 +3,14 @@ date: 2025-01-04T15:52
 tags:
   - "#git"
 ---
+```embed
+title: "Git Tutorial For Dummies"
+image: "https://i.ytimg.com/vi/mJ-qvsxPHpY/maxresdefault.jpg"
+description: "The Best Place To Continue Learning Git / Github - https://bit.ly/3MFZLIZJoin my free exclusive community built to empower programmers! - https://www.skool.c…"
+url: "https://youtu.be/mJ-qvsxPHpY"
+```
+
+
 ### <code style="color : aqua">Source -</code> <iframe title="Git Tutorial For Dummies" src="https://www.youtube.com/embed/mJ-qvsxPHpY?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;"></iframe>
 
 ![[RGB Strip.gif]]
