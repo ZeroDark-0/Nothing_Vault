@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Multiplayer networking architecture",
+      "path": "01 - Projects/Multiplayer Networking/Multiplayer networking architecture.md"
+    },
+    {
+      "basename": "ED-202502060042.excalidraw",
+      "path": "01 - Projects/Multiplayer Networking/ED-202502060042.excalidraw.md"
+    },
+    {
       "basename": "How it works",
       "path": "01 - Projects/Multiplayer Networking/How it works.md"
     },
@@ -9,16 +17,16 @@
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Software for Game dev",
-      "path": "Software for Game dev.md"
-    },
-    {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
+      "path": "08 - Gamedev/GameDev Reources/Software for Game dev.md"
     },
     {
       "basename": "Portfolio for Gamedev",
@@ -191,14 +199,6 @@
     {
       "basename": "Arch Linux Installation (202501010710)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
-    },
-    {
-      "basename": "Arch Linux commands (202501011001)",
-      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
-    },
-    {
-      "basename": "1-202501010710",
-      "path": "99 - Meta/attachments/1-202501010710.png"
     }
   ],
   "omittedPaths": [],

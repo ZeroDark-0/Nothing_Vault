@@ -42,7 +42,8 @@
   "periodic-notes",
   "obsidian-latex-suite",
   "field-note-digitizer",
-  "editor-width-slider",
   "obsidian-link-embed",
-  "obsidian-rich-links"
+  "obsidian-rich-links",
+  "customjs",
+  "editor-width-slider"
 ]

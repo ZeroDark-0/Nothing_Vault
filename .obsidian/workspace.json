@@ -8,45 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96d3ae1e93a109b9",
+            "id": "ee3534604ef00a38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Archives/Git by Nick White.md",
+                "file": "01 - Projects/Multiplayer Networking/Multiplayer networking architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git by Nick White"
+              "title": "Multiplayer networking architecture"
             }
           },
           {
-            "id": "ddd8881c16f8b9bd",
+            "id": "2ca3b896d2d2f9c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "01 - Projects/Multiplayer Networking/How it works.md",
-                "mode": "source",
-                "source": false
+                "file": "01 - Projects/Multiplayer Networking/ED-202502060042.excalidraw.md"
               },
               "icon": "lucide-file",
-              "title": "How it works"
-            }
-          },
-          {
-            "id": "eefbbb3b5deba6af",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 304.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -279,29 +266,37 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddd8881c16f8b9bd",
+  "active": "ee3534604ef00a38",
   "lastOpenFiles": [
+    "01 - Projects/Multiplayer Networking/ED-202502060042.excalidraw.md",
+    "01 - Projects/Multiplayer Networking/Multiplayer networking architecture.md",
+    "202502060042.md",
+    "ED-202502060033.excalidraw.md",
+    "ED-202502060032.excalidraw.md",
+    "99 - Meta/attachments/3-Multiplayer networking architecture.png",
+    "99 - Meta/attachments/2-Multiplayer networking architecture.png",
+    "99 - Meta/attachments/1-Multiplayer networking architecture.png",
+    "01 - Projects/Multiplayer Networking/How it works.md",
+    "00 - Maps of Content/01 Map.md",
+    "99 - Meta/attachments/11-How it works.png",
+    "05 - Archives/Git by Nick White.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "99 - Meta/attachments/10-How it works.png",
+    "99 - Meta/attachments/9-How it works.png",
+    "99 - Meta/attachments/8-How it works.png",
     "99 - Meta/attachments/7-How it works.png",
     "99 - Meta/attachments/6-How it works.png",
     "99 - Meta/attachments/5-How it works.png",
-    "99 - Meta/attachments/4-How it works.png",
-    "99 - Meta/attachments/3-How it works.png",
-    "99 - Meta/attachments/2-How it works.png",
-    "99 - Meta/attachments/1-How it works.png",
-    "00 - Maps of Content/01 Map.md",
-    "01 - Projects/Multiplayer Networking/How it works.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "Software for Game dev.md",
+    "08 - Gamedev/GameDev Reources/Software for Game dev.md",
     "08 - Gamedev/Untitled",
     "Multiplayer Networking/Untitled.md",
     "01 - Projects/Multiplayer Networking",
-    "05 - Archives/Git by Nick White.md",
     "08 - Gamedev/Untitled.md",
     "08 - Gamedev/Portfolio for Gamedev.md",
-    "99 - Meta/attachments/1-Portfolio for Gamedev.png",
     "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md",
     "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md",
     "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md",
@@ -315,19 +310,12 @@
     "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-1.md",
     "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-2.md",
     "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-3.md",
-    "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-4.md",
-    "07 - Others/Blender golden rule of 3.md",
-    "07 - Others/DSA Class.md",
-    "07 - Others/Discord.md",
     "03 - Resources/02 - GameDev/Untitled",
     "02 - Areas/Gamedev/Game Mathematics By",
     "02 - Areas/Gamedev",
     "01 - Projects/Project for LOR",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "01 - Projects/Discord Bot",
-    "99 - Meta/attachments/1-202501010710.png",
-    "99 - Meta/attachments/Blender shortcut.png",
-    "FieldNotes/4-202501291711.png",
     "FieldNotes",
     "02 - Areas/Leetcode",
     "03 - Resources/Untitled.canvas"

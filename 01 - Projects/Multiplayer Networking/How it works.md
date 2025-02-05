@@ -64,3 +64,28 @@ TCP can be used for smaller platform cuz the random packets delivery but when it
 But the conflict here the order  of the data received using UDP to prevent this we use the buffer system same as when we watch youtube videos (the data that received but not shown to user).
 
 ## <code style="color:red">Client-side Prediction</code>
+![[8-How it works.png]]
+
+![[9-How it works.png]]
+
+Technically the client side prediction means that the client stimulate the action before receiving the data. This help you in the smoother animation or gameplay environment.
+
+![[10-How it works.png]]
+
+This method may not be a prefect solution cuz sometime it crashes like if client predicted the stimulation of the specific point but later server  deliver the action of that specific point mean for wrong prediction making unstable condition meaning player moving back and forth quickly as that position synchronized to the server state to the client prediction state. And this sometime call rubber banding...
+
+## <code style="color:purple">Remote procedure call (RPC) </code>
+
+It allow to invoke the method on server such as adding a message to the chat log or opening a door.
+
+
+## <code style="color:orange">Client Authoritative control</code>
+
+If you want a client to move their own player they need to be wait for their command to send to the server and wait for the confirmation from the server side.
+To change that we use client authoritative model where the client move their character and then send the command to the server and confirm to the other player.
+![[11-How it works.png]]
+
+### This may be ok for the other networking but what about the competitive game
+
+-> All these design pattern are implemented by default networking brain 
+As for Unity game engine most popular implementation are Netcode, Mirror, Photon, and Fishnet...

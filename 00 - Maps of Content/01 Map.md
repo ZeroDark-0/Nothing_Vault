@@ -137,6 +137,7 @@ SORT file.name ASC
      [[Develop.games by Thor]]
      [[Game development Tools by Thomas brush]]
      [[Game Mathematics by Jorge Rodriguez]]
+     [[Software for Game dev]]
   - [[Portfolio for Gamedev]]
   - 
 
