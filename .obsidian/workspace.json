@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "01 - Projects/Multiplayer Networking/How it works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "How it works"
             }
           },
           {
@@ -278,15 +278,27 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ddd8881c16f8b9bd",
   "lastOpenFiles": [
-    "05 - Archives/Git by Nick White.md",
-    "00 - Maps of Content/00 Homepage.md",
+    "99 - Meta/attachments/7-How it works.png",
+    "99 - Meta/attachments/6-How it works.png",
+    "99 - Meta/attachments/5-How it works.png",
+    "99 - Meta/attachments/4-How it works.png",
+    "99 - Meta/attachments/3-How it works.png",
+    "99 - Meta/attachments/2-How it works.png",
+    "99 - Meta/attachments/1-How it works.png",
     "00 - Maps of Content/01 Map.md",
+    "01 - Projects/Multiplayer Networking/How it works.md",
+    "00 - Maps of Content/00 Homepage.md",
     "Software for Game dev.md",
+    "08 - Gamedev/Untitled",
+    "Multiplayer Networking/Untitled.md",
+    "01 - Projects/Multiplayer Networking",
+    "05 - Archives/Git by Nick White.md",
     "08 - Gamedev/Untitled.md",
     "08 - Gamedev/Portfolio for Gamedev.md",
     "99 - Meta/attachments/1-Portfolio for Gamedev.png",
@@ -307,9 +319,6 @@
     "07 - Others/Blender golden rule of 3.md",
     "07 - Others/DSA Class.md",
     "07 - Others/Discord.md",
-    "06 - Atomic/Secure Boot.md",
-    "06 - Atomic/Notes System.md",
-    "06 - Atomic/Indexing Format.md",
     "03 - Resources/02 - GameDev/Untitled",
     "02 - Areas/Gamedev/Game Mathematics By",
     "02 - Areas/Gamedev",
@@ -319,16 +328,8 @@
     "99 - Meta/attachments/1-202501010710.png",
     "99 - Meta/attachments/Blender shortcut.png",
     "FieldNotes/4-202501291711.png",
-    "FieldNotes/3-202501291711.png",
-    "FieldNotes/2-202501291711.png",
-    "99 - Meta/attachments/1-202501291711.png",
-    "99 - Meta/attachments/2-202501291711.png",
-    "FieldNotes/1-202501291711.png",
     "FieldNotes",
-    "FieldNotes/1-notes-digitize.png",
     "02 - Areas/Leetcode",
-    "02 - Areas/DSA",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "03 - Resources/Untitled.canvas"
   ]
 }
