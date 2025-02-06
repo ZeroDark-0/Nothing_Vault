@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "ED-202502062229.excalidraw",
+      "path": "ED-202502062229.excalidraw.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "How it works",
@@ -195,10 +199,6 @@
     {
       "basename": "00 - DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
-    },
-    {
-      "basename": "Arch Linux Installation (202501010710)",
-      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
     }
   ],
   "omittedPaths": [],
