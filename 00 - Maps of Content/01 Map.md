@@ -1,7 +1,6 @@
 ---
 date: 2024-12-29T16:54
 tags:
-  - "#Universal_path_to_Nothingness"
   - Map
 banner: "![[blue ocean.jpg]]"
 banner_y: 0
@@ -127,19 +126,7 @@ SORT file.name ASC
 
 # <code style="color:#ee6748">8. Gamedev</code>
 
-  - 3D Art Resources
-    1. [[Blender Course by CrossMind Studio]]
-    2. [[Blender shortcut]]
-    3. [[PBR Videos]]
-    4. 
-       
-  - Game Dev Resource
-     [[Develop.games by Thor]]
-     [[Game development Tools by Thomas brush]]
-     [[Game Mathematics by Jorge Rodriguez]]
-     [[Software for Game dev]]
-  - [[Portfolio for Gamedev]]
-  - 
+  - [[00 - Gamedev Index]]
 
 ![[2-01 Map.gif]]
 

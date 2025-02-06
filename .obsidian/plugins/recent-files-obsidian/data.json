@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "ED-202502062229.excalidraw",
-      "path": "ED-202502062229.excalidraw.md"
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "DSA",
+      "path": "01 - Projects/DSA.md"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+    },
+    {
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Body Structures (male).md"
     },
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "ED-202502062229.excalidraw",
+      "path": "ED-202502062229.excalidraw.md"
+    },
+    {
       "basename": "How it works",
-      "path": "01 - Projects/Multiplayer Networking/How it works.md"
+      "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
     },
     {
       "basename": "Multiplayer networking architecture by voxel",
-      "path": "01 - Projects/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
+      "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
     },
     {
       "basename": "ED-202502060042.excalidraw",
-      "path": "01 - Projects/Multiplayer Networking/ED-202502060042.excalidraw.md"
+      "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
     },
     {
       "basename": "Git by Nick White",
@@ -31,10 +55,6 @@
     {
       "basename": "Software for Game dev",
       "path": "08 - Gamedev/GameDev Reources/Software for Game dev.md"
-    },
-    {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
     },
     {
       "basename": "Resource for the discord bot (202501291948)",
@@ -129,10 +149,6 @@
       "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     },
     {
-      "basename": "Introduction to Algorithms",
-      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
-    },
-    {
       "basename": "Modern C++ Programming Cookbook",
       "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
     },
@@ -149,14 +165,6 @@
       "path": "01 - Projects/Latex mathematics.md"
     },
     {
-      "basename": "DSA",
-      "path": "01 - Projects/DSA.md"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
       "basename": "Latex - 202501260222",
       "path": "Latex - 202501260222.md"
     },
@@ -171,10 +179,6 @@
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Body Structures (male).md"
     },
     {
       "basename": "Leetcode 463.excalidraw",
@@ -195,10 +199,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "00 - DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
     }
   ],
   "omittedPaths": [],
