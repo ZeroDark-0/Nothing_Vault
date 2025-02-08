@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Gamedev/00 - Gamedev Index.md",
+                "file": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Gamedev Index"
+              "title": "Game development Tools by Thomas brush"
             }
           }
         ]
@@ -257,22 +257,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "43996879200a5f93",
+  "active": "48db5e5e042efd58",
   "lastOpenFiles": [
+    "00 - Maps of Content/00 Homepage.md",
+    "ED-202502062229.excalidraw.md",
+    "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md",
+    "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md",
+    "08 - Gamedev/GameDev Reources/Software for Game dev.md",
+    "08 - Gamedev/Multiplayer Networking/How it works.md",
+    "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md",
+    "08 - Gamedev/Portfolio for Gamedev.md",
+    "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md",
+    "08 - Gamedev/00 - Gamedev Index.md",
     "01 - Projects/DSA.md",
     "03 - Resources/02 - DSA/Introduction to Algorithms.md",
     "02 - Areas/2D Art/Body Structures (male).md",
     "00 - Maps of Content/01 Map.md",
     "00 - Maps of Content/99 Meetings.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "08 - Gamedev/00 - Gamedev Index.md",
-    "08 - Gamedev/Portfolio for Gamedev.md",
     "08 - Gamedev/Untitled.md",
-    "ED-202502062229.excalidraw.md",
     "202502062228.md",
-    "08 - Gamedev/Multiplayer Networking/How it works.md",
-    "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md",
-    "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md",
     "202502060042.md",
     "ED-202502060033.excalidraw.md",
     "ED-202502060032.excalidraw.md",
@@ -287,7 +290,6 @@
     "99 - Meta/attachments/7-How it works.png",
     "99 - Meta/attachments/6-How it works.png",
     "99 - Meta/attachments/5-How it works.png",
-    "08 - Gamedev/GameDev Reources/Software for Game dev.md",
     "08 - Gamedev/Untitled",
     "Multiplayer Networking/Untitled.md",
     "08 - Gamedev/Multiplayer Networking",
@@ -295,8 +297,6 @@
     "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md",
     "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md",
     "01 - Projects/Discord Bot/Discord Bot.md",
-    "08 - Gamedev/3D Art Resource/PBR Videos.md",
-    "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md",
     "03 - Resources/02 - GameDev/Untitled",
     "02 - Areas/Gamedev/Game Mathematics By",
     "02 - Areas/Gamedev",

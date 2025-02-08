@@ -17,6 +17,7 @@ url: "https://discord.com"
 
 
 Alternative for Discord is ***Slack***
+
 ```embed
 title: "AI Work Management & Productivity Tools"
 image: "https://a.slack-edge.com/737c9d1/marketing/img/homepage/revamped-24/unfurl/hp-revamp-unfurl.en-GB.jpg"

@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush",
+      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Software for Game dev",
+      "path": "08 - Gamedev/GameDev Reources/Software for Game dev.md"
+    },
+    {
+      "basename": "How it works",
+      "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
+    },
+    {
+      "basename": "Multiplayer networking architecture by voxel",
+      "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "ED-202502060042.excalidraw",
+      "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
+    },
+    {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
@@ -25,36 +57,8 @@
       "path": "00 - Maps of Content/99 Meetings.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
-    },
-    {
-      "basename": "ED-202502062229.excalidraw",
-      "path": "ED-202502062229.excalidraw.md"
-    },
-    {
-      "basename": "How it works",
-      "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
-    },
-    {
-      "basename": "Multiplayer networking architecture by voxel",
-      "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
-    },
-    {
-      "basename": "ED-202502060042.excalidraw",
-      "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
-    },
-    {
       "basename": "Git by Nick White",
       "path": "05 - Archives/Git by Nick White.md"
-    },
-    {
-      "basename": "Software for Game dev",
-      "path": "08 - Gamedev/GameDev Reources/Software for Game dev.md"
     },
     {
       "basename": "Resource for the discord bot (202501291948)",
@@ -83,10 +87,6 @@
     {
       "basename": "Blender shortcut",
       "path": "08 - Gamedev/3D Art Resource/Blender shortcut.md"
-    },
-    {
-      "basename": "Game development Tools by Thomas brush",
-      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md"
     },
     {
       "basename": "Develop.games by Thor",
@@ -175,10 +175,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "Leetcode 463.excalidraw",
