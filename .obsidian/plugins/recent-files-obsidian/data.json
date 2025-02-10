@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Game development Tools by Thomas brush",
-      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md"
+      "basename": "Competitive Programming",
+      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
+    },
+    {
+      "basename": "1-Competitive Programming",
+      "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "game math",
+      "path": "game math.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush",
+      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md"
     },
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
@@ -47,10 +71,6 @@
     {
       "basename": "Body Structures (male)",
       "path": "02 - Areas/2D Art/Body Structures (male).md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "99 Meetings",
@@ -149,24 +169,12 @@
       "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     },
     {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
       "basename": "Rust",
       "path": "01 - Projects/Rust.md"
     },
     {
       "basename": "Latex mathematics",
       "path": "01 - Projects/Latex mathematics.md"
-    },
-    {
-      "basename": "Latex - 202501260222",
-      "path": "Latex - 202501260222.md"
     },
     {
       "basename": "00 - Areas Map (202501181839)",
@@ -191,10 +199,6 @@
     {
       "basename": "Secure Boot YT(202501031505)",
       "path": "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     }
   ],
   "omittedPaths": [],

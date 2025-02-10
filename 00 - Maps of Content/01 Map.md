@@ -44,6 +44,7 @@ SORT file.name ASC
  + 3.1 Programming 
      - [[Latex]]
      - [[Modern C++ Programming Cookbook]]
+     - [[Competitive Programming]]
      - 
 
 ---
