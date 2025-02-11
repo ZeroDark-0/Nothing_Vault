@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/01 - Programming/Competitive Programming.md",
+                "file": "07 - Others/DSA Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Competitive Programming"
+              "title": "DSA Class"
+            }
+          },
+          {
+            "id": "48b379acfb20034a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/00 Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,15 +272,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cdd2fb9767b6a59e",
+  "active": "48b379acfb20034a",
   "lastOpenFiles": [
+    "07 - Others/DSA Class.md",
+    "03 - Resources/01 - Programming/Competitive Programming.md",
+    "00 - Maps of Content/00 Homepage.md",
     "99 - Meta/attachments/1-Competitive Programming.pdf",
     "00 - Maps of Content/01 Map.md",
-    "03 - Resources/01 - Programming/Competitive Programming.md",
     "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
     "game math.md",
     "03 - Resources/01 - Programming/Latex.md",
-    "00 - Maps of Content/00 Homepage.md",
     "ED-202502082258.excalidraw.md",
     "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md",
     "ED-202502062229.excalidraw.md",

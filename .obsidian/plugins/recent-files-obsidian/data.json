@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "DSA Class",
+      "path": "07 - Others/DSA Class.md"
+    },
+    {
       "basename": "Competitive Programming",
       "path": "03 - Resources/01 - Programming/Competitive Programming.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Latex",
       "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Game development Tools by Thomas brush",
@@ -135,10 +139,6 @@
     {
       "basename": "Blender golden rule of 3",
       "path": "07 - Others/Blender golden rule of 3.md"
-    },
-    {
-      "basename": "DSA Class",
-      "path": "07 - Others/DSA Class.md"
     },
     {
       "basename": "Discord",
