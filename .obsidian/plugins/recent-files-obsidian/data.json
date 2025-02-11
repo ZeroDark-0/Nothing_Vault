@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Latex mathematics",
+      "path": "01 - Projects/Latex mathematics.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Discord Bot",
+      "path": "01 - Projects/Discord Bot/Discord Bot.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
+    },
+    {
+      "basename": "2024-12-29",
+      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
+    },
+    {
+      "basename": "game math",
+      "path": "game math.md"
+    },
+    {
+      "basename": "Discord bot TOS- (202501291937)",
+      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
+    },
+    {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
@@ -17,20 +49,8 @@
       "path": "08 - Gamedev/Portfolio for Gamedev.md"
     },
     {
-      "basename": "Discord bot TOS- (202501291937)",
-      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
-    },
-    {
-      "basename": "Discord Bot",
-      "path": "01 - Projects/Discord Bot/Discord Bot.md"
-    },
-    {
       "basename": "DSA Class",
       "path": "07 - Others/DSA Class.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Competitive Programming",
@@ -41,20 +61,8 @@
       "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
       "basename": "Modern C++ Programming Cookbook",
       "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "game math",
-      "path": "game math.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "03 - Resources/01 - Programming/Latex.md"
     },
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
@@ -173,10 +181,6 @@
       "path": "01 - Projects/Rust.md"
     },
     {
-      "basename": "Latex mathematics",
-      "path": "01 - Projects/Latex mathematics.md"
-    },
-    {
       "basename": "00 - Areas Map (202501181839)",
       "path": "02 - Areas/00 - Areas Map (202501181839).md"
     },
@@ -187,14 +191,6 @@
     {
       "basename": "Leetcode 463.excalidraw",
       "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
-    },
-    {
-      "basename": "2025-01-24",
-      "path": "09 - Periodic/00 - Daily/2025-01-24.md"
-    },
-    {
-      "basename": "2024-12-29",
-      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
     }
   ],
   "omittedPaths": [],

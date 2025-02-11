@@ -8,7 +8,9 @@ deadline: ""
 area:
   - - My Areas
 ---
-
+[[Discord bot TOS- (202501291937)]]
+[[How Discord Bot work- (202501292056)]]
+[[resour
 
 
 ### Projects -- 
