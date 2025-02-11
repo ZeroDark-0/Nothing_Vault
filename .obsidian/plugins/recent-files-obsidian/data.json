@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush",
+      "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
+    },
+    {
+      "basename": "How Discord Bot work- (202501292056)",
+      "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "Discord bot TOS- (202501291937)",
+      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
+    },
+    {
+      "basename": "Discord Bot",
+      "path": "01 - Projects/Discord Bot/Discord Bot.md"
     },
     {
       "basename": "DSA Class",
       "path": "07 - Others/DSA Class.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Competitive Programming",
@@ -33,16 +57,12 @@
       "path": "03 - Resources/01 - Programming/Latex.md"
     },
     {
-      "basename": "Game development Tools by Thomas brush",
-      "path": "08 - Gamedev/GameDev Reources/Game development Tools by Thomas brush.md"
-    },
-    {
       "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/GameDev Reources/Game Mathematics by Jorge Rodriguez.md"
+      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "Software for Game dev",
-      "path": "08 - Gamedev/GameDev Reources/Software for Game dev.md"
+      "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
     },
     {
       "basename": "How it works",
@@ -53,16 +73,8 @@
       "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
     },
     {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
-    },
-    {
       "basename": "ED-202502060042.excalidraw",
       "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "DSA",
@@ -89,18 +101,6 @@
       "path": "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md"
     },
     {
-      "basename": "How Discord Bot work- (202501292056)",
-      "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
-    },
-    {
-      "basename": "Discord bot TOS- (202501291937)",
-      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
-    },
-    {
-      "basename": "Discord Bot",
-      "path": "01 - Projects/Discord Bot/Discord Bot.md"
-    },
-    {
       "basename": "PBR Videos",
       "path": "08 - Gamedev/3D Art Resource/PBR Videos.md"
     },
@@ -114,7 +114,7 @@
     },
     {
       "basename": "Develop.games by Thor",
-      "path": "08 - Gamedev/GameDev Reources/Develop.games by Thor.md"
+      "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
     },
     {
       "basename": "Cross Mind Day-5",
@@ -195,10 +195,6 @@
     {
       "basename": "2024-12-29",
       "path": "09 - Periodic/00 - Daily/2024-12-29.md"
-    },
-    {
-      "basename": "Secure Boot YT(202501031505)",
-      "path": "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md"
     }
   ],
   "omittedPaths": [],
