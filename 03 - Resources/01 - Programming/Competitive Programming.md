@@ -2,6 +2,8 @@
 date: 2025-02-10T22:19
 tags:
 ---
+
+
 ```embed
 title: "How to start Competitive Programming? For beginners!"
 image: "https://i.ytimg.com/vi/xAeiXy8-9Y8/maxresdefault.jpg"
