@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
+      "basename": "game math",
+      "path": "game math.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "Competitive Programming",
@@ -35,10 +39,6 @@
     {
       "basename": "2024-12-29",
       "path": "09 - Periodic/00 - Daily/2024-12-29.md"
-    },
-    {
-      "basename": "game math",
-      "path": "game math.md"
     },
     {
       "basename": "Discord bot TOS- (202501291937)",

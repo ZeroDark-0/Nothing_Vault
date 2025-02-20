@@ -4,4 +4,3 @@ tags:
 cssclasses: []
 ---
 quaternion , octonions,sedenions
- 
