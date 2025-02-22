@@ -36,6 +36,21 @@ tags: []
 + [[Software for Game dev]]
 + 
 
+
+---
+
+## <code style="color:cyan">Programming</code>
+
++ [[C++ Map]]
++ 
+  
+---
+
+## <code style="color:cyan">Other</code>
+
++ [[Portfolio for Gamedev]]
++ 
+
 ---
 
 ## <code style="color:cyan">Multiplayer Networking</code>
@@ -43,11 +58,4 @@ tags: []
 + [[ED-202502060042.excalidraw]]
 + [[How it works]]
 + [[Multiplayer networking architecture by voxel]]
-+ 
-
----
-
-## <code style="color:cyan">Other</code>
-
-+ [[Portfolio for Gamedev]]
 + 

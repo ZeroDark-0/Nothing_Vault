@@ -7,6 +7,7 @@ banner_y: 0
 cssclasses:
   - center-images
 ---
+
 ![[Miku's eyes.gif]]
 
 ---

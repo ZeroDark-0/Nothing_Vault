@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Multiplayer Game",
-      "path": "01 - Projects/Multiplayer Game.md"
-    },
-    {
-      "basename": "2025-02-22",
-      "path": "09 - Periodic/00 - Daily/2025-02-22.md"
-    },
-    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "C++ Map",
+      "path": "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md"
     },
     {
       "basename": "Obsidian theme Plugin (can add custom themes)",
@@ -19,6 +19,14 @@
     {
       "basename": "game math",
       "path": "game math.md"
+    },
+    {
+      "basename": "Multiplayer Game",
+      "path": "01 - Projects/Multiplayer Game.md"
+    },
+    {
+      "basename": "2025-02-22",
+      "path": "09 - Periodic/00 - Daily/2025-02-22.md"
     },
     {
       "basename": "Latex mathematics",
@@ -35,10 +43,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "Competitive Programming",
@@ -195,10 +199,6 @@
     {
       "basename": "Mark Down",
       "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
     }
   ],
   "omittedPaths": [],
