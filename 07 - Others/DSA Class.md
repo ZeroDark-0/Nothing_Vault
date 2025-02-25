@@ -135,7 +135,8 @@ for(int t = 0; t < n - 1; t++) {
             arr[i + 1] = temp;
         }
     }
-}```
+}
+```
 
 Here, the time complexity will - 
 Worst - n^2

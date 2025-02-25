@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "DSA Class",
       "path": "07 - Others/DSA Class.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 - Gamedev Index",
@@ -123,10 +127,6 @@
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
     },
     {
       "basename": "Resource for the discord bot (202501291948)",
