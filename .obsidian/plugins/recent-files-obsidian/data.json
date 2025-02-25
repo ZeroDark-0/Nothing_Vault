@@ -5,6 +5,14 @@
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
+      "basename": "DSA Class",
+      "path": "07 - Others/DSA Class.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Rust",
       "path": "01 - Projects/Rust.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "README",
@@ -79,10 +83,6 @@
     {
       "basename": "Portfolio for Gamedev",
       "path": "08 - Gamedev/Portfolio for Gamedev.md"
-    },
-    {
-      "basename": "DSA Class",
-      "path": "07 - Others/DSA Class.md"
     },
     {
       "basename": "1-Competitive Programming",
