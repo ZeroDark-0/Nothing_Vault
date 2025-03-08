@@ -3,6 +3,7 @@ tags:
   - resource
   - "#latex"
 ---
+
 ```embed
 title: "Home"
 image: "https://castel.dev/static/profile-pic-faaf8ef3fa4784fa3df79acaf9a2a430.jpg"

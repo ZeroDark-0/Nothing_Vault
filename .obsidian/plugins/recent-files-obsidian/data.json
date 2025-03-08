@@ -1,24 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "DSA Class",
-      "path": "07 - Others/DSA Class.md"
+      "basename": "endl vs backslash n",
+      "path": "03 - Resources/C++/endl vs backslash n.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "Multiplayer networking architecture by voxel",
+      "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
+    },
+    {
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Body Structures (male).md"
+    },
+    {
+      "basename": "Blender Course by CrossMind Studio",
+      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md"
+    },
+    {
+      "basename": "Deleting Dual Boot",
+      "path": "05 - Archives/Deleting Dual Boot.md"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+    },
+    {
+      "basename": "Multiplayer Game",
+      "path": "01 - Projects/Multiplayer Game.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "game math",
+      "path": "game math.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Notes System",
+      "path": "06 - Atomic/Notes System.md"
     },
     {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "Arch Linux Installation (202501010710)",
+      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
+    },
+    {
+      "basename": "Arch Linux commands (202501011001)",
+      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
+    },
+    {
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
+    },
+    {
+      "basename": "DSA Class",
+      "path": "07 - Others/DSA Class.md"
     },
     {
       "basename": "C++ Map",
@@ -27,14 +87,6 @@
     {
       "basename": "Obsidian theme Plugin (can add custom themes)",
       "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
-    },
-    {
-      "basename": "game math",
-      "path": "game math.md"
-    },
-    {
-      "basename": "Multiplayer Game",
-      "path": "01 - Projects/Multiplayer Game.md"
     },
     {
       "basename": "2025-02-22",
@@ -49,24 +101,12 @@
       "path": "01 - Projects/Rust.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Competitive Programming",
       "path": "03 - Resources/01 - Programming/Competitive Programming.md"
     },
     {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md"
-    },
-    {
       "basename": "Discord Bot",
       "path": "01 - Projects/Discord Bot/Discord Bot.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "03 - Resources/01 - Programming/Latex.md"
     },
     {
       "basename": "2024-12-29",
@@ -85,10 +125,6 @@
       "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
     },
     {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
-    },
-    {
       "basename": "1-Competitive Programming",
       "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
     },
@@ -105,24 +141,12 @@
       "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
     },
     {
-      "basename": "Multiplayer networking architecture by voxel",
-      "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
-    },
-    {
       "basename": "ED-202502060042.excalidraw",
       "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
     },
     {
       "basename": "DSA",
       "path": "01 - Projects/DSA.md"
-    },
-    {
-      "basename": "Introduction to Algorithms",
-      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Body Structures (male).md"
     },
     {
       "basename": "99 Meetings",
@@ -135,10 +159,6 @@
     {
       "basename": "PBR Videos",
       "path": "08 - Gamedev/3D Art Resource/PBR Videos.md"
-    },
-    {
-      "basename": "Blender Course by CrossMind Studio",
-      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md"
     },
     {
       "basename": "Blender shortcut",
@@ -175,30 +195,6 @@
     {
       "basename": "Discord",
       "path": "07 - Others/Discord.md"
-    },
-    {
-      "basename": "Secure Boot",
-      "path": "06 - Atomic/Secure Boot.md"
-    },
-    {
-      "basename": "Notes System",
-      "path": "06 - Atomic/Notes System.md"
-    },
-    {
-      "basename": "Indexing Format",
-      "path": "06 - Atomic/Indexing Format.md"
-    },
-    {
-      "basename": "Git by Tech With Tim",
-      "path": "05 - Archives/Git by Tech With Tim.md"
-    },
-    {
-      "basename": "Deleting Dual Boot",
-      "path": "05 - Archives/Deleting Dual Boot.md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     }
   ],
   "omittedPaths": [],
