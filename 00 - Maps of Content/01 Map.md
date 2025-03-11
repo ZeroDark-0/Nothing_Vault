@@ -105,6 +105,7 @@ SORT file.name ASC
  - [[Deleting Dual Boot]]
  - [[Git by Nick White]]
  - [[Git by Tech With Tim]]
+ - [[Resume or CV making]]
  - 
    
 ![[2-01 Map.gif]]
@@ -127,6 +128,8 @@ SORT file.name ASC
   - [[Blender golden rule of 3]]
   - [[Discord]]
   - [[DSA Class]]
+  - [[game math]]
+  - 
 
 ![[2-01 Map.gif]]
 
@@ -135,6 +138,7 @@ SORT file.name ASC
 # <code style="color:#ee6748">8. Gamedev</code>
 
   - [[00 - Gamedev Index]]
+  - 
 
 ![[2-01 Map.gif]]
 
