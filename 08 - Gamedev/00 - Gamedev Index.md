@@ -1,6 +1,8 @@
 ---
 date: 2025-02-06T23:17
-tags: []
+tags:
+  - Map
+  - game_dev
 ---
 # <code style="color:orange">MAP</code>
 ---
@@ -11,7 +13,6 @@ tags: []
 + [[Blender shortcut]]
 + [[PBR Videos]]
 + 
-
 
 ---
 
@@ -48,6 +49,7 @@ tags: []
 
 ## <code style="color:cyan">Other</code>
 
++ [[Other Game dev related]]
 + [[Portfolio for Gamedev]]
 + 
 

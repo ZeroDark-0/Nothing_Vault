@@ -1,6 +1,7 @@
 ---
 date: 2025-03-08T21:59
-tags: 
+tags:
+  - resource
 cssclasses:
   - center-images
 ---

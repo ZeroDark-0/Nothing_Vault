@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "Leetcode 463.excalidraw",
-      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
-    },
-    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Other Game dev related",
+      "path": "08 - Gamedev/Other Game dev related.md"
     },
     {
-      "basename": "game math",
-      "path": "07 - Others/game math.md"
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "C++ Map",
+      "path": "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "C++++",
+      "path": "03 - Resources/C#/C++++.md"
+    },
+    {
+      "basename": "JeffreySu_Resume",
+      "path": "05 - Archives/JeffreySu_Resume.pdf"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "My Resume",
+      "path": "05 - Archives/My Resume.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Resume or CV making",
@@ -27,6 +51,14 @@
     {
       "basename": "endl vs backslash n",
       "path": "03 - Resources/C++/endl vs backslash n.md"
+    },
+    {
+      "basename": "Leetcode 463.excalidraw",
+      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+    },
+    {
+      "basename": "game math",
+      "path": "07 - Others/game math.md"
     },
     {
       "basename": "Multiplayer networking architecture by voxel",
@@ -61,16 +93,8 @@
       "path": "01 - Projects/Multiplayer Game.md"
     },
     {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
-    },
-    {
       "basename": "Notes System",
       "path": "06 - Atomic/Notes System.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "Arch Linux Installation (202501010710)",
@@ -87,10 +111,6 @@
     {
       "basename": "DSA Class",
       "path": "07 - Others/DSA Class.md"
-    },
-    {
-      "basename": "C++ Map",
-      "path": "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md"
     },
     {
       "basename": "Obsidian theme Plugin (can add custom themes)",
@@ -137,10 +157,6 @@
       "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
     },
     {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
       "basename": "Software for Game dev",
       "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Cross Mind Day-1",
       "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-1.md"
-    },
-    {
-      "basename": "Cross Mind Day-2",
-      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-2.md"
-    },
-    {
-      "basename": "Cross Mind Day-3",
-      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-3.md"
-    },
-    {
-      "basename": "Cross Mind Day-4",
-      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-4.md"
-    },
-    {
-      "basename": "Blender golden rule of 3",
-      "path": "07 - Others/Blender golden rule of 3.md"
     }
   ],
   "omittedPaths": [],

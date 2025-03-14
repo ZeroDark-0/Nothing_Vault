@@ -61,10 +61,15 @@ SORT file.name ASC
      -  [[Secure Boot]]
      - 
 
+---
+
++ 3.4 C#
+     + [[C++++]]
+     + 
 
 ---
 
- + 3.4 C++
+ + 3.5 C++
      + [[endl vs backslash n]]
      + 
 
@@ -105,6 +110,8 @@ SORT file.name ASC
  - [[Deleting Dual Boot]]
  - [[Git by Nick White]]
  - [[Git by Tech With Tim]]
+ - [[My Resume]]
+ - [[JeffreySu_Resume.pdf]]
  - [[Resume or CV making]]
  - 
    
@@ -138,7 +145,6 @@ SORT file.name ASC
 # <code style="color:#ee6748">8. Gamedev</code>
 
   - [[00 - Gamedev Index]]
-  - 
 
 ![[2-01 Map.gif]]
 

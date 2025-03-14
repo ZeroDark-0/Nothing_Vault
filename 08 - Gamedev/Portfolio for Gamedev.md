@@ -1,6 +1,7 @@
 ---
 date: 2025-02-05T00:14
-tags: 
+tags:
+  - game_dev
 link: https://youtu.be/O1OhDbti-mM?si=d0ccx7JP2RmUKqzE
 cssclasses:
   - recolor-images
