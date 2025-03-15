@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Main",
+      "path": "01 - Projects/Main.md"
+    },
+    {
+      "basename": "CREATE YOUR OWN X",
+      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
+    },
+    {
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "JeffreySu_Resume",
       "path": "05 - Archives/JeffreySu_Resume.pdf"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "My Resume",
@@ -187,18 +199,6 @@
     {
       "basename": "Blender shortcut",
       "path": "08 - Gamedev/3D Art Resource/Blender shortcut.md"
-    },
-    {
-      "basename": "Develop.games by Thor",
-      "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
-    },
-    {
-      "basename": "Cross Mind Day-5",
-      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-5.md"
-    },
-    {
-      "basename": "Cross Mind Day-1",
-      "path": "08 - Gamedev/3D Arts Permanent/CrossMind/Cross Mind Day-1.md"
     }
   ],
   "omittedPaths": [],

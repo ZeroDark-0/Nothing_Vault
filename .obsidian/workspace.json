@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "01 Map"
             }
           }
         ]
@@ -259,6 +259,13 @@
   },
   "active": "e265e4d4a603acfe",
   "lastOpenFiles": [
+    "01 - Projects/Main.md",
+    "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md",
+    "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md",
+    "00 - Maps of Content/01 Map.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "10 - OUT OF BRAIN CELLS/Untitled",
+    "10 - OUT OF BRAIN CELLS",
     "08 - Gamedev/Other Game dev related.md",
     "08 - Gamedev/00 - Gamedev Index.md",
     "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md",
@@ -271,9 +278,7 @@
     "08 - Gamedev/Portfolio for Gamedev.md",
     "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md",
     "03 - Resources/C#/C++++.md",
-    "00 - Maps of Content/00 Homepage.md",
     "05 - Archives/JeffreySu_Resume.pdf",
-    "00 - Maps of Content/01 Map.md",
     "05 - Archives/My Resume.md",
     "JEFFREY SU RESUME.md",
     "99 - Meta/attachments/1-JEFFREY SU RESUME.pdf",
@@ -300,11 +305,6 @@
     "03 - Resources/01 - Programming/Modern C++ Programming Cookbook.md",
     "03 - Resources/C++",
     "ED-202503051421.excalidraw.md",
-    "02 - Areas/2D Art/Body Structures (male).md",
-    "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md",
-    "05 - Archives/Deleting Dual Boot.md",
-    "99 - Meta/attachments/1-Competitive Programming.pdf",
-    "08 - Gamedev/Multiplayer Networking",
     "03 - Resources/Untitled.canvas"
   ]
 }

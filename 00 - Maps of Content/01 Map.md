@@ -157,3 +157,14 @@ SORT file.name ASC
   - Monthly
   - Quarterly
   - Yearly
+
+![[2-01 Map.gif]]
+
+![[2-01 Map.gif]]
+
+
+## <span style = "color:#75ea43">10. OUT OF BRAIN CELLS</span>
+
+
++ [[CREATE YOUR OWN X]]
++ 
