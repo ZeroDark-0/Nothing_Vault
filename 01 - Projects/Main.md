@@ -9,9 +9,10 @@ area:
 ---
 
 - [ ] Rust
-- [ ] Multi player implementation
+- [ ] Multi-player implementation
 - [ ] 3D by cross mind
 - [ ] python 
 - [ ] theme plugin for obsidian
 - [ ] discord mod for notification
 - [ ] style your own X
+- [ ] latex

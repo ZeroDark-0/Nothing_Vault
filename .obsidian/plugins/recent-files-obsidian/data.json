@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
+    },
+    {
+      "basename": "Git by Tech With Tim",
+      "path": "05 - Archives/Git by Tech With Tim.md"
+    },
+    {
+      "basename": "ED-202503161242.excalidraw",
+      "path": "ED-202503161242.excalidraw.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Obsidian theme Plugin (can add custom themes)",
+      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
     },
     {
       "basename": "Main",
       "path": "01 - Projects/Main.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "CREATE YOUR OWN X",
@@ -15,10 +35,6 @@
     {
       "basename": "Mark Down",
       "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Other Game dev related",
@@ -117,24 +133,12 @@
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
     },
     {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
-    },
-    {
       "basename": "DSA Class",
       "path": "07 - Others/DSA Class.md"
     },
     {
-      "basename": "Obsidian theme Plugin (can add custom themes)",
-      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
-    },
-    {
       "basename": "2025-02-22",
       "path": "09 - Periodic/00 - Daily/2025-02-22.md"
-    },
-    {
-      "basename": "Latex mathematics",
-      "path": "01 - Projects/Latex mathematics.md"
     },
     {
       "basename": "Rust",
@@ -195,10 +199,6 @@
     {
       "basename": "PBR Videos",
       "path": "08 - Gamedev/3D Art Resource/PBR Videos.md"
-    },
-    {
-      "basename": "Blender shortcut",
-      "path": "08 - Gamedev/3D Art Resource/Blender shortcut.md"
     }
   ],
   "omittedPaths": [],
