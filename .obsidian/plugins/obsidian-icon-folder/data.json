@@ -98,6 +98,12 @@
         "icon": "LiMoreVertical",
         "for": "folders",
         "order": 14
+      },
+      {
+        "rule": "- OUT OF BRAIN CELL",
+        "icon": "LiCircleEllipsis",
+        "for": "everything",
+        "order": 15
       }
     ],
     "extraMargin": {

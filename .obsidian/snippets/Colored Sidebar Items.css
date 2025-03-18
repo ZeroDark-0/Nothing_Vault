@@ -33,6 +33,8 @@ customization. Just swap out the color variable names in the prefix groups.
   --hot-red: #e3365e;            /* Default Prefix: 07 */
   --cool-gray: #515768;          /* Default Prefix: 99 */
   --light-green: #75ea43;        /* Deafult Prefix: 10 */
+  --deep-blue: #160695;           /* Default prefix: 11 */
+  --white: #ffffff;
 
   --default-text-color: #d0d0d0;
   --highlight: #fff;
@@ -720,6 +722,52 @@ these to suit your own folder structure and vault theme!
       var(--light-green) var(--active-contrast-amount),
       transparent);
 }
+
+/* ------------------------------- X Prefix -------------------------------- */
+
+.nav-folder-title[data-path^="X"] {
+  color: var(--white);
+  --nav-item-color-hover: color-mix(in srgb,
+      var(--white) var(--fg-contrast-amount),
+      var(--contrast-color));
+  --nav-item-background-hover: color-mix(in srgb,
+      var(--white) var(--bg-contrast-amount),
+      transparent);
+  --background-modifier-border-focus: color-mix(in srgb,
+      var(--white) 40%,
+      transparent);
+  --nav-collapse-icon-color: color-mix(in srgb,
+      var(--white) 60%,
+      transparent);
+}
+
+.nav-folder-title[data-path^="X"]:hover {
+  --nav-collapse-icon-color: color-mix(in srgb,
+      var(--white) 60%,
+      var(--contrast-color));
+}
+
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="X"]) {
+  --nav-indentation-guide-color: color-mix(in srgb,
+      var(--white) var(--medium-contrast-amount),
+      transparent);
+}
+
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="X"]) .nav-file-title {
+  color: color-mix(in srgb,
+      var(--white) var(--medium-contrast-amount),
+      var(--default-text-color));
+  --nav-item-background-hover: color-mix(in srgb,
+      color-mix(in srgb, var(--white) 50%, var(--highlight)) var(--bg-contrast-amount),
+      transparent);
+  --background-modifier-border-focus: color-mix(in srgb,
+      var(--white) 40%,
+      transparent);
+  --nav-item-background-active: color-mix(in srgb,
+      var(--white) var(--active-contrast-amount),
+      transparent);
+}
+
 
 /* ------------------------------- 98 Prefix -------------------------------- */
 .nav-folder-title[data-path^="98"] {
