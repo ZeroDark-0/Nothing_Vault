@@ -31,7 +31,10 @@ url: "https://youtu.be/wxznTygnRfQ?si=24XyaD8K6UTRdheM"
 #18 ([01:18:28](https://www.youtube.com/watch?v=wxznTygnRfQ&t=4708s)) number guessing game 🔢 
 #19 ([01:27:08](https://www.youtube.com/watch?v=wxznTygnRfQ&t=5228s)) rock-paper-scissors game 🗿 
 #20 ([01:38:52](https://www.youtube.com/watch?v=wxznTygnRfQ&t=5932s)) calculator program 🖩 
-#21 ([01:46:53](https://www.youtube.com/watch?v=wxznTygnRfQ&t=6413s)) arrays 🚗 #22 ([01:52:50](https://www.youtube.com/watch?v=wxznTygnRfQ&t=6770s)) foreach loop ➰ #23 ([01:54:42](https://www.youtube.com/watch?v=wxznTygnRfQ&t=6882s)) methods 📞 #24 ([02:00:37](https://www.youtube.com/watch?v=wxznTygnRfQ&t=7237s)) return keyword ↩️ 
+#21 ([01:46:53](https://www.youtube.com/watch?v=wxznTygnRfQ&t=6413s)) arrays 🚗 
+#22 ([01:52:50](https://www.youtube.com/watch?v=wxznTygnRfQ&t=6770s)) foreach loop ➰ 
+#23 ([01:54:42](https://www.youtube.com/watch?v=wxznTygnRfQ&t=6882s)) methods 📞 
+#24 ([02:00:37](https://www.youtube.com/watch?v=wxznTygnRfQ&t=7237s)) return keyword ↩️ 
 #25 ([02:04:12](https://www.youtube.com/watch?v=wxznTygnRfQ&t=7452s)) method overloading 🤯 
 #26 ([02:05:44](https://www.youtube.com/watch?v=wxznTygnRfQ&t=7544s)) params keyword ⚙️ 
 #27 ([02:08:52](https://www.youtube.com/watch?v=wxznTygnRfQ&t=7732s)) exception handling ⚠️ 
@@ -51,8 +54,10 @@ url: "https://youtu.be/wxznTygnRfQ?si=24XyaD8K6UTRdheM"
 #41 ([03:09:07](https://www.youtube.com/watch?v=wxznTygnRfQ&t=11347s)) ToString method 💭 
 #42 ([03:12:34](https://www.youtube.com/watch?v=wxznTygnRfQ&t=11554s)) polymorphism 🎭 
 #43 ([03:17:44](https://www.youtube.com/watch?v=wxznTygnRfQ&t=11864s)) interfaces 🐟 
-#44 ([03:23:22](https://www.youtube.com/watch?v=wxznTygnRfQ&t=12202s)) Lists 📃 #45 ([03:30:07](https://www.youtube.com/watch?v=wxznTygnRfQ&t=12607s)) List of objects 🦸‍♂️ 
+#44 ([03:23:22](https://www.youtube.com/watch?v=wxznTygnRfQ&t=12202s)) Lists 📃 
+#45 ([03:30:07](https://www.youtube.com/watch?v=wxznTygnRfQ&t=12607s)) List of objects 🦸‍♂️ 
 #46 ([03:33:35](https://www.youtube.com/watch?v=wxznTygnRfQ&t=12815s)) getters & setters 🔒 
 #47 ([03:37:41](https://www.youtube.com/watch?v=wxznTygnRfQ&t=13061s)) auto implemented properties 🔐 
-#48 ([03:40:26](https://www.youtube.com/watch?v=wxznTygnRfQ&t=13226s)) enums 🪐 #49 ([03:47:33](https://www.youtube.com/watch?v=wxznTygnRfQ&t=13653s)) generics ⁉️ 
+#48 ([03:40:26](https://www.youtube.com/watch?v=wxznTygnRfQ&t=13226s)) enums 🪐 
+#49 ([03:47:33](https://www.youtube.com/watch?v=wxznTygnRfQ&t=13653s)) generics ⁉️ 
 #50 ([03:52:56](https://www.youtube.com/watch?v=wxznTygnRfQ&t=13976s)) multithreading 🧶

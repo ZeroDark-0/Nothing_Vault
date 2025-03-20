@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "packt",
-      "path": "03 - Resources/01 - Programming/packt.md"
-    },
-    {
       "basename": "Obsidian theme Plugin (can add custom themes)",
       "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
+    },
+    {
+      "basename": "Rust",
+      "path": "01 - Projects/Rust.md"
     },
     {
       "basename": "C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
@@ -21,8 +17,32 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "C++++",
-      "path": "03 - Resources/C#/C++++.md"
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
+    },
+    {
+      "basename": "Notes System",
+      "path": "06 - Atomic/Notes System.md"
+    },
+    {
+      "basename": "Indexing Format",
+      "path": "06 - Atomic/Indexing Format.md"
+    },
+    {
+      "basename": "Secure Boot",
+      "path": "06 - Atomic/Secure Boot.md"
+    },
+    {
+      "basename": "C++++ brocode",
+      "path": "03 - Resources/C#/C++++ brocode.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "packt",
+      "path": "03 - Resources/01 - Programming/packt.md"
     },
     {
       "basename": "Git by Nick White",
@@ -39,10 +59,6 @@
     {
       "basename": "CREATE YOUR OWN X",
       "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     },
     {
       "basename": "Other Game dev related",
@@ -121,10 +137,6 @@
       "path": "01 - Projects/Multiplayer Game.md"
     },
     {
-      "basename": "Notes System",
-      "path": "06 - Atomic/Notes System.md"
-    },
-    {
       "basename": "Arch Linux Installation (202501010710)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
     },
@@ -139,10 +151,6 @@
     {
       "basename": "2025-02-22",
       "path": "09 - Periodic/00 - Daily/2025-02-22.md"
-    },
-    {
-      "basename": "Rust",
-      "path": "01 - Projects/Rust.md"
     },
     {
       "basename": "Competitive Programming",
@@ -191,14 +199,6 @@
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "Resource for the discord bot (202501291948)",
-      "path": "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md"
-    },
-    {
-      "basename": "PBR Videos",
-      "path": "08 - Gamedev/3D Art Resource/PBR Videos.md"
     }
   ],
   "omittedPaths": [],

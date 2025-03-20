@@ -31,6 +31,17 @@ url: "https://help.obsidian.md/themes"
 
 
 ---
+### <span style = "color:violet">Resource</span>
+
+```embed
+title: "How to create a plugin for Obsidian"
+image: "https://i.ytimg.com/vi/XaES2G3PVpg/maxresdefault.jpg"
+description: "In this talk, @phibr0 will show how to create an Obsidian Plugin from start to finish. We will go over how to set everything up, how to add functionality sta…"
+url: "https://youtu.be/XaES2G3PVpg?si=mz-vWZ_kP31cUT1G"
+```
+
+
+---
 
 ### <span style = "color:blue">Manifest.json</span>
 
