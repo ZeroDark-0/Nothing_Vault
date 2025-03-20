@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian theme Plugin (can add custom themes)",
-      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
-    },
-    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "packt",
+      "path": "03 - Resources/01 - Programming/packt.md"
+    },
+    {
+      "basename": "Obsidian theme Plugin (can add custom themes)",
+      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
     },
     {
       "basename": "C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
