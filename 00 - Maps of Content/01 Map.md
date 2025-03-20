@@ -44,7 +44,6 @@ SORT file.name ASC
   
  + 3.1 Programming 
      - [[Latex]]
-     - [[Modern C++ Programming Cookbook]]
      - [[Competitive Programming]]
      - 
 
@@ -64,6 +63,7 @@ SORT file.name ASC
 ---
 
 + 3.4 C#
+     + [[C-sharp 12 and .NET 8 – Modern Cross-Platform Development]]
      + [[C++++]]
      + 
 
@@ -71,7 +71,7 @@ SORT file.name ASC
 
  + 3.5 C++
      + [[endl vs backslash n]]
-     + 
+     + [[Modern C++ Programming Cookbook]]
 
 ![[2-01 Map.gif]]
 
@@ -166,5 +166,5 @@ SORT file.name ASC
 ## <span style = "color:#75ea43">10. OUT OF BRAIN CELLS</span>
 
 
-+ [[CREATE YOUR OWN X]]
-+ 
+  + [[CREATE YOUR OWN X]]
+  + 

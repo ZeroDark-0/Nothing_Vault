@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/01 Map.md",
+                "file": "03 - Resources/C#/C-sharp 12 and .NET 8 – Modern Cross-Platform Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Map"
+              "title": "C-sharp 12 and .NET 8 – Modern Cross-Platform Development"
             }
           },
           {
@@ -36,21 +36,21 @@
             }
           },
           {
-            "id": "b7cfc4ff1260fbcc",
+            "id": "e332631c967c8c3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "01 Map"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,6 +265,7 @@
       "command-palette:Open command palette": true,
       "graph:Open graph view": false,
       "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "obsidian-spaced-repetition:Review flashcards": false,
@@ -282,20 +283,24 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "b7cfc4ff1260fbcc",
+  "active": "90b55394371c3b5e",
   "lastOpenFiles": [
+    "00 - Maps of Content/01 Map.md",
+    "01 - Projects/Obsidian theme Plugin (can add custom themes).md",
+    "03 - Resources/C#/C-sharp 12 and .NET 8 – Modern Cross-Platform Development.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "99 - Meta/attachments/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf",
+    "03 - Resources/C#/C++++.md",
+    "99 - Meta/attachments/1-Untitled.pdf",
+    "ED-202503191407.excalidraw.md",
     "99 - Meta/attachments/1-00 Homepage.jpg",
     "README.md",
-    "00 - Maps of Content/00 Homepage.md",
     "X",
     "11 - games",
     "∅ X",
-    "01 - Projects/Obsidian theme Plugin (can add custom themes).md",
-    "00 - Maps of Content/01 Map.md",
     "ED-202503161242.excalidraw.md",
     "05 - Archives/Git by Nick White.md",
     "05 - Archives/Git by Tech With Tim.md",
@@ -316,24 +321,18 @@
     "99 - Meta/attachments/1-Other Game dev related.png",
     "08 - Gamedev/Portfolio for Gamedev.md",
     "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md",
-    "03 - Resources/C#/C++++.md",
     "05 - Archives/JeffreySu_Resume.pdf",
     "05 - Archives/My Resume.md",
     "JEFFREY SU RESUME.md",
     "99 - Meta/attachments/1-JEFFREY SU RESUME.pdf",
-    "99 - Meta/attachments/2-My Resume.pdf",
-    "99 - Meta/attachments/1-My Resume.pdf",
     "05 - Archives/Resume or CV making.md",
     "05 - Archives/Untitled.md",
     "03 - Resources/C++/endl vs backslash n.md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
-    "07 - Others/game math.md",
-    "resume.md",
     "99 - Meta/attachments/1-Resume or CV making.png",
     "FieldNotes/field-note-20250309-838a4708.png",
     "FieldNotes/field-note-20250309-5ad37ede.png",
     "99 - Meta/attachments/2-endl vs backslash n.png",
-    "99 - Meta/attachments/1-endl vs backslash n.png",
     "03 - Resources/Untitled.canvas"
   ]
 }

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
       "basename": "Obsidian theme Plugin (can add custom themes)",
       "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
     },
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
+      "path": "03 - Resources/C#/C-sharp 12 and .NET 8 – Modern Cross-Platform Development.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "C++++",
+      "path": "03 - Resources/C#/C++++.md"
     },
     {
       "basename": "Git by Nick White",
@@ -51,10 +59,6 @@
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "C++++",
-      "path": "03 - Resources/C#/C++++.md"
     },
     {
       "basename": "JeffreySu_Resume",
