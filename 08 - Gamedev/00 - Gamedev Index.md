@@ -29,6 +29,14 @@ tags:
 
 ---
 
+## <code style="color:cyan">FullTimeGameDev</code>
+
++ [[The Secret to Finishing Your Game]]
++ 
+
+
+---
+
 ## <code style="color:cyan">GameDev Resources</code>
 
 + [[Develop.games by Thor]]
@@ -47,17 +55,17 @@ tags:
   
 ---
 
-## <code style="color:cyan">Other</code>
-
-+ [[Other Game dev related]]
-+ [[Portfolio for Gamedev]]
-+ 
-
----
-
 ## <code style="color:cyan">Multiplayer Networking</code>
 
 + [[ED-202502060042.excalidraw]]
 + [[How it works]]
 + [[Multiplayer networking architecture by voxel]]
++ 
+
+---
+
+## <code style="color:cyan">Other</code>
+
++ [[Other Game dev related]]
++ [[Portfolio for Gamedev]]
 + 

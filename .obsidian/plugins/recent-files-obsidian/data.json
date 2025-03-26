@@ -5,20 +5,40 @@
       "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
     },
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/FullTimeGameDev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "C++ cookbook",
+      "path": "99 - Meta/attachments/C++ cookbook.pdf"
+    },
+    {
+      "basename": "JeffreySu_Resume",
+      "path": "05 - Archives/JeffreySu_Resume.pdf"
+    },
+    {
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
+    },
+    {
       "basename": "Rust",
       "path": "01 - Projects/Rust.md"
     },
     {
       "basename": "C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
       "path": "03 - Resources/C#/C-sharp 12 and .NET 8 – Modern Cross-Platform Development.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
     },
     {
       "basename": "Notes System",
@@ -65,10 +85,6 @@
       "path": "08 - Gamedev/Other Game dev related.md"
     },
     {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
       "basename": "C++ Map",
       "path": "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md"
     },
@@ -79,10 +95,6 @@
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "JeffreySu_Resume",
-      "path": "05 - Archives/JeffreySu_Resume.pdf"
     },
     {
       "basename": "My Resume",
@@ -187,18 +199,6 @@
     {
       "basename": "How it works",
       "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
-    },
-    {
-      "basename": "ED-202502060042.excalidraw",
-      "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
-    },
-    {
-      "basename": "DSA",
-      "path": "01 - Projects/DSA.md"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
     }
   ],
   "omittedPaths": [],
