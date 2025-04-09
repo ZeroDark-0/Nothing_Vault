@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZZZ Character Model by 2AM.md",
+                "file": "08 - Gamedev/00 - Gamedev Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZZZ Character Model by 2AM"
+              "title": "00 - Gamedev Index"
             }
           }
         ],
@@ -272,10 +272,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb6d4af9ed0564c5",
+  "active": "48db5e5e042efd58",
   "lastOpenFiles": [
+    "08 - Gamedev/3D Art Resource/Character Designs/ZZZ Character Model by 2AM.md",
+    "08 - Gamedev/3D Art Resource/Character Designs",
     "00 - Maps of Content/00 Homepage.md",
-    "ZZZ Character Model by 2AM.md",
     "X/Game Sense.md",
     "X/Improve 7X Faster.md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
@@ -301,7 +302,6 @@
     "05 - Archives/Git by Tech With Tim.md",
     "05 - Archives/Git by Nick White.md",
     "05 - Archives/Deleting Dual Boot.md",
-    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "99 - Meta/attachments/1-The Secret to Finishing Your Game.png",
@@ -312,7 +312,6 @@
     "X",
     "11 - games",
     "∅ X",
-    "10 - OUT OF BRAIN CELLS/Untitled",
     "99 - Meta/attachments/5-Other Game dev related.png",
     "99 - Meta/attachments/4-Other Game dev related.png",
     "99 - Meta/attachments/3-Other Game dev related.png",

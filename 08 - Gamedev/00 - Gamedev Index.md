@@ -9,6 +9,10 @@ tags:
 
 ## <code style="color:cyan">3D Art Resource</code>
 
+1. Character Designs ->
+    + [[ZZZ Character Model by 2AM]]
+    + 
+
 + [[Blender Course by CrossMind Studio]]
 + [[Blender shortcut]]
 + [[PBR Videos]]
