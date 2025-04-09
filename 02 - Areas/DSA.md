@@ -1,7 +1,7 @@
 ---
 status: 🟨
 tags:
-  - project
+  - area
 deadline: 2025-05-14
 area: "[[Introduction to Algorithms]]"
 ---

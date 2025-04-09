@@ -4,6 +4,7 @@ tags:
   - game_dev
 link: https://develop.games
 ---
+
 ```embed
 title: "So you want to make games?"
 image: "https://piratesoftware.live/assets/images/category_splash.png"

@@ -6,6 +6,7 @@ link: https://youtu.be/O1OhDbti-mM?si=d0ccx7JP2RmUKqzE
 cssclasses:
   - recolor-images
 ---
+
 1. Protfolio >> CV
 2. Make a website to present your portfolio 
 ```embed

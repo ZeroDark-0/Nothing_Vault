@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "51e809d51043bbbc",
+        "id": "b1f4084eb885481c",
         "type": "tabs",
         "children": [
           {
-            "id": "e265e4d4a603acfe",
+            "id": "14db8238ebbdb123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Gamedev/FullTimeGameDev/The Secret to Finishing Your Game.md",
+                "file": "X/Game Sense.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Secret to Finishing Your Game"
+              "title": "Game Sense"
             }
           },
           {
-            "id": "58b30bd2b8bdddd1",
+            "id": "cb6d4af9ed0564c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Gamedev/00 - Gamedev Index.md",
+                "file": "ZZZ Character Model by 2AM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Gamedev Index"
-            }
-          },
-          {
-            "id": "47a5000722ca4314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Obsidian theme Plugin (can add custom themes).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian theme Plugin (can add custom themes)"
+              "title": "ZZZ Character Model by 2AM"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,50 +272,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "47a5000722ca4314",
+  "active": "cb6d4af9ed0564c5",
   "lastOpenFiles": [
     "00 - Maps of Content/00 Homepage.md",
-    "08 - Gamedev/00 - Gamedev Index.md",
+    "ZZZ Character Model by 2AM.md",
+    "X/Game Sense.md",
+    "X/Improve 7X Faster.md",
+    "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
+    "Untitled.canvas",
+    "X/Target or Crosshair.md",
+    "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md",
+    "08 - Gamedev/Portfolio for Gamedev.md",
+    "08 - Gamedev/Other Game dev related.md",
+    "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md",
+    "08 - Gamedev/Multiplayer Networking/How it works.md",
+    "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md",
+    "08 - Gamedev/GameDev Resources/Software for Game dev.md",
+    "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md",
+    "08 - Gamedev/GameDev Resources/Develop.games by Thor.md",
+    "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md",
     "08 - Gamedev/FullTimeGameDev/The Secret to Finishing Your Game.md",
-    "99 - Meta/attachments/1-The Secret to Finishing Your Game.png",
-    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
-    "01 - Projects/Obsidian theme Plugin (can add custom themes).md",
-    "99 - Meta/attachments/C++ cookbook.pdf",
+    "07 - Others/game math.md",
+    "07 - Others/DSA Class.md",
+    "07 - Others/Blender golden rule of 3.md",
+    "05 - Archives/Resume or CV making.md",
+    "05 - Archives/My Resume.md",
     "05 - Archives/JeffreySu_Resume.pdf",
-    "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md",
-    "01 - Projects/Rust.md",
-    "03 - Resources/C#/C-sharp 12 and .NET 8 – Modern Cross-Platform Development.md",
-    "06 - Atomic/Notes System.md",
-    "06 - Atomic/Indexing Format.md",
-    "06 - Atomic/Secure Boot.md",
-    "03 - Resources/C#/C++++ brocode.md",
-    "00 - Maps of Content/01 Map.md",
-    "03 - Resources/01 - Programming/packt.md",
+    "05 - Archives/Git by Tech With Tim.md",
+    "05 - Archives/Git by Nick White.md",
+    "05 - Archives/Deleting Dual Boot.md",
+    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
+    "99 - Meta/attachments/1-The Secret to Finishing Your Game.png",
+    "99 - Meta/attachments/C++ cookbook.pdf",
     "99 - Meta/attachments/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf",
     "99 - Meta/attachments/1-Untitled.pdf",
-    "ED-202503191407.excalidraw.md",
     "99 - Meta/attachments/1-00 Homepage.jpg",
-    "README.md",
     "X",
     "11 - games",
     "∅ X",
-    "ED-202503161242.excalidraw.md",
-    "05 - Archives/Git by Nick White.md",
-    "05 - Archives/Git by Tech With Tim.md",
-    "01 - Projects/Main.md",
-    "01 - Projects/Latex mathematics.md",
-    "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md",
     "10 - OUT OF BRAIN CELLS/Untitled",
-    "10 - OUT OF BRAIN CELLS",
-    "08 - Gamedev/Other Game dev related.md",
-    "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md",
-    "08 - Gamedev/FullTimeGameDev",
     "99 - Meta/attachments/5-Other Game dev related.png",
     "99 - Meta/attachments/4-Other Game dev related.png",
     "99 - Meta/attachments/3-Other Game dev related.png",
     "99 - Meta/attachments/2-Other Game dev related.png",
     "99 - Meta/attachments/1-Other Game dev related.png",
-    "08 - Gamedev/Portfolio for Gamedev.md",
     "99 - Meta/attachments/1-Resume or CV making.png",
     "FieldNotes/field-note-20250309-838a4708.png",
     "FieldNotes/field-note-20250309-5ad37ede.png",

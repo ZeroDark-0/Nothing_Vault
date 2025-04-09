@@ -1,152 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Obsidian theme Plugin (can add custom themes)",
-      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
+      "basename": "ZZZ Character Model by 2AM",
+      "path": "ZZZ Character Model by 2AM.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
+      "basename": "Game Sense",
+      "path": "X/Game Sense.md"
     },
     {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/FullTimeGameDev/The Secret to Finishing Your Game.md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "C++ cookbook",
-      "path": "99 - Meta/attachments/C++ cookbook.pdf"
-    },
-    {
-      "basename": "JeffreySu_Resume",
-      "path": "05 - Archives/JeffreySu_Resume.pdf"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "Rust",
-      "path": "01 - Projects/Rust.md"
-    },
-    {
-      "basename": "C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
-      "path": "03 - Resources/C#/C-sharp 12 and .NET 8 – Modern Cross-Platform Development.md"
-    },
-    {
-      "basename": "Notes System",
-      "path": "06 - Atomic/Notes System.md"
-    },
-    {
-      "basename": "Indexing Format",
-      "path": "06 - Atomic/Indexing Format.md"
-    },
-    {
-      "basename": "Secure Boot",
-      "path": "06 - Atomic/Secure Boot.md"
-    },
-    {
-      "basename": "C++++ brocode",
-      "path": "03 - Resources/C#/C++++ brocode.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "packt",
-      "path": "03 - Resources/01 - Programming/packt.md"
-    },
-    {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
-    },
-    {
-      "basename": "Git by Tech With Tim",
-      "path": "05 - Archives/Git by Tech With Tim.md"
-    },
-    {
-      "basename": "Main",
-      "path": "01 - Projects/Main.md"
-    },
-    {
-      "basename": "CREATE YOUR OWN X",
-      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
-    },
-    {
-      "basename": "Other Game dev related",
-      "path": "08 - Gamedev/Other Game dev related.md"
-    },
-    {
-      "basename": "C++ Map",
-      "path": "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md"
-    },
-    {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "My Resume",
-      "path": "05 - Archives/My Resume.md"
-    },
-    {
-      "basename": "Resume or CV making",
-      "path": "05 - Archives/Resume or CV making.md"
-    },
-    {
-      "basename": "endl vs backslash n",
-      "path": "03 - Resources/C++/endl vs backslash n.md"
+      "basename": "Improve 7X Faster",
+      "path": "X/Improve 7X Faster.md"
     },
     {
       "basename": "Leetcode 463.excalidraw",
       "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
     },
     {
-      "basename": "game math",
-      "path": "07 - Others/game math.md"
+      "basename": "Target or Crosshair",
+      "path": "X/Target or Crosshair.md"
+    },
+    {
+      "basename": "CREATE YOUR OWN X",
+      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "Other Game dev related",
+      "path": "08 - Gamedev/Other Game dev related.md"
     },
     {
       "basename": "Multiplayer networking architecture by voxel",
       "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
     },
     {
-      "basename": "Introduction to Algorithms",
-      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+      "basename": "How it works",
+      "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
     },
     {
-      "basename": "Latex",
-      "path": "03 - Resources/01 - Programming/Latex.md"
+      "basename": "ED-202502060042.excalidraw",
+      "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
     },
     {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Body Structures (male).md"
+      "basename": "Software for Game dev",
+      "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
     },
     {
-      "basename": "Blender Course by CrossMind Studio",
-      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md"
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Develop.games by Thor",
+      "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush",
+      "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/FullTimeGameDev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "game math",
+      "path": "07 - Others/game math.md"
+    },
+    {
+      "basename": "DSA Class",
+      "path": "07 - Others/DSA Class.md"
+    },
+    {
+      "basename": "Blender golden rule of 3",
+      "path": "07 - Others/Blender golden rule of 3.md"
+    },
+    {
+      "basename": "Resume or CV making",
+      "path": "05 - Archives/Resume or CV making.md"
+    },
+    {
+      "basename": "My Resume",
+      "path": "05 - Archives/My Resume.md"
+    },
+    {
+      "basename": "JeffreySu_Resume",
+      "path": "05 - Archives/JeffreySu_Resume.pdf"
+    },
+    {
+      "basename": "Git by Tech With Tim",
+      "path": "05 - Archives/Git by Tech With Tim.md"
+    },
+    {
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
     },
     {
       "basename": "Deleting Dual Boot",
       "path": "05 - Archives/Deleting Dual Boot.md"
-    },
-    {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
-    },
-    {
-      "basename": "Multiplayer Game",
-      "path": "01 - Projects/Multiplayer Game.md"
     },
     {
       "basename": "Arch Linux Installation (202501010710)",
@@ -157,48 +113,92 @@
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
     },
     {
-      "basename": "DSA Class",
-      "path": "07 - Others/DSA Class.md"
+      "basename": "C++ Map",
+      "path": "04 - Permanent/01 - Programming Languages/03 - C++/C++ Map.md"
     },
     {
-      "basename": "2025-02-22",
-      "path": "09 - Periodic/00 - Daily/2025-02-22.md"
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Programming Languages/01 - Mark Down/Mark Down.md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+    },
+    {
+      "basename": "packt",
+      "path": "03 - Resources/01 - Programming/packt.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
     },
     {
       "basename": "Competitive Programming",
       "path": "03 - Resources/01 - Programming/Competitive Programming.md"
     },
     {
-      "basename": "Discord Bot",
-      "path": "01 - Projects/Discord Bot/Discord Bot.md"
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
-      "basename": "2024-12-29",
-      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
+      "basename": "DSA",
+      "path": "02 - Areas/DSA.md"
     },
     {
-      "basename": "Discord bot TOS- (202501291937)",
-      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
     },
     {
-      "basename": "Game development Tools by Thomas brush",
-      "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "How Discord Bot work- (202501292056)",
       "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
     },
     {
-      "basename": "1-Competitive Programming",
-      "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
+      "basename": "Resource for the discord bot (202501291948)",
+      "path": "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md"
     },
     {
-      "basename": "Software for Game dev",
-      "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
+      "basename": "Discord bot TOS- (202501291937)",
+      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
     },
     {
-      "basename": "How it works",
-      "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
+      "basename": "Discord Bot",
+      "path": "01 - Projects/Discord Bot/Discord Bot.md"
+    },
+    {
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
+      "basename": "Github Dynamic ReadMe",
+      "path": "01 - Projects/Github Dynamic ReadMe.md"
+    },
+    {
+      "basename": "Obsidian theme Plugin (can add custom themes)",
+      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
+    },
+    {
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "C++ cookbook",
+      "path": "99 - Meta/attachments/C++ cookbook.pdf"
+    },
+    {
+      "basename": "Rust",
+      "path": "01 - Projects/Rust.md"
     }
   ],
   "omittedPaths": [],

@@ -6,6 +6,7 @@ cssclasses:
   - center-images
   - center-titles
 ---
+
 ```embed
 title: "How Multiplayer Games Work"
 image: "https://i.ytimg.com/vi/KBBJqPL5-eU/maxresdefault.jpg"

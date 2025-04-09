@@ -4,6 +4,7 @@ tags:
   - game_dev
 links: https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My&si=mdPui8iMChmn7kyD
 ---
+
 ```embed
 title: "Math for Game Developers"
 image: "https://i.ytimg.com/vi/sKCF8A3XGxQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBUF_2OW831rMZ5JlIKylfRl_fCxQ&days_since_epoch=20123"
