@@ -5,16 +5,64 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "Game Sense",
-      "path": "X/Game Sense.md"
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "CREATE YOUR OWN X",
+      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Competitive Programming",
+      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
+    },
+    {
+      "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+    },
+    {
+      "basename": "packt",
+      "path": "03 - Resources/01 - Programming/packt.md"
+    },
+    {
+      "basename": "00 - DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 5/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "Interview Based Questions",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 6/Interview Based Questions.pdf"
+    },
+    {
+      "basename": "Assignment Problems on Binary Search",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 6/Assignment Problems on Binary Search.pdf"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "Game Sense",
+      "path": "X/Game Sense.md"
     },
     {
       "basename": "ZZZ Character Model by 2AM",
@@ -31,10 +79,6 @@
     {
       "basename": "Target or Crosshair",
       "path": "X/Target or Crosshair.md"
-    },
-    {
-      "basename": "CREATE YOUR OWN X",
-      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
     },
     {
       "basename": "Portfolio for Gamedev",
@@ -137,20 +181,8 @@
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
     {
-      "basename": "Introduction to Algorithms",
-      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
-    },
-    {
-      "basename": "packt",
-      "path": "03 - Resources/01 - Programming/packt.md"
-    },
-    {
       "basename": "Latex",
       "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "Competitive Programming",
-      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
     },
     {
       "basename": "DSA",
@@ -163,42 +195,6 @@
     {
       "basename": "How Discord Bot work- (202501292056)",
       "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
-    },
-    {
-      "basename": "Resource for the discord bot (202501291948)",
-      "path": "01 - Projects/Discord Bot/Resource for the discord bot (202501291948).md"
-    },
-    {
-      "basename": "Discord bot TOS- (202501291937)",
-      "path": "01 - Projects/Discord Bot/Discord bot TOS- (202501291937).md"
-    },
-    {
-      "basename": "Discord Bot",
-      "path": "01 - Projects/Discord Bot/Discord Bot.md"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "Github Dynamic ReadMe",
-      "path": "01 - Projects/Github Dynamic ReadMe.md"
-    },
-    {
-      "basename": "Obsidian theme Plugin (can add custom themes)",
-      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "C++ cookbook",
-      "path": "99 - Meta/attachments/C++ cookbook.pdf"
-    },
-    {
-      "basename": "Rust",
-      "path": "01 - Projects/Rust.md"
     }
   ],
   "omittedPaths": [],
