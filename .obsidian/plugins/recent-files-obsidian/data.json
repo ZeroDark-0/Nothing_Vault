@@ -5,6 +5,10 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+    },
+    {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
-    },
-    {
-      "basename": "Introduction to Algorithms",
-      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
     },
     {
       "basename": "packt",

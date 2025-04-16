@@ -4,8 +4,6 @@ banner_y: 0.84
 cssclasses:
   - center-images
 ---
-# <code style="color:Blue">Eternity</code>
-
 
 # <code style="color:Blue">Eternity</code>
 
@@ -14,11 +12,6 @@ cssclasses:
  - [ ] Obsidian plugin
  - [ ] Github Profile Markdown
  
-
-
-
-
-![[starfall.jpg]]
 
 
 

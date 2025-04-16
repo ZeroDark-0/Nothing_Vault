@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e386db3003598b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Resources/02 - DSA/Introduction to Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to Algorithms"
-            }
-          },
-          {
-            "id": "f9a9941c935b1515",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1-DSA by iNeuron"
-            }
-          },
-          {
             "id": "7d5929e76e4b3c1e",
             "type": "leaf",
             "state": {
@@ -47,8 +21,7 @@
               "title": "00 Homepage"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,18 +253,20 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "7d5929e76e4b3c1e",
   "lastOpenFiles": [
+    "03 - Resources/02 - DSA/Introduction to Algorithms.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf",
+    "00 - Maps of Content/00 Homepage.md",
     "08 - Gamedev/00 - Gamedev Index.md",
     "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md",
     "00 - Maps of Content/01 Map.md",
     "03 - Resources/01 - Programming/Competitive Programming.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
-    "03 - Resources/02 - DSA/Introduction to Algorithms.md",
     "03 - Resources/01 - Programming/packt.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Competitive Programmer's Handbook.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
@@ -300,7 +275,6 @@
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 6/Assignment Problems on Binary Search.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
-    "00 - Maps of Content/00 Homepage.md",
     "X/Game Sense.md",
     "08 - Gamedev/3D Art Resource/Character Designs/ZZZ Character Model by 2AM.md",
     "08 - Gamedev/3D Art Resource/Character Designs",
