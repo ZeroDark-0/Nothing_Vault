@@ -1,6 +1,6 @@
 ---
-banner: "![[blue night sky.gif]]"
-banner_y: 0.84
+banner: "![[mommy canteralle apron.jpg]]"
+banner_y: 0.53224
 cssclasses:
   - center-images
 ---
@@ -16,4 +16,14 @@ cssclasses:
 
 
 ![[2-00 Homepage.jpg]]
+
+![[3-00 Homepage.jpg]]
+
+![[4-00 Homepage.jpg]]
+
+![[5-00 Homepage.jpg]]
+
+![[6-00 Homepage.jpg]]
+
+![[1-00 Homepage.png]]
 
