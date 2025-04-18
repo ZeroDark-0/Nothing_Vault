@@ -1,6 +1,6 @@
 ---
-banner: "![[mommy canteralle apron.jpg]]"
-banner_y: 0.53224
+banner: "![[on_bed.jpg]]"
+banner_y: 0.53106
 cssclasses:
   - center-images
 ---
