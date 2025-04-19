@@ -92,7 +92,9 @@ SORT file.name ASC
     8. Latex
 
 ---
- + 4.2 
+ + 4.2 DSA
+    + [[Kadane's Algorithm]]
+    + 
    
 
 

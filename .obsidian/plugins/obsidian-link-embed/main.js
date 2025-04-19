@@ -768,17 +768,108 @@ var mustache_default = mustache;
 // parser.ts
 var import_obsidian = __toModule(require("obsidian"));
 var import_obsidian2 = __toModule(require("obsidian"));
+var path = __toModule(require("path"));
+var crypto = __toModule(require("crypto"));
 var electronPkg = require("electron");
+function downloadImageToVault(url, vault, folderPath) {
+  return __async(this, null, function* () {
+    if (!url || url.startsWith("data:")) {
+      return url;
+    }
+    try {
+      const normalizedFolderPath = (0, import_obsidian.normalizePath)(folderPath);
+      try {
+        yield vault.createFolder(normalizedFolderPath);
+      } catch (e) {
+      }
+      const urlHash = crypto.createHash("md5").update(url).digest("hex").slice(0, 8);
+      const urlObj = new URL(url);
+      let fileName = path.basename(urlObj.pathname);
+      if (!fileName || fileName === "" || !path.extname(fileName)) {
+        fileName = `image-${urlHash}.png`;
+      } else {
+        const ext = path.extname(fileName);
+        const nameWithoutExt = path.basename(fileName, ext);
+        fileName = `${nameWithoutExt}-${urlHash}${ext}`;
+      }
+      const response = yield (0, import_obsidian2.requestUrl)({ url });
+      const filePath = (0, import_obsidian.normalizePath)(`${folderPath}/${fileName}`);
+      const buffer = response.arrayBuffer;
+      const existingFile = vault.getAbstractFileByPath(filePath);
+      if (existingFile) {
+        yield vault.delete(existingFile);
+      }
+      yield vault.createBinary(filePath, buffer);
+      return filePath;
+    } catch (error) {
+      console.error("Error downloading image:", error);
+      return url;
+    }
+  });
+}
+function imageFileToBase64(vault, filePath) {
+  return __async(this, null, function* () {
+    try {
+      const file = vault.getAbstractFileByPath(filePath);
+      if (file instanceof import_obsidian.TFile) {
+        const buffer = yield vault.readBinary(file);
+        const base64 = arrayBufferToBase64(buffer);
+        const mimeType = getMimeType(file.extension);
+        return `data:${mimeType};base64,${base64}`;
+      }
+    } catch (error) {
+      console.error("Failed to convert local image to base64:", error);
+    }
+    return "";
+  });
+}
+function arrayBufferToBase64(buffer) {
+  let binary = "";
+  const bytes = new Uint8Array(buffer);
+  for (let i = 0; i < bytes.byteLength; i++) {
+    binary += String.fromCharCode(bytes[i]);
+  }
+  return window.btoa(binary);
+}
+function getMimeType(extension) {
+  const mimeTypes = {
+    jpg: "image/jpeg",
+    jpeg: "image/jpeg",
+    png: "image/png",
+    gif: "image/gif",
+    webp: "image/webp",
+    svg: "image/svg+xml"
+  };
+  return mimeTypes[extension.toLowerCase()] || "image/jpeg";
+}
 var Parser = class {
+  constructor() {
+    this.method = "GET";
+    this.headers = {};
+    this.body = "";
+    this.vault = null;
+    this.saveImagesToVault = false;
+    this.imageFolderPath = "";
+  }
   parseUrl(url) {
     return __async(this, null, function* () {
       const parseUrl = mustache_default.render(this.api, { url });
       new import_obsidian.Notice(`Fetching ${url}`);
-      const res = yield ajaxPromise({
-        url: parseUrl
-      });
-      const data = JSON.parse(res);
-      return data;
+      try {
+        const requestOptions = {
+          url: parseUrl,
+          method: this.method,
+          headers: this.headers
+        };
+        if (this.method === "POST" && this.body) {
+          requestOptions.body = this.body.replace("{{{url}}}", url);
+        }
+        const response = yield (0, import_obsidian2.requestUrl)(requestOptions);
+        return response.json;
+      } catch (error) {
+        console.error("Error fetching URL:", error);
+        throw error;
+      }
     });
   }
   parse(url) {
@@ -787,8 +878,44 @@ var Parser = class {
       if (this.debug) {
         console.log("Link Embed: raw data", rawData);
       }
-      return __spreadProps(__spreadValues({}, this.process(rawData)), { url });
+      if (this.saveImagesToVault) {
+        const processedData = yield this.processWithImageHandling(rawData);
+        return __spreadProps(__spreadValues({}, processedData), { url });
+      } else {
+        return __spreadProps(__spreadValues({}, this.process(rawData)), { url });
+      }
     });
+  }
+  processWithImageHandling(data) {
+    return __async(this, null, function* () {
+      const result = this.process(data);
+      if (this.saveImagesToVault && result.image && this.vault) {
+        try {
+          const localPath = yield downloadImageToVault(result.image, this.vault, this.imageFolderPath);
+          result.image = localPath;
+        } catch (error) {
+          console.error("Failed to save image to vault:", error);
+        }
+      }
+      return result;
+    });
+  }
+};
+var LinkPreviewParser = class extends Parser {
+  constructor(apiKey = "") {
+    super();
+    this.api = "https://api.linkpreview.net/?q={{{url}}}";
+    this.method = "GET";
+    this.headers = {
+      "X-Linkpreview-Api-Key": apiKey
+    };
+  }
+  process(data) {
+    const title = data.title || "";
+    const image = data.image || "";
+    let description = data.description || "";
+    description = description.replace(/\n/g, " ").replace(/\\/g, "\\\\");
+    return { title, image, description };
   }
 };
 var JSONLinkParser = class extends Parser {
@@ -873,7 +1000,11 @@ var LocalParser = class extends Parser {
   getImage(doc, url) {
     let element = doc.querySelector('head meta[property="og:image"]');
     if (element instanceof HTMLMetaElement) {
-      return element.content;
+      try {
+        return new URL(element.content, url.origin).href;
+      } catch (e) {
+        return element.content;
+      }
     }
     let selectors = [
       'div[itemtype$="://schema.org/Product"] noscript img',
@@ -922,10 +1053,11 @@ var LocalParser = class extends Parser {
   }
   getHtmlByElectron(url) {
     return __async(this, null, function* () {
+      let window2 = null;
       try {
         const { remote } = electronPkg;
         const { BrowserWindow } = remote;
-        const window = new BrowserWindow({
+        window2 = new BrowserWindow({
           width: 1366,
           height: 768,
           webPreferences: {
@@ -936,17 +1068,21 @@ var LocalParser = class extends Parser {
           },
           show: false
         });
-        window.webContents.setAudioMuted(true);
+        window2.webContents.setAudioMuted(true);
         yield new Promise((resolve, reject) => {
-          window.webContents.on("did-finish-load", (e) => resolve(e));
-          window.webContents.on("did-fail-load", (e) => reject(e));
-          window.loadURL(url);
+          window2.webContents.on("did-finish-load", (e) => resolve(e));
+          window2.webContents.on("did-fail-load", (e) => reject(e));
+          window2.loadURL(url);
         });
-        let doc = yield window.webContents.executeJavaScript("document.documentElement.outerHTML;");
+        let doc = yield window2.webContents.executeJavaScript("document.documentElement.outerHTML;");
+        window2.close();
         return doc;
       } catch (ex) {
         if (this.debug) {
           console.log("Failed to use electron: ", ex);
+        }
+        if (window2) {
+          window2.close();
         }
         return null;
       }
@@ -964,21 +1100,57 @@ var LocalParser = class extends Parser {
       let title = this.getTitle(doc, uRL);
       let image = this.getImage(doc, uRL);
       let description = this.getDescription(doc);
-      return __spreadProps(__spreadValues({}, this.process({ title, image, description })), { url });
+      if (this.saveImagesToVault) {
+        const processedData = yield this.processWithImageHandling({
+          title,
+          image,
+          description
+        });
+        return __spreadProps(__spreadValues({}, processedData), { url });
+      } else {
+        return __spreadProps(__spreadValues({}, this.process({ title, image, description })), { url });
+      }
     });
   }
 };
+function createParser(parserType, settings, vault = null) {
+  let parser;
+  switch (parserType) {
+    case "jsonlink":
+      parser = new JSONLinkParser();
+      break;
+    case "microlink":
+      parser = new MicroLinkParser();
+      break;
+    case "iframely":
+      parser = new IframelyParser();
+      break;
+    case "local":
+      parser = new LocalParser();
+      break;
+    case "linkpreview":
+      const apiKey = settings.linkpreviewApiKey;
+      if (!apiKey) {
+        console.log("Link Embed: LinkPreview API key is not set");
+        new import_obsidian.Notice("LinkPreview API key is not set. Please provide an API key in the settings.");
+        throw new Error("LinkPreview API key is not set");
+      }
+      parser = new LinkPreviewParser(apiKey);
+      break;
+    default:
+      throw new Error(`Unknown parser type: ${parserType}`);
+  }
+  parser.vault = vault;
+  parser.saveImagesToVault = settings.saveImagesToVault || false;
+  parser.imageFolderPath = settings.imageFolderPath || "link-embed-images";
+  return parser;
+}
 var parseOptions = {
   jsonlink: "JSONLink",
   microlink: "MicroLink",
   iframely: "Iframely",
-  local: "Local"
-};
-var parsers = {
-  jsonlink: new JSONLinkParser(),
-  microlink: new MicroLinkParser(),
-  iframely: new IframelyParser(),
-  local: new LocalParser()
+  local: "Local",
+  linkpreview: "LinkPreview"
 };
 
 // constants.ts
@@ -986,7 +1158,8 @@ var MarkdownTemplate = `\`\`\`embed
 title: "{{{title}}}"
 image: "{{{image}}}"
 description: "{{{description}}}"
-url: "{{{url}}}"
+url: "{{{url}}}"{{#metadata}}
+{{{metadata}}}{{/metadata}}
 \`\`\``;
 var HTMLTemplate = `<div
   style="
@@ -1097,7 +1270,12 @@ var DEFAULT_SETTINGS = {
   backup: "jsonlink",
   inPlace: false,
   debug: false,
-  delay: 0
+  delay: 0,
+  linkpreviewApiKey: "",
+  metadataTemplate: 'createdby: "linkembed"\nparser: "{{parser}}"\ndate: "{{date}}"\ncustom_date: "{{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}"',
+  useMetadataTemplate: false,
+  saveImagesToVault: false,
+  imageFolderPath: "link-embed-images"
 };
 var ObsidianLinkEmbedSettingTab = class extends import_obsidian3.PluginSettingTab {
   constructor(app, plugin) {
@@ -1197,6 +1375,55 @@ ${content.split(origin).join(embed)}`);
         new import_obsidian3.Notice(`Conversion End`);
       }));
     });
+    containerEl.createEl("h3", { text: "Embed Metadata" });
+    new import_obsidian3.Setting(containerEl).setName("Use Metadata Template").setDesc("Add metadata about what created the embed (plugin name, parser type, date).").addToggle((value) => {
+      value.setValue(this.plugin.settings.useMetadataTemplate).onChange((value2) => {
+        this.plugin.settings.useMetadataTemplate = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian3.Setting(containerEl).setName("Metadata Template").setDesc("Customize metadata template. Variables: {{parser}} for parser type, {{date}} for date in YYYY-MM-DD format. For custom date format use {{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}.").addTextArea((text) => {
+      text.inputEl.rows = 4;
+      text.inputEl.cols = 50;
+      text.setValue(this.plugin.settings.metadataTemplate).onChange((value) => {
+        try {
+          const lines = value.split("\n");
+          const isValid = lines.every((line) => {
+            if (line.trim() === "")
+              return true;
+            return line.includes(":");
+          });
+          if (isValid) {
+            this.plugin.settings.metadataTemplate = value;
+            this.plugin.saveSettings();
+          }
+        } catch (e) {
+          if (this.plugin.settings.debug) {
+            console.log("Link Embed: Invalid YAML format in metadata template", e);
+          }
+        }
+      });
+    });
+    containerEl.createEl("h3", { text: "Image Settings" });
+    new import_obsidian3.Setting(containerEl).setName("Save Images to Vault").setDesc("When enabled, images from links will be saved to your vault.").addToggle((value) => {
+      value.setValue(this.plugin.settings.saveImagesToVault).onChange((value2) => {
+        this.plugin.settings.saveImagesToVault = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian3.Setting(containerEl).setName("Image Folder Path").setDesc("Folder in your vault where images will be saved. The folder will be created if it doesn't exist.").addText((value) => {
+      value.setValue(this.plugin.settings.imageFolderPath).onChange((value2) => {
+        this.plugin.settings.imageFolderPath = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h3", { text: "Provider Settings" });
+    new import_obsidian3.Setting(containerEl).setName("LinkPreview API Key").setDesc("Enter your API key for the LinkPreview provider.").addText((value) => {
+      value.setValue(this.plugin.settings.linkpreviewApiKey).onChange((value2) => {
+        this.plugin.settings.linkpreviewApiKey = value2;
+        this.plugin.saveSettings();
+      });
+    });
     containerEl.createEl("h3", { text: "Dev Option" });
     new import_obsidian3.Setting(containerEl).setName("Debug").setDesc("Enable debug mode.").addToggle((value) => {
       value.setValue(this.plugin.settings.debug).onChange((value2) => {
@@ -1292,9 +1519,16 @@ var EmbedSuggest = class extends import_obsidian4.EditorSuggest {
   }
   getSuggestions(context) {
     if (this.plugin.settings.rmDismiss) {
-      return [{ choice: "Create Embed" }];
+      return [
+        { choice: "Create Embed" },
+        { choice: "Create Markdown Link" }
+      ];
     }
-    return [{ choice: "Dismiss" }, { choice: "Create Embed" }];
+    return [
+      { choice: "Dismiss" },
+      { choice: "Create Embed" },
+      { choice: "Create Markdown Link" }
+    ];
   }
   renderSuggestion(suggestion, el) {
     el.setText(suggestion.choice);
@@ -1313,8 +1547,46 @@ var EmbedSuggest = class extends import_obsidian4.EditorSuggest {
           end: cursor
         }
       }, [this.plugin.settings.primary, this.plugin.settings.backup], true);
+    } else if (suggestion.choice == "Create Markdown Link") {
+      this.convertToMarkdownLink();
     }
     this.close();
+  }
+  convertToMarkdownLink() {
+    return __async(this, null, function* () {
+      const url = this.plugin.pasteInfo.text;
+      const cursor = this.editor.getCursor();
+      const boundary = {
+        start: {
+          line: cursor.line,
+          ch: cursor.ch - url.length
+        },
+        end: cursor
+      };
+      try {
+        const parser = createParser(this.plugin.settings.primary, this.plugin.settings, this.plugin.app.vault);
+        parser.debug = this.plugin.settings.debug;
+        const data = yield parser.parse(url);
+        if (data.title) {
+          const mdLink = `[${data.title}](${url})`;
+          this.editor.replaceRange(mdLink, boundary.start, boundary.end);
+        }
+      } catch (error) {
+        try {
+          const backupParser = createParser(this.plugin.settings.backup, this.plugin.settings, this.plugin.app.vault);
+          backupParser.debug = this.plugin.settings.debug;
+          const backupData = yield backupParser.parse(url);
+          if (backupData.title) {
+            const mdLink = `[${backupData.title}](${url})`;
+            this.editor.replaceRange(mdLink, boundary.start, boundary.end);
+          }
+        } catch (backupError) {
+          if (this.plugin.settings.debug) {
+            console.log("Link Embed: Failed to fetch title using both parsers", error, backupError);
+          }
+        }
+      }
+    });
   }
   onTrigger(cursor, editor, file) {
     if (!this.plugin.pasteInfo.trigger) {
@@ -1324,17 +1596,17 @@ var EmbedSuggest = class extends import_obsidian4.EditorSuggest {
     this.editor = editor;
     this.cursor = cursor;
     if (this.plugin.settings.autoEmbedWhenEmpty) {
-      const cursor2 = this.editor.getCursor();
-      if (cursor2.ch - this.plugin.pasteInfo.text.length == 0) {
+      const currentCursor = this.editor.getCursor();
+      if (currentCursor.ch - this.plugin.pasteInfo.text.length == 0) {
         this.plugin.embedUrl(this.editor, {
           can: true,
           text: this.plugin.pasteInfo.text,
           boundary: {
             start: {
-              line: cursor2.line,
-              ch: cursor2.ch - this.plugin.pasteInfo.text.length
+              line: currentCursor.line,
+              ch: currentCursor.ch - this.plugin.pasteInfo.text.length
             },
-            end: cursor2
+            end: currentCursor
           }
         }, [this.plugin.settings.primary, this.plugin.settings.backup], true);
         return null;
@@ -1400,10 +1672,26 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
           ]);
         })
       });
-      Object.keys(parsers).forEach((name) => {
+      this.addCommand({
+        id: "test-save-image",
+        name: "Test: Save image to vault",
+        editorCallback: (editor) => __async(this, null, function* () {
+          let selected = yield this.getText(editor);
+          if (!selected.text) {
+            new import_obsidian5.Notice("Please select an image URL first");
+            return;
+          }
+          if (!ObsidianLinkEmbedPlugin.isUrl(selected.text)) {
+            new import_obsidian5.Notice("Selected text is not a valid URL");
+            return;
+          }
+          yield this.testImageDownload(selected.text);
+        })
+      });
+      Object.keys(parseOptions).forEach((name) => {
         this.addCommand({
           id: `embed-link-${name}`,
-          name: `Embed link with ${name}`,
+          name: `Embed link with ${parseOptions[name]}`,
           editorCallback: (editor) => __async(this, null, function* () {
             let selected = yield this.getText(editor);
             if (!this.checkUrlValid(selected)) {
@@ -1413,13 +1701,31 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
           })
         });
       });
-      this.registerMarkdownCodeBlockProcessor("embed", (source, el, ctx) => {
+      this.registerMarkdownCodeBlockProcessor("embed", (source, el, ctx) => __async(this, null, function* () {
         const info = (0, import_obsidian5.parseYaml)(source.replace(/^\s+|\s+$/gm, ""));
-        const html = HTMLTemplate.replace(/{{title}}/gm, info.title).replace(/{{{image}}}/gm, info.image).replace(/{{description}}/gm, info.description).replace(/{{{url}}}/gm, info.url);
+        let imageUrl = info.image;
+        if (imageUrl && !imageUrl.startsWith("http") && !imageUrl.startsWith("data:")) {
+          try {
+            const base64Image = yield imageFileToBase64(this.app.vault, imageUrl);
+            if (base64Image) {
+              imageUrl = base64Image;
+            }
+          } catch (error) {
+            console.error("Failed to convert local image to base64:", error);
+          }
+        }
+        const html = HTMLTemplate.replace(/{{title}}/gm, info.title).replace(/{{{image}}}/gm, imageUrl).replace(/{{description}}/gm, info.description).replace(/{{{url}}}/gm, info.url);
         let parser = new DOMParser();
         var doc = parser.parseFromString(html, "text/html");
         el.replaceWith(doc.body.firstChild);
-      });
+        if (this.settings.debug && (info.createdby || info.parser || info.date)) {
+          console.log("Link Embed Metadata:", {
+            createdby: info.createdby || "unknown",
+            parser: info.parser || "unknown",
+            date: info.date || "unknown"
+          });
+        }
+      }));
       this.addSettingTab(new ObsidianLinkEmbedSettingTab(this.app, this));
     });
   }
@@ -1475,18 +1781,40 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
         if (this.settings.debug) {
           console.log("Link Embed: parser", selectedParser);
         }
-        const parser = parsers[selectedParser];
-        parser.debug = this.settings.debug;
         try {
+          const parser = createParser(selectedParser, this.settings, this.app.vault);
+          parser.debug = this.settings.debug;
           const data = yield parser.parse(url);
           if (this.settings.debug) {
             console.log("Link Embed: meta data", data);
+          }
+          let metadata = "";
+          if (this.settings.useMetadataTemplate) {
+            const now = new Date();
+            const templateContext = {
+              parser: selectedParser,
+              date: `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}`,
+              formatDate: () => {
+                return (text) => {
+                  try {
+                    if (!text.trim())
+                      return now.toISOString().split("T")[0];
+                    return text.replace("YYYY", String(now.getFullYear())).replace("MM", String(now.getMonth() + 1).padStart(2, "0")).replace("DD", String(now.getDate()).padStart(2, "0")).replace("HH", String(now.getHours()).padStart(2, "0")).replace("mm", String(now.getMinutes()).padStart(2, "0")).replace("ss", String(now.getSeconds()).padStart(2, "0"));
+                  } catch (e) {
+                    console.log("Error formatting date:", e);
+                    return now.toISOString().split("T")[0];
+                  }
+                };
+              }
+            };
+            metadata = mustache_default.render(this.settings.metadataTemplate, templateContext);
           }
           const escapedData = {
             title: data.title.replace(/"/g, '\\"'),
             image: data.image,
             description: data.description.replace(/"/g, '\\"'),
-            url: data.url
+            url: data.url,
+            metadata: metadata || false
           };
           const embed = mustache_default.render(template, escapedData) + "\n";
           if (this.settings.delay > 0) {
@@ -1495,6 +1823,7 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
           const dummy = editor.getRange(startCursor, endCursor);
           if (dummy == dummyEmbed) {
             editor.replaceRange(embed, startCursor, endCursor);
+            console.log(`Link Embed: parser ${selectedParser} done`);
           } else {
             new import_obsidian5.Notice(`Dummy preview has been deleted or modified. Replacing is cancelled.`);
           }
@@ -1503,7 +1832,7 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
           console.log("Link Embed: error", error);
           idx += 1;
           if (idx === selectedParsers.length) {
-            this.errorNotice();
+            this.errorNotice(error instanceof Error ? error : new Error(String(error)));
           }
         }
       }
@@ -1513,11 +1842,29 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
     const urlRegex = new RegExp(REGEX.URL, "g");
     return urlRegex.test(text);
   }
-  errorNotice() {
+  errorNotice(error) {
     if (this.settings.debug) {
-      console.log("Link Embed: Failed to fetch data");
+      console.log("Link Embed: Failed to fetch data", error);
     }
-    new import_obsidian5.Notice(`Failed to fetch data`);
+    const errorMessage = (error == null ? void 0 : error.message) || "Failed to fetch data";
+    new import_obsidian5.Notice(`Error: ${errorMessage}`);
+  }
+  testImageDownload(imageUrl) {
+    return __async(this, null, function* () {
+      if (!this.settings.saveImagesToVault) {
+        new import_obsidian5.Notice("Image saving is disabled. Enable it in settings first.");
+        return imageUrl;
+      }
+      try {
+        const localPath = yield downloadImageToVault(imageUrl, this.app.vault, this.settings.imageFolderPath);
+        new import_obsidian5.Notice(`Image saved to ${localPath}`);
+        return localPath;
+      } catch (error) {
+        console.error("Failed to save image to vault:", error);
+        new import_obsidian5.Notice(`Failed to save image: ${error.message}`);
+        return imageUrl;
+      }
+    });
   }
 };
 /*!
@@ -1525,5 +1872,3 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian5.Plugin {
  * http://github.com/janl/mustache.js
  */
 /*! https://mths.be/he v1.2.0 by @mathias | MIT license */
-
-/* nosourcemap */
