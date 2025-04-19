@@ -27,5 +27,5 @@ cssclasses:
 
 ![[6-00 Homepage.jpg]]
 
-![[1-00 Homepage.png]]
+
 
