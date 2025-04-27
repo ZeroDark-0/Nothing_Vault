@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Some usefull Website",
+      "path": "Some usefull Website.md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
@@ -9,12 +13,24 @@
       "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
     },
     {
-      "basename": "ZZZ Character Model by 2AM",
-      "path": "08 - Gamedev/3D Art Resource/Character Designs/ZZZ Character Model by 2AM.md"
-    },
-    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Github Dynamic ReadMe",
+      "path": "01 - Projects/Github Dynamic ReadMe.md"
+    },
+    {
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
+      "basename": "Game Sense",
+      "path": "X/Game Sense.md"
+    },
+    {
+      "basename": "ZZZ Character Model by 2AM",
+      "path": "08 - Gamedev/3D Art Resource/Character Designs/ZZZ Character Model by 2AM.md"
     },
     {
       "basename": "Introduction to Algorithms",
@@ -67,10 +83,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Game Sense",
-      "path": "X/Game Sense.md"
     },
     {
       "basename": "Improve 7X Faster",
@@ -187,18 +199,6 @@
     {
       "basename": "Latex",
       "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "DSA",
-      "path": "02 - Areas/DSA.md"
-    },
-    {
-      "basename": "00 - Areas Map (202501181839)",
-      "path": "02 - Areas/00 - Areas Map (202501181839).md"
-    },
-    {
-      "basename": "How Discord Bot work- (202501292056)",
-      "path": "01 - Projects/Discord Bot/How Discord Bot work- (202501292056).md"
     }
   ],
   "omittedPaths": [],
