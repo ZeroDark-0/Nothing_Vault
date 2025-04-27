@@ -15,10 +15,6 @@ cssclasses:
 
 ---
 
-![[7-00 Homepage.jpg]]
-
-![[9-00 Homepage.jpg]]
-
 ![[2-00 Homepage.jpg]]
 
 ![[3-00 Homepage.jpg]]

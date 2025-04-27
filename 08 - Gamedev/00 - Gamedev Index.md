@@ -23,12 +23,6 @@ tags:
 ## <code style="color:cyan">3D Arts Permanent</code>
 
 + Cross Mind
-    + [[Cross Mind Day-1]]
-    + [[Cross Mind Day-2]]
-    + [[Cross Mind Day-3]]
-    + [[Cross Mind Day-4]]
-    + [[Cross Mind Day-5]]
-    + 
 + 
 
 ---
