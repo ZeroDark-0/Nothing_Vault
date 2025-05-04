@@ -1,6 +1,6 @@
 ---
 banner: "![[on_bed.jpg]]"
-banner_y: 0.53106
+banner_y: 0.51703
 cssclasses:
   - center-images
 ---
@@ -15,18 +15,4 @@ cssclasses:
 
 ---
 
-![[2-00 Homepage.jpg]]
-
-![[3-00 Homepage.jpg]]
-
-![[4-00 Homepage.jpg]]
-
-![[5-00 Homepage.jpg]]
-
 ![[6-00 Homepage.jpg]]
-
-
-![[8-00 Homepage.jpg]]
-
-![[1-00 Homepage.png]]
-
