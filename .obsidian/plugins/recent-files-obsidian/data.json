@@ -1,20 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Aimer7 Routine Addendum",
+      "path": "X/Aimer7 Routine Addendum.pdf"
+    },
+    {
+      "basename": "kovaaks-playlist-compendium",
+      "path": "X/kovaaks-playlist-compendium.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Some usefull Website",
-      "path": "Some usefull Website.md"
+      "basename": "Secure Boot YT(202501031505)",
+      "path": "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md"
+    },
+    {
+      "basename": "packt",
+      "path": "03 - Resources/01 - Programming/packt.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
+    },
+    {
+      "basename": "Competitive Programming",
+      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
+    },
+    {
+      "basename": "1-Competitive Programming",
+      "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
+    },
+    {
+      "basename": "Tammas' Routine Addendum (edited)",
+      "path": "X/Tammas' Routine Addendum (edited).pdf"
+    },
+    {
+      "basename": "Target or Crosshair",
+      "path": "X/Target or Crosshair.md"
+    },
+    {
+      "basename": "Improve 7X Faster",
+      "path": "X/Improve 7X Faster.md"
+    },
+    {
+      "basename": "Game Sense",
+      "path": "X/Game Sense.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Some Useful Website",
+      "path": "05 - Archives/Some Useful Website.md"
     },
     {
       "basename": "Modern C++ Programming Cookbook",
       "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "ED-202505041804.excalidraw",
-      "path": "ED-202505041804.excalidraw.md"
     },
     {
       "basename": "C++ cookbook",
@@ -33,10 +77,6 @@
       "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
       "basename": "Kadane's Algorithm",
       "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
     },
@@ -47,10 +87,6 @@
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "Game Sense",
-      "path": "X/Game Sense.md"
     },
     {
       "basename": "ZZZ Character Model by 2AM",
@@ -69,16 +105,8 @@
       "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
     },
     {
-      "basename": "Competitive Programming",
-      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
-    },
-    {
       "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
-    },
-    {
-      "basename": "packt",
-      "path": "03 - Resources/01 - Programming/packt.md"
     },
     {
       "basename": "00 - DSA by iNeuron",
@@ -105,16 +133,8 @@
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
     },
     {
-      "basename": "Improve 7X Faster",
-      "path": "X/Improve 7X Faster.md"
-    },
-    {
       "basename": "Leetcode 463.excalidraw",
       "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
-    },
-    {
-      "basename": "Target or Crosshair",
-      "path": "X/Target or Crosshair.md"
     },
     {
       "basename": "Portfolio for Gamedev",
@@ -179,26 +199,6 @@
     {
       "basename": "JeffreySu_Resume",
       "path": "05 - Archives/JeffreySu_Resume.pdf"
-    },
-    {
-      "basename": "Git by Tech With Tim",
-      "path": "05 - Archives/Git by Tech With Tim.md"
-    },
-    {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
-    },
-    {
-      "basename": "Deleting Dual Boot",
-      "path": "05 - Archives/Deleting Dual Boot.md"
-    },
-    {
-      "basename": "Arch Linux Installation (202501010710)",
-      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
-    },
-    {
-      "basename": "Arch Linux commands (202501011001)",
-      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
     }
   ],
   "omittedPaths": [],

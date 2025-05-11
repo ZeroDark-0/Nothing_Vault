@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b1f4084eb885481c",
+        "id": "2aca38cc6fbf5091",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6b326470c0243e",
+            "id": "7a034f38c9d772c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Some usefull Website.md",
-                "mode": "source",
-                "source": false
+                "file": "X/Aimer7 Routine Addendum.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Some usefull Website"
-            }
-          },
-          {
-            "id": "86aea76e69a6890a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00 Homepage"
+              "icon": "lucide-file-text",
+              "title": "Aimer7 Routine Addendum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,15 +251,28 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "86aea76e69a6890a",
+  "active": "7a034f38c9d772c5",
   "lastOpenFiles": [
-    "Some usefull Website.md",
+    "X/kovaaks-playlist-compendium.md",
+    "X/Aimer7 Routine Addendum.pdf",
     "00 - Maps of Content/00 Homepage.md",
-    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
+    "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md",
+    "03 - Resources/01 - Programming/packt.md",
+    "03 - Resources/01 - Programming/Latex.md",
+    "03 - Resources/01 - Programming/Competitive Programming.md",
+    "99 - Meta/attachments/1-Competitive Programming.pdf",
+    "X/Tammas' Routine Addendum (edited).pdf",
+    "X/Target or Crosshair.md",
+    "X/Improve 7X Faster.md",
+    "X/Game Sense.md",
+    "00 - Maps of Content/01 Map.md",
+    "05 - Archives/Some Useful Website.md",
     "ED-202505041804.excalidraw.md",
+    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
     "99 - Meta/attachments/C++ cookbook.pdf",
     "99 - Meta/attachments/6-00 Homepage.jpg",
     "09 - Periodic/00 - Daily/2024-12-29.md",
@@ -287,11 +283,9 @@
     "99 - Meta/attachments/9-00 Homepage.jpg",
     "99 - Meta/attachments/8-00 Homepage.jpg",
     "99 - Meta/attachments/7-00 Homepage.jpg",
-    "00 - Maps of Content/01 Map.md",
     "04 - Permanent/02 - DSA/Kadane's Algorithm.md",
     "01 - Projects/Github Dynamic ReadMe.md",
     "00 - Maps of Content/99 Meetings.md",
-    "X/Game Sense.md",
     "08 - Gamedev/3D Art Resource/Character Designs/ZZZ Character Model by 2AM.md",
     "04 - Permanent/02 - DSA",
     "99 - Meta/attachments/1-00 Homepage.png",
@@ -302,23 +296,13 @@
     "03 - Resources/02 - DSA/Introduction to Algorithms.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf",
     "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md",
-    "03 - Resources/01 - Programming/Competitive Programming.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
-    "03 - Resources/01 - Programming/packt.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Competitive Programmer's Handbook.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 5/1-DSA by iNeuron.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 6/Interview Based Questions.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 6/Assignment Problems on Binary Search.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf",
-    "X/Improve 7X Faster.md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
     "Untitled.canvas",
-    "X/Target or Crosshair.md",
-    "08 - Gamedev/Portfolio for Gamedev.md",
-    "08 - Gamedev/Other Game dev related.md",
-    "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md",
     "03 - Resources/Untitled.canvas"
   ]
 }
