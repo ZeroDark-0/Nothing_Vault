@@ -7,6 +7,16 @@ cssclasses:
 
 # <code style="color:Blue">Eternity</code>
 
+### <code style="color:purple">Daily</code>
+
+- [ ] fulltimegamedev (1 vid)
+- [ ] blender
+- [ ] dsa
+- [ ] game math
+
+
+
+
 
  - [ ] Multi Player System
  - [ ] Obsidian plugin

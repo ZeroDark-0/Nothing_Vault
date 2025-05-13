@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "learn-anything",
+      "path": "10 - OUT OF BRAIN CELLS/learn-anything.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Aimer7 Routine Addendum",
       "path": "X/Aimer7 Routine Addendum.pdf"
+    },
+    {
+      "basename": "CREATE YOUR OWN X",
+      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "kovaaks-playlist-compendium",
@@ -47,10 +63,6 @@
     {
       "basename": "Game Sense",
       "path": "X/Game Sense.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Some Useful Website",
@@ -99,10 +111,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "CREATE YOUR OWN X",
-      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
     },
     {
       "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
@@ -191,14 +199,6 @@
     {
       "basename": "Resume or CV making",
       "path": "05 - Archives/Resume or CV making.md"
-    },
-    {
-      "basename": "My Resume",
-      "path": "05 - Archives/My Resume.md"
-    },
-    {
-      "basename": "JeffreySu_Resume",
-      "path": "05 - Archives/JeffreySu_Resume.pdf"
     }
   ],
   "omittedPaths": [],
