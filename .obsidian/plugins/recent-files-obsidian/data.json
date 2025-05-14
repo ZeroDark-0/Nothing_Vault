@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Kadane's Algorithm",
+      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
+    },
+    {
       "basename": "Perspective Projection (Math behind 3D)",
       "path": "Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Cross Mind Day-1",
+      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-1.md"
+    },
+    {
+      "basename": "Cross Mind Day-5",
+      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-5.md"
+    },
+    {
+      "basename": "Cross Mind Day-4",
+      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-4.md"
+    },
+    {
+      "basename": "Cross Mind Day-3",
+      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-3.md"
+    },
+    {
+      "basename": "Cross Mind Day-2",
+      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-2.md"
+    },
+    {
+      "basename": "ZZZ Character Model by 2AM",
+      "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "learn-anything",
@@ -19,10 +59,6 @@
     {
       "basename": "CREATE YOUR OWN X",
       "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "kovaaks-playlist-compendium",
@@ -81,16 +117,8 @@
       "path": "09 - Periodic/00 - Daily/2024-12-29.md"
     },
     {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
       "basename": "Blender Course by CrossMind Studio",
-      "path": "08 - Gamedev/3D Art Resource/Blender Course by CrossMind Studio.md"
-    },
-    {
-      "basename": "Kadane's Algorithm",
-      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
+      "path": "08 - Gamedev/3D Art Resource and Notes/Blender Course by CrossMind Studio.md"
     },
     {
       "basename": "Github Dynamic ReadMe",
@@ -99,10 +127,6 @@
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "ZZZ Character Model by 2AM",
-      "path": "08 - Gamedev/3D Art Resource/Character Designs/ZZZ Character Model by 2AM.md"
     },
     {
       "basename": "Introduction to Algorithms",
@@ -175,30 +199,6 @@
     {
       "basename": "Develop.games by Thor",
       "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
-    },
-    {
-      "basename": "Game development Tools by Thomas brush",
-      "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
-    },
-    {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/FullTimeGameDev/The Secret to Finishing Your Game.md"
-    },
-    {
-      "basename": "game math",
-      "path": "07 - Others/game math.md"
-    },
-    {
-      "basename": "DSA Class",
-      "path": "07 - Others/DSA Class.md"
-    },
-    {
-      "basename": "Blender golden rule of 3",
-      "path": "07 - Others/Blender golden rule of 3.md"
-    },
-    {
-      "basename": "Resume or CV making",
-      "path": "05 - Archives/Resume or CV making.md"
     }
   ],
   "omittedPaths": [],
