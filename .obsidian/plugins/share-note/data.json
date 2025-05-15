@@ -1,0 +1,17 @@
+{
+  "server": "https://api.note.sx",
+  "uid": "6df8225a0033ff88f9d5e622c3fa692d",
+  "apiKey": "ff090055e2f53c42bf0fd5f5624a2cbc",
+  "yamlField": "share",
+  "noteWidth": "",
+  "theme": "Vauxhall",
+  "themeMode": 0,
+  "titleSource": 0,
+  "removeYaml": true,
+  "removeBacklinksFooter": true,
+  "expiry": "",
+  "clipboard": true,
+  "shareUnencrypted": false,
+  "authRedirect": null,
+  "debug": 0
+}

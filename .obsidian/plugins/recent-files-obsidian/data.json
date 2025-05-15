@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Kadane's Algorithm",
+      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "C++ cookbook",
+      "path": "99 - Meta/attachments/C++ cookbook.pdf"
+    },
+    {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "Kadane's Algorithm",
-      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
-    },
-    {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "Perspective Projection (Math behind 3D).md"
     },
     {
       "basename": "Cross Mind Day-1",
@@ -39,10 +51,6 @@
     {
       "basename": "ZZZ Character Model by 2AM",
       "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "learn-anything",
@@ -103,14 +111,6 @@
     {
       "basename": "Some Useful Website",
       "path": "05 - Archives/Some Useful Website.md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "C++ cookbook",
-      "path": "99 - Meta/attachments/C++ cookbook.pdf"
     },
     {
       "basename": "2024-12-29",
