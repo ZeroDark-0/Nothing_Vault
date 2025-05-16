@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Kadane's Algorithm",
-      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "1. Course Overview",
+      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/1. Course Overview.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Kadane's Algorithm",
+      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
     },
     {
       "basename": "Perspective Projection (Math behind 3D)",
@@ -19,14 +43,6 @@
     {
       "basename": "C++ cookbook",
       "path": "99 - Meta/attachments/C++ cookbook.pdf"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "Cross Mind Day-1",
@@ -55,10 +71,6 @@
     {
       "basename": "learn-anything",
       "path": "10 - OUT OF BRAIN CELLS/learn-anything.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Aimer7 Routine Addendum",
@@ -129,10 +141,6 @@
       "path": "00 - Maps of Content/99 Meetings.md"
     },
     {
-      "basename": "Introduction to Algorithms",
-      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
-    },
-    {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Software for Game dev",
       "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "Develop.games by Thor",
-      "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
     }
   ],
   "omittedPaths": [],

@@ -12,7 +12,7 @@ cssclasses:
 - [ ] fulltimegamedev (1 vid)
 - [ ] blender
 - [ ] dsa
-    - [ ] game math
+- [ ] game math
 
 
 

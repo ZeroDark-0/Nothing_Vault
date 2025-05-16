@@ -27,8 +27,11 @@ tags:
 
 ---
 
-## <code style="color:cyan">FullTimeGameDev</code>
+## <code style="color:cyan">Full Time Game Dev</code>
 
++ fulltimegamedev:
+    [[1. Course Overview]]
+    
 + [[The Secret to Finishing Your Game]]
 + 
 
