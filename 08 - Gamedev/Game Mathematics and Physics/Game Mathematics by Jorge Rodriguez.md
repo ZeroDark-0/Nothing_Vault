@@ -15,4 +15,5 @@ link: https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My&si=7-
 5. [Math for Game Developers - Character Movement 4 (Vector Scaling)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/5.%20Character%20Movement-4(Vector%20Scaling).cpp)
 6. [Math for Game Developers - Character Movement 5 (Unit-Length Vectors)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/6.Character%20movement-5(Unit-Length%20Vectors).cpp)
 7. [Math for Game Developers - Character Movement 6 (Adding Vectors)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/7.Character%20movement-6(Adding%20Vector).cpp)
-8. 
+8. [Math for Game Developers - In-Game Example](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/8.DoubleAction%20Source%20Code.txt)
+9. 

@@ -9,17 +9,17 @@ cssclasses:
 
 ### <code style="color:purple">Daily</code>
 
-- [ ] fulltimegamedev (1 vid)
-- [ ] blender
-- [ ] dsa
-- [ ] game math
+-  fulltimegamedev (1 vid)
+-  blender
+-  dsa
+-  game math
 
 
 
 
 
  - [ ] Multi Player System
- - [ ] Obsidian plugin
+ - [ ] Obsidian plugin css file
  - [ ] Github Profile Markdown
  
 
