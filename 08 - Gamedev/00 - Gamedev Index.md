@@ -30,7 +30,10 @@ tags:
 ## <code style="color:cyan">Full Time Game Dev</code>
 
 + fulltimegamedev:
-    [[1. Course Overview]]
+    [[0. Course Overview]]
+    [[1.Steam Wishlist -Pre-Marketing-]]
+    [[2.Photoshop -Pre-Marketing-]]
+    
     
 + [[The Secret to Finishing Your Game]]
 + 

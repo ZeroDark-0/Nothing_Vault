@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
-      "basename": "1. Course Overview",
-      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/1. Course Overview.md"
+      "basename": "2.Photoshop -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md"
+    },
+    {
+      "basename": "1.Steam Wishlist -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/1.Steam Wishlist -Pre-Marketing-.md"
+    },
+    {
+      "basename": "0. Course Overview",
+      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/0. Course Overview.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "Perspective Projection (Math behind 3D).md"
     },
     {
       "basename": "The Secret to Finishing Your Game",
@@ -15,10 +31,6 @@
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "Kadane's Algorithm",
@@ -31,10 +43,6 @@
     {
       "basename": "Introduction to Algorithms",
       "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
-    },
-    {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "Perspective Projection (Math behind 3D).md"
     },
     {
       "basename": "Modern C++ Programming Cookbook",
@@ -191,14 +199,6 @@
     {
       "basename": "How it works",
       "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
-    },
-    {
-      "basename": "ED-202502060042.excalidraw",
-      "path": "08 - Gamedev/Multiplayer Networking/ED-202502060042.excalidraw.md"
-    },
-    {
-      "basename": "Software for Game dev",
-      "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
     }
   ],
   "omittedPaths": [],
