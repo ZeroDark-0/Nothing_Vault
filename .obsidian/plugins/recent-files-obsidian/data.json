@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Body Structures (male).md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Live2D",
+      "path": "02 - Areas/Live2D.md"
+    },
+    {
+      "basename": "DSA",
+      "path": "02 - Areas/DSA.md"
+    },
+    {
+      "basename": "00 - Areas Map (202501181839)",
+      "path": "02 - Areas/00 - Areas Map (202501181839).md"
+    },
+    {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "Vulkan's Canonical View Volume.md"
+    },
+    {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "game math",
+      "path": "07 - Others/game math.md"
+    },
+    {
+      "basename": "Blender golden rule of 3",
+      "path": "07 - Others/Blender golden rule of 3.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "Other Game dev related",
+      "path": "08 - Gamedev/Other Game dev related.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "2.Photoshop -Pre-Marketing-",
@@ -21,24 +69,12 @@
       "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/0. Course Overview.md"
     },
     {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "Perspective Projection (Math behind 3D).md"
-    },
-    {
       "basename": "The Secret to Finishing Your Game",
       "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
       "basename": "Kadane's Algorithm",
       "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Introduction to Algorithms",
@@ -163,42 +199,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 5/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Interview Based Questions",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 6/Interview Based Questions.pdf"
-    },
-    {
-      "basename": "Assignment Problems on Binary Search",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 6/Assignment Problems on Binary Search.pdf"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 7/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 9/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Leetcode 463.excalidraw",
-      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
-    },
-    {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
-    },
-    {
-      "basename": "Other Game dev related",
-      "path": "08 - Gamedev/Other Game dev related.md"
-    },
-    {
-      "basename": "Multiplayer networking architecture by voxel",
-      "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
-    },
-    {
-      "basename": "How it works",
-      "path": "08 - Gamedev/Multiplayer Networking/How it works.md"
     }
   ],
   "omittedPaths": [],
