@@ -24,5 +24,23 @@ To construct the orthographic projection matrix we need to solve the problem to 
 ![[3-Perspective Projection (Math behind 3D).png]]
 
 
-So the numerator is the Canonical view volume and the denominator is the orthographic view volume.. ![[4-Perspective Projection (Math behind 3D).png]]
+So the numerator is the Canonical view volume and the denominator is the orthographic view volume.. \ ![[4-Perspective Projection (Math behind 3D).png]]
+
+
+By applying this method -> the object within the reason occupied by orthographic view volume will be scaled and view in canonical view volume.. 
+
+But the orthographic view volume doesn't apply perspective and so do that we require a viewing volume like a square frustum..
+
+![[5-Perspective Projection (Math behind 3D).png]]
+
+![[6-Perspective Projection (Math behind 3D).png]]
+
+To do this we have to get a 4X4 Matrix for the preceptive matrix. (Ax=B) but the thing arise that the product of the **<code style = "color:red">Ax</code>** matrix have a division by a Z component in X and Y components...  ![[7-Perspective Projection (Math behind 3D).png]]
+For that-> we use..\
+
+## <code style = "color:yellow">Homogeneous Vector</code>
+![[8-Perspective Projection (Math behind 3D).png]]
+
+We use the "W" as a forth component which set that -> W is always equals to one..
+and initially define the "W" as the denominator of X,Y and Z component..\
 
