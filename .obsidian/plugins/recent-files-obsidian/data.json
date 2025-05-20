@@ -5,12 +5,12 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "Perspective Projection (Math behind 3D).md"
-    },
-    {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "Perspective Projection (Math behind 3D).md"
     },
     {
       "basename": "0. Course Overview",

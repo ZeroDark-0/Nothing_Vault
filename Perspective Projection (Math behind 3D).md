@@ -2,6 +2,8 @@
 date: 2025-05-13T19:04
 tags: 
 link: https://youtu.be/U0_ONQQ5ZNM?si=fJffK6F0MiUyywJW
+share_link: https://share.note.sx/jzht20b1#HalgUl+OxlriBg1YFWkZKYivuYobSwZL+srD4dw8Rio
+share_updated: 2025-05-20T15:49:56+08:00
 ---
 
 Like in real life the observing a object is the light bounce to the object and then hit the eyes.. so to generate an image it's the opposite of that -> if you shot a ray from your eyes hit a color through a window what the color you hit is the pixel of that 2D image and that's how 3D graphic works.. 
