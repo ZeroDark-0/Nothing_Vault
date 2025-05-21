@@ -46,3 +46,22 @@ For that-> we use..\
 We use the "W" as a forth component which set that -> W is always equals to one..
 and initially define the "W" as the denominator of X,Y and Z component..\
 
+### Construction of Perspective Transformation
+
+From the knowledge, we can make a perspective transformation matrix-> in which the first two row have the distance of the viewing plane on the main diagonal and zero elsewhere...
+the final row will be [0,0,1,0]  to take the Z component from the input vector and move it top the w component of the solution vector...
+
+and the remaining is the third row -> remember that every component is divided by the w component.. meaning "Z" over "Z" is just one and now we lost our depth component..![[9-Perspective Projection (Math behind 3D).png]]
+
+So to do that we can have Z * Z in the final matrix cuz z * z is z itself ..
+meaning we got only 2 unknown component for the perspective matrix..
+![[10-Perspective Projection (Math behind 3D).png]]
+![[11-Perspective Projection (Math behind 3D).png]]
+
+putting this in the z component making Z^2 = ![[12-Perspective Projection (Math behind 3D).png]]
+
+meaning ->
+![[13-Perspective Projection (Math behind 3D).png]]
+
+![[14-Perspective Projection (Math behind 3D).png]]
+
