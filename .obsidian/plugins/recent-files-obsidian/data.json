@@ -9,12 +9,12 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
-    },
-    {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
     },
     {
       "basename": "01 Map",
