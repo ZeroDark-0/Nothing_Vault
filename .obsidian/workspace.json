@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulkan's Canonical View Volume.md",
+                "file": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -314,11 +314,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a0fa04b179aa16bf",
+  "active": "a5e93e506d11fb66",
   "lastOpenFiles": [
+    "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
     "99 - Meta/attachments/1-Vulkan's Canonical View Volume.png",
     "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
-    "Vulkan's Canonical View Volume.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md",
     "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
     "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
@@ -336,7 +336,6 @@
     "99 - Meta/attachments/8-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/7-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/6-Perspective Projection (Math behind 3D).png",
-    "99 - Meta/attachments/5-Perspective Projection (Math behind 3D).png",
     "202505182205.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/0. Course Overview.md",
     "02 - Areas/2D Art/Body Structures (male).md",
