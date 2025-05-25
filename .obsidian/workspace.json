@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5786ce86c292db9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game Mathematics by Jorge Rodriguez"
-            }
-          },
-          {
-            "id": "c5a6248d0605366f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07 - Others/Blender golden rule of 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blender golden rule of 3"
-            }
-          },
-          {
-            "id": "fa32188c37300c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perspective Projection (Math behind 3D)"
-            }
-          },
-          {
             "id": "a0fa04b179aa16bf",
             "type": "leaf",
             "state": {
@@ -64,21 +22,21 @@
             }
           },
           {
-            "id": "a5e93e506d11fb66",
+            "id": "4369b5d8ea39c36e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Gamedev/00 - Gamedev Index.md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Gamedev Index"
+              "title": "00 Homepage"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,17 +272,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a5e93e506d11fb66",
+  "active": "4369b5d8ea39c36e",
   "lastOpenFiles": [
     "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
+    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
+    "07 - Others/Blender golden rule of 3.md",
+    "08 - Gamedev/00 - Gamedev Index.md",
+    "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
     "99 - Meta/attachments/1-Vulkan's Canonical View Volume.png",
     "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md",
-    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
-    "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
     "00 - Maps of Content/00 Homepage.md",
-    "07 - Others/Blender golden rule of 3.md",
-    "08 - Gamedev/00 - Gamedev Index.md",
     "00 - Maps of Content/01 Map.md",
     "99 - Meta/attachments/14-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/13-Perspective Projection (Math behind 3D).png",
