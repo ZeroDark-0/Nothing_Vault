@@ -16,9 +16,8 @@ link: https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My&si=7-
 6. [Math for Game Developers - Character Movement 5 (Unit-Length Vectors)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/06.Character%20movement-5(Unit-Length%20Vectors).cpp)
 7. [Math for Game Developers - Character Movement 6 (Adding Vectors)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/07.Character%20movement-6(Adding%20Vector).cpp)
 8. [Math for Game Developers - In-Game Example](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/08.DoubleAction%20Source%20Code.txt)
-9. [Math for Game Developers - Backstabbing (Dot Product)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/09.-10.%20Backstabbing%20(Dot%20Product).cpp) 
-10. [Math for Game Developers - Backstabbing Part 2](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/09.-10.%20Backstabbing%20(Dot%20Product).cpp)
-11. [Math for Game Developers - Jumping and Gravity (Time Delta, Game Loop)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/11.Jumping%20and%20Gravity%20(Time%20Delta%2C%20Game%20Loop).cpp)
-12. [Math for Game Developers - Smooth Move(ment)4 (Linear Interpolation)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/12.Smooth%20Move(ment)%20(Linear%20Interpolation).cpp)
-13. [Math for Game Developers - Mouse Control (Euler Angles)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/13.Mouse%20Control%20(Euler%20Angles).cpp)
-14. []
+9. [Math for Game Developers - Backstabbing (Dot Product) and Backstabbing Part 2](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/09.-10.%20Backstabbing%20(Dot%20Product).cpp)
+10. [Math for Game Developers - Jumping and Gravity (Time Delta, Game Loop)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/11.Jumping%20and%20Gravity%20(Time%20Delta%2C%20Game%20Loop).cpp)
+11. [Math for Game Developers - Smooth Move(ment)4 (Linear Interpolation)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/12.Smooth%20Move(ment)%20(Linear%20Interpolation).cpp)
+12. [Math for Game Developers - Mouse Control (Euler Angles)](https://github.com/ZeroDark-0/Game-Mathematics/blob/master/13.Mouse%20Control%20(Euler%20Angles).cpp)
+13. []

@@ -8,35 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0fa04b179aa16bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vulkan's Canonical View Volume"
-            }
-          },
-          {
             "id": "4369b5d8ea39c36e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "Game Mathematics by Jorge Rodriguez"
+            }
+          },
+          {
+            "id": "7e1ca42676d2d98a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/03 - DevOps/DevOps Day-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevOps Day-1"
+            }
+          },
+          {
+            "id": "3faa63f37bafab8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Gamedev/00 - Gamedev Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 - Gamedev Index"
+            }
+          },
+          {
+            "id": "858d5916c8b7127c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZZZ Character Model by 2AM"
+            }
+          },
+          {
+            "id": "3f4c002814230a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/01 Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Map"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,17 +314,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4369b5d8ea39c36e",
+  "active": "3f4c002814230a6f",
   "lastOpenFiles": [
-    "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
-    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
-    "07 - Others/Blender golden rule of 3.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-1.md",
+    "04 - Permanent/03 - DevOps",
+    "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "99 - Meta/attachments/1-DevOps.png",
     "08 - Gamedev/00 - Gamedev Index.md",
+    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
+    "Grokking the Coding Interview/1. Introduction.md",
+    "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
+    "Grokking the Coding Interview/2. Pattern Sliding Window",
+    "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/1. Introduction.md",
+    "Grokking the Coding Interview/8. Pattern Tree Breadth First Search",
+    "Grokking the Coding Interview",
+    "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
+    "X/Aimer7 Routine Addendum.pdf",
+    "X/Game Sense.md",
+    "X/Improve 7X Faster.md",
+    "X/kovaaks-playlist-compendium.md",
+    "X/Tammas' Routine Addendum (edited).pdf",
+    "X/Target or Crosshair.md",
+    "07 - Others/Blender golden rule of 3.md",
     "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
     "99 - Meta/attachments/1-Vulkan's Canonical View Volume.png",
     "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md",
-    "00 - Maps of Content/00 Homepage.md",
     "00 - Maps of Content/01 Map.md",
     "99 - Meta/attachments/14-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/13-Perspective Projection (Math behind 3D).png",
@@ -293,32 +351,16 @@
     "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
     "99 - Meta/attachments/8-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/7-Perspective Projection (Math behind 3D).png",
-    "99 - Meta/attachments/6-Perspective Projection (Math behind 3D).png",
     "202505182205.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/0. Course Overview.md",
     "02 - Areas/2D Art/Body Structures (male).md",
     "02 - Areas/Live2D.md",
     "02 - Areas/DSA.md",
     "02 - Areas/00 - Areas Map (202501181839).md",
-    "07 - Others/game math.md",
-    "07 - Others/Discord.md",
-    "08 - Gamedev/Portfolio for Gamedev.md",
-    "08 - Gamedev/Other Game dev related.md",
-    "08 - Gamedev/Full Time Game Dev/fulltimegamedev/1.Steam Wishlist -Pre-Marketing-.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/Pre-marketing",
-    "04 - Permanent/02 - DSA/Kadane's Algorithm.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev",
-    "08 - Gamedev/FullTimeGameDev/Untitled.md",
-    "03 - Resources/02 - DSA/Introduction to Algorithms.md",
-    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
     "99 - Meta/attachments/C++ cookbook.pdf",
     "08 - Gamedev/Game Mathematics and Physics",
-    "X/Aimer7 Routine Addendum.pdf",
-    "99 - Meta/attachments/1-Competitive Programming.pdf",
-    "X/Tammas' Routine Addendum (edited).pdf",
-    "04 - Permanent/02 - DSA",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
     "Untitled.canvas",
     "03 - Resources/Untitled.canvas"
   ]

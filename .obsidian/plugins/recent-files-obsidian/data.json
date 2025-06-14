@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "DevOps Day-1",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-1.md"
+    },
+    {
+      "basename": "ZZZ Character Model by 2AM",
+      "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
-      "basename": "Blender golden rule of 3",
-      "path": "07 - Others/Blender golden rule of 3.md"
+      "basename": "2. Binary Tree Level Order Traversal",
+      "path": "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
     },
     {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
+      "basename": "1. Introduction",
+      "path": "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/1. Introduction.md"
+    },
+    {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+    },
+    {
+      "basename": "Aimer7 Routine Addendum",
+      "path": "X/Aimer7 Routine Addendum.pdf"
+    },
+    {
+      "basename": "Game Sense",
+      "path": "X/Game Sense.md"
+    },
+    {
+      "basename": "Improve 7X Faster",
+      "path": "X/Improve 7X Faster.md"
+    },
+    {
+      "basename": "kovaaks-playlist-compendium",
+      "path": "X/kovaaks-playlist-compendium.md"
+    },
+    {
+      "basename": "Tammas' Routine Addendum (edited)",
+      "path": "X/Tammas' Routine Addendum (edited).pdf"
+    },
+    {
+      "basename": "Target or Crosshair",
+      "path": "X/Target or Crosshair.md"
+    },
+    {
+      "basename": "Blender golden rule of 3",
+      "path": "07 - Others/Blender golden rule of 3.md"
     },
     {
       "basename": "Perspective Projection (Math behind 3D)",
@@ -31,10 +75,6 @@
     {
       "basename": "2.Photoshop -Pre-Marketing-",
       "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Arch Linux Installation (202501010710)",
@@ -113,24 +153,12 @@
       "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-2.md"
     },
     {
-      "basename": "ZZZ Character Model by 2AM",
-      "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
-    },
-    {
       "basename": "learn-anything",
       "path": "10 - OUT OF BRAIN CELLS/learn-anything.md"
     },
     {
-      "basename": "Aimer7 Routine Addendum",
-      "path": "X/Aimer7 Routine Addendum.pdf"
-    },
-    {
       "basename": "CREATE YOUR OWN X",
       "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
-    },
-    {
-      "basename": "kovaaks-playlist-compendium",
-      "path": "X/kovaaks-playlist-compendium.md"
     },
     {
       "basename": "Secure Boot YT(202501031505)",
@@ -153,22 +181,6 @@
       "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
     },
     {
-      "basename": "Tammas' Routine Addendum (edited)",
-      "path": "X/Tammas' Routine Addendum (edited).pdf"
-    },
-    {
-      "basename": "Target or Crosshair",
-      "path": "X/Target or Crosshair.md"
-    },
-    {
-      "basename": "Improve 7X Faster",
-      "path": "X/Improve 7X Faster.md"
-    },
-    {
-      "basename": "Game Sense",
-      "path": "X/Game Sense.md"
-    },
-    {
       "basename": "Some Useful Website",
       "path": "05 - Archives/Some Useful Website.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
-    },
-    {
-      "basename": "00 - DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
     }
   ],
   "omittedPaths": [],
