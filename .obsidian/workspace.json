@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/03 - DevOps/DevOps Day-1.md",
+                "file": "DevOps Day-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps Day-1"
+              "title": "DevOps Day-2"
             }
           },
           {
@@ -55,30 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md",
+                "file": "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZZZ Character Model by 2AM"
-            }
-          },
-          {
-            "id": "3f4c002814230a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps of Content/01 Map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 Map"
+              "title": "2. Binary Tree Level Order Traversal"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,19 +300,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f4c002814230a6f",
+  "active": "48db5e5e042efd58",
   "lastOpenFiles": [
+    "00 - Maps of Content/01 Map.md",
+    "DevOps Day-2.md",
     "04 - Permanent/03 - DevOps/DevOps Day-1.md",
-    "04 - Permanent/03 - DevOps",
-    "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md",
     "00 - Maps of Content/00 Homepage.md",
+    "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
+    "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/1. Introduction.md",
+    "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md",
+    "04 - Permanent/03 - DevOps",
     "99 - Meta/attachments/1-DevOps.png",
     "08 - Gamedev/00 - Gamedev Index.md",
     "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
     "Grokking the Coding Interview/1. Introduction.md",
-    "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
     "Grokking the Coding Interview/2. Pattern Sliding Window",
-    "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/1. Introduction.md",
     "Grokking the Coding Interview/8. Pattern Tree Breadth First Search",
     "Grokking the Coding Interview",
     "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
@@ -341,7 +329,6 @@
     "99 - Meta/attachments/1-Vulkan's Canonical View Volume.png",
     "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md",
-    "00 - Maps of Content/01 Map.md",
     "99 - Meta/attachments/14-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/13-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/12-Perspective Projection (Math behind 3D).png",

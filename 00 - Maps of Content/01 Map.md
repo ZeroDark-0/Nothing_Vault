@@ -98,6 +98,7 @@ SORT file.name ASC
 
  + 4.3 DevOps
     + [[DevOps Day-1]]
+    + [[DevOps Day-2]]
     + 
 
 
@@ -140,7 +141,6 @@ SORT file.name ASC
 # <code style="color: #e3365e">7. Other</code>
 
   - [[Blender golden rule of 3]]
-  - [[Discord]]
   - [[DSA Class]]
   - [[game math]]
   - 

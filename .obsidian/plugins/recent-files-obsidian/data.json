@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DevOps Day-2",
+      "path": "DevOps Day-2.md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
@@ -9,20 +13,8 @@
       "path": "04 - Permanent/03 - DevOps/DevOps Day-1.md"
     },
     {
-      "basename": "ZZZ Character Model by 2AM",
-      "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
-    },
-    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "2. Binary Tree Level Order Traversal",
@@ -31,6 +23,18 @@
     {
       "basename": "1. Introduction",
       "path": "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/1. Introduction.md"
+    },
+    {
+      "basename": "ZZZ Character Model by 2AM",
+      "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "Vulkan's Canonical View Volume",
@@ -195,10 +199,6 @@
     {
       "basename": "Github Dynamic ReadMe",
       "path": "01 - Projects/Github Dynamic ReadMe.md"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
     }
   ],
   "omittedPaths": [],

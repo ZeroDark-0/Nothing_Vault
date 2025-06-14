@@ -2,14 +2,14 @@
 date: 2025-06-13T17:41
 tags: []
 share_link: https://share.note.sx/5hzrjmt1#3ObqL6FX3kPv+TGJOB8sqZAqhFda2qbgMTTwzAuSULk
-share_updated: 2025-06-13T19:43:39+08:00
+share_updated: 2025-06-14T16:46:01+08:00
 ---
 
 ## <code style="color:red"> DevOps </code>
 
 Why DevOps needed? -> ==to Decrease the delay release and complicated integrated between dev and Ops team==
 
-Before the DevOps, waterfall method was used which delay the relase and complicated integration..
+Before the DevOps, waterfall method was used which delay the release and complicated integration..
 
 ### <code style = "color:cyan">Core - Principle:</code>
 
