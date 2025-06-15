@@ -5,16 +5,16 @@
       "path": "04 - Permanent/03 - DevOps/DevOps Day-2.md"
     },
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "DevOps Day-1",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-1.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "2. Binary Tree Level Order Traversal",

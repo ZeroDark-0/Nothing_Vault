@@ -106,7 +106,12 @@ def create_ec2_instance():
     )
     print('Created Instance')
 if __name__=='__main'
-    create_ec2_instance()](<import boto3
+    create_ec2_instance()
+```
+
+```python
+    
+import boto3
 
 def create_ec2_instance():
     ec2 = boto3.resource('ec2', region_name='us-east-1')  # Replace with your desired region
