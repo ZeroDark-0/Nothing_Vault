@@ -21,7 +21,6 @@
   "janitor",
   "obsidian-kanban",
   "note-refactor-obsidian",
-  "obsidian-plugin-update-tracker",
   "obsidian-reading-time",
   "obsidian-tasks-plugin",
   "obsidian-textgenerator-plugin",
@@ -46,5 +45,6 @@
   "customjs",
   "editor-width-slider",
   "obsidian-paste-image-rename",
-  "share-note"
+  "share-note",
+  "obsidian-plugin-update-tracker"
 ]
