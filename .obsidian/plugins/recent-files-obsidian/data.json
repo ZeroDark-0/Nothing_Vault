@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "DevOps Day-2",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-2.md"
+      "basename": "DevOps Day-3",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "2. Binary Tree Level Order Traversal",
       "path": "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "DevOps Day-2",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-2.md"
     },
     {
       "basename": "DevOps Day-1",
@@ -27,14 +43,6 @@
     {
       "basename": "ZZZ Character Model by 2AM",
       "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "Vulkan's Canonical View Volume",
@@ -191,14 +199,6 @@
     {
       "basename": "2024-12-29",
       "path": "09 - Periodic/00 - Daily/2024-12-29.md"
-    },
-    {
-      "basename": "Blender Course by CrossMind Studio",
-      "path": "08 - Gamedev/3D Art Resource and Notes/Blender Course by CrossMind Studio.md"
-    },
-    {
-      "basename": "Github Dynamic ReadMe",
-      "path": "01 - Projects/Github Dynamic ReadMe.md"
     }
   ],
   "omittedPaths": [],

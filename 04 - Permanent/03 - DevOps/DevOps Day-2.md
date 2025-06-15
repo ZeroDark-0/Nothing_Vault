@@ -2,7 +2,7 @@
 date: 2025-06-14T21:52
 tags: []
 share_link: https://share.note.sx/44ttxzf1#P76+46BzYaGuDdcYcP9liZFjtLuJ3T0q6GPakIXQfuI
-share_updated: 2025-06-15T00:30:53+08:00
+share_updated: 2025-06-15T16:50:22+08:00
 ---
 
 ## VM (Virtual Machine)
