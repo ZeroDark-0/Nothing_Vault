@@ -5,6 +5,10 @@
       "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
     },
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
