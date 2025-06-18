@@ -22,20 +22,35 @@
             }
           },
           {
-            "id": "858d5916c8b7127c",
+            "id": "d5638cc7c9fb642b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grokking the Coding Interview/8. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
+                "file": "04 - Permanent/03 - DevOps/0 - DevOps MCQs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Binary Tree Level Order Traversal"
+              "title": "0 - DevOps MCQs"
+            }
+          },
+          {
+            "id": "940ebef311bcae25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/01 Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 288.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -271,20 +286,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3faa63f37bafab8a",
+  "active": "d5638cc7c9fb642b",
   "lastOpenFiles": [
-    "05 - Archives/Some Useful Website.md",
-    "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
-    "08 - Gamedev/Portfolio for Gamedev.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/1. Introduction.md",
-    "08 - Gamedev/00 - Gamedev Index.md",
-    "04 - Permanent/03 - DevOps/DevOps Day-3.md",
     "00 - Maps of Content/01 Map.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-2.md",
+    "04 - Permanent/03 - DevOps/0 - DevOps MCQs.md",
+    "99 - Meta/attachments/1-DevOps MCQs.pdf",
+    "04 - Permanent/03 - DevOps/DevOps Day-1.md",
+    "04 - Permanent/03 - DevOps/Untitled.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-4.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-3.md",
+    "08 - Gamedev/00 - Gamedev Index.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
+    "05 - Archives/Some Useful Website.md",
+    "08 - Gamedev/Portfolio for Gamedev.md",
+    "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/1. Introduction.md",
     "00 - Maps of Content/99 Meetings.md",
     "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
-    "04 - Permanent/03 - DevOps/DevOps Day-2.md",
-    "04 - Permanent/03 - DevOps/DevOps Day-1.md",
     "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md",
     "04 - Permanent/03 - DevOps",
     "99 - Meta/attachments/1-DevOps.png",
@@ -303,22 +322,17 @@
     "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
     "99 - Meta/attachments/1-Vulkan's Canonical View Volume.png",
     "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
-    "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md",
     "99 - Meta/attachments/14-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/13-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/12-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/11-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/10-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/9-Perspective Projection (Math behind 3D).png",
-    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
     "99 - Meta/attachments/8-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/7-Perspective Projection (Math behind 3D).png",
-    "202505182205.md",
-    "08 - Gamedev/Full Time Game Dev/fulltimegamedev/0. Course Overview.md",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev/Pre-marketing",
     "08 - Gamedev/Full Time Game Dev/fulltimegamedev",
     "99 - Meta/attachments/C++ cookbook.pdf",
-    "08 - Gamedev/Game Mathematics and Physics",
     "Untitled.canvas",
     "03 - Resources/Untitled.canvas"
   ]

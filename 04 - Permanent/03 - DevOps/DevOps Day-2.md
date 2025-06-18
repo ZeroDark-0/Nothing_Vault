@@ -75,6 +75,17 @@ AL/ML -> GCP
 Virtual Machine -> AWS
 Authorization -> Azure 
 
+## <code style="color:red">boto codes doc.</code>
+
+https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html
+```embed
+title: "EC2 - Boto3 1.38.37 documentation"
+image: "https://boto3.amazonaws.com/v1/documentation/api/latest/_static/logos/aws_light_theme_logo.svg"
+description: ""
+url: "https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2.html"
+favicon: ""
+aspectRatio: "59.76095617529881"
+```
 
 # <code style="color:blue">AWS</code>
  Library -> boto3
@@ -155,4 +166,5 @@ Step - 1 -> https://awscli.amazonaws.com/AWSCLIV2-[version.number].msi
 Here the [version.number] is from [raw.githubusercontent.com](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst)
 
 Step - 2 -> ==cmd== -> `aws --version`
+
 

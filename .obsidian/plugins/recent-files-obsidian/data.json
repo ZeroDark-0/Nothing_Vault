@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "0 - DevOps MCQs",
+      "path": "04 - Permanent/03 - DevOps/0 - DevOps MCQs.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "DevOps Day-2",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-2.md"
+    },
+    {
+      "basename": "DevOps Day-1",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-1.md"
+    },
+    {
+      "basename": "DevOps Day-4",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-4.md"
+    },
+    {
+      "basename": "DevOps Day-3",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "2. Binary Tree Level Order Traversal",
       "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
     },
@@ -13,24 +45,8 @@
       "path": "08 - Gamedev/Portfolio for Gamedev.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
       "basename": "1. Introduction",
       "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/1. Introduction.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
-      "basename": "DevOps Day-3",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "99 Meetings",
@@ -39,14 +55,6 @@
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "DevOps Day-2",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-2.md"
-    },
-    {
-      "basename": "DevOps Day-1",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-1.md"
     },
     {
       "basename": "ZZZ Character Model by 2AM",
@@ -191,14 +199,6 @@
     {
       "basename": "Competitive Programming",
       "path": "03 - Resources/01 - Programming/Competitive Programming.md"
-    },
-    {
-      "basename": "1-Competitive Programming",
-      "path": "99 - Meta/attachments/1-Competitive Programming.pdf"
-    },
-    {
-      "basename": "2024-12-29",
-      "path": "09 - Periodic/00 - Daily/2024-12-29.md"
     }
   ],
   "omittedPaths": [],

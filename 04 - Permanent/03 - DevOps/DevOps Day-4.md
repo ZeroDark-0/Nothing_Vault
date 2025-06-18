@@ -1,0 +1,160 @@
+---
+date: 2025-06-18T10:38
+tags:
+---
+
+
+//Project -> Shell Scripting -> report AWS usage
+Tier -> 1Rs / 1Sec -> 4hours -> 3600 sec * 1Rs
+
+AWS - usage - reporter
+Shell Scripting Project to retrieve and report Amazon web services cost -> AWS CLI current Month
+
+Read.Me -> 
+### <code style="color:yellow">AWS usage reporter </code>
+
+A shell script project to retrieve and report AWS cost and usage by servbices.
+
+#### <code style="color:cyan"> -> Requirements </code>
+IAM USER -> Identity and access management -> its a framework that manage controls to respirces
+in an  org -> AWS -> different 
+
+Usage :
+`chmod +x aws-usage-report.sh `
+`./aws-usage-report-report.sh`
+
+# <code style="color:red">Structure</code>
+
+aws-usage-repport.sh
+    aws-usage-report.sh
+    config.sh
+    README.md
+    output
+
+aws-usage-report.sh
+
+`#!/bin/bash`
+
+-> Load config
+source `"$(dirname "$0")/config.sh"`
+
+->check if aws CLI is installed
+```bash
+if 1!command -v aws &> /dev/null; then
+echo "AWS CLI NOT FOUND"
+exit 1
+fi```
+
+->compute  start and end data & time
+```bash
+START_DATE=$(date -d "$(date +%Y-%m-01)" +%F)
+END_DATE=$
+```
+
+```bash
+echo "AWS Cost & Usage Report"
+echo "Date Range: $START_DATE to END_DATE"
+echo "Region":$AWS_REGION"
+```
+
+
+->Fetch TOTAL COST
+```bash
+TOTAL_COST = $(aws ce get-cost-and-usage \
+--time-period Start=$START-_DATE,End = $END_DATE \
+--granularity MONTHLY\                                                 (//mean monthy or weekly)
+--metrics "Unblended cost" \
+--region "$AWS_REGION" \
+--group-by Type=DIMENSION, Key=SERVICE \
+--query 'ResultByTime[0].roups[*].{Service:Key[0], Cost:Metrics.UnblendedCost.Amount}'\
+--output table
+```
+
+
+-> docs for some aws CLI commands and code:
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.aws.amazon.com/redshift/latest/dg/Date_functions_header.html" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://docs.aws.amazon.com/assets/images/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Date and time functions - Amazon Redshift</h1>
+		<p class="rich-link-card-description">
+		Find descriptions of the date and time scalar functions for SQL that Amazon Redshift supports.
+		</p>
+		<p class="rich-link-href">
+		https://docs.aws.amazon.com/redshift/latest/dg/Date_functions_header.html
+		</p>
+	</div>
+</a></div>
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://medium.com/statuspal/what-is-the-role-of-a-devops-engineer-08d9dc4e3134" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://miro.medium.com/v2/resize:fit:1200/0*kXqWXfK5UTSTKyGp.jpg')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">What Is the Role of a DevOps Engineer?</h1>
+		<p class="rich-link-card-description">
+		Explore the comprehensive role of a DevOps engineer, including their key responsibilities, essential skills, and the tools and technologies they employ.
+		</p>
+		<p class="rich-link-href">
+		https://medium.com/statuspal/what-is-the-role-of-a-devops-engineer-08d9dc4e3134
+		</p>
+	</div>
+</a></div>
+
+
+
+->optionally save file
+
+```bash
+if [["$SAVE-TO-FILE" == true]]; then
+    mkdir -p output
+    FILENAME="output/aws-usage-$(date  +%Y-%m).txt"
+    {
+        echo "AWS Ua=sage Report ($START_DATE to $END_DATE)"
+        echo "Total Estimated Cost : \$TOTAL_COST"
+        echo
+        echo "Cost By Services"
+        aws ce get-cost-and-usage
+        --time-periiod Start=$START_DATE, End=$END_DATE \
+        --granularity MONTHLY \
+        --metrics "UnblendedCost" \
+        --region "$AWS_REGION" \
+        --group-by Type=DIMENSION, Key=SERVICE \
+        --query 'ResultByTime[0].Group[*].{Service:Key[0],Cost:Metrics.UnblendedCost.Amount}' \
+        --output table
+    } >"$FILENAME"
+    
+    echo "REPORT SAVE_TO_FILE"
+echo "REPORT SAVED TO $FILENAME"
+
+fi
+
+
+// COnfig 
+AWS REGION =
+SAVE_TO_FILE
+```
+
+### <code style="color:blue"> API </code>
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.aws.amazon.com/cost-management/latest/userguide/ce-api.html" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://docs.aws.amazon.com/assets/images/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Using the AWS Cost Explorer API - AWS Cost Management</h1>
+		<p class="rich-link-card-description">
+		Understand how to use the Cost Explorer API to programmatically query your cost and usage data.
+		</p>
+		<p class="rich-link-href">
+		https://docs.aws.amazon.com/cost-management/latest/userguide/ce-api.html
+		</p>
+	</div>
+</a></div>
+
+

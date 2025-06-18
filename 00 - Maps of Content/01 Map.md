@@ -97,9 +97,11 @@ SORT file.name ASC
     + 
 
  + 4.3 DevOps
+    + [[0 - DevOps MCQs]]
     + [[DevOps Day-1]]
     + [[DevOps Day-2]]
     + [[DevOps Day-3]]
+    + [[DevOps Day-4]]
     + 
 
 
