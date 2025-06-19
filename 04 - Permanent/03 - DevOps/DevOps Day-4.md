@@ -19,10 +19,6 @@ A shell script project to retrieve and report AWS cost and usage by servbices.
 IAM USER -> Identity and access management -> its a framework that manage controls to respirces
 in an  org -> AWS -> different 
 
-Usage :
-`chmod +x aws-usage-report.sh `
-`./aws-usage-report-report.sh`
-
 # <code style="color:red">Structure</code>
 
 aws-usage-repport.sh
@@ -105,10 +101,12 @@ TOTAL_COST = $(aws ce get-cost-and-usage \
 	</div>
 </a></div>
 
+---
 
 
-->optionally save file
+-->Create two files ==aws-usage-report.sh and config.sh== 
 
+->in file ==aws-usage-report.sh==
 ```bash
 if [["$SAVE-TO-FILE" == true]]; then
     mkdir -p output
@@ -132,13 +130,22 @@ if [["$SAVE-TO-FILE" == true]]; then
 echo "REPORT SAVED TO $FILENAME"
 
 fi
-
-
-// COnfig 
-AWS REGION =
-SAVE_TO_FILE
 ```
 
+
+--> In file ==config.sh=
+```
+
+// COnfig 
+AWS REGION = " "
+SAVE_TO_FILE=true
+```
+
+Usage :
+`chmod +x aws-usage-report.sh `
+`./aws-usage-usage-report.sh`
+
+---
 ### <code style="color:blue"> API </code>
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.aws.amazon.com/cost-management/latest/userguide/ce-api.html" target="_blank">
