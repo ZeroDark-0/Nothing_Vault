@@ -145,6 +145,8 @@ Usage :
 `chmod +x aws-usage-report.sh `
 `./aws-usage-usage-report.sh`
 
+--> to get the credential go to === ***AWS cost Management***  ===
+
 ---
 ### <code style="color:blue"> API </code>
 
