@@ -143,3 +143,7 @@ url: "https://curl.se/"
 favicon: ""
 aspectRatio: "29.978118161925604"
 ```
+
+
+#### Note ->
+if your accessing the public repo you don't need the token but if you are accessing a private repo you must have a token for that...
