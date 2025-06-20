@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "DevOps Day-5",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-5.md"
+    },
+    {
       "basename": "DevOps Day-4",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-4.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 Homepage",
@@ -27,10 +35,6 @@
     {
       "basename": "0 - DevOps EveryDay MCQs",
       "path": "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 - Gamedev Index",
@@ -195,10 +199,6 @@
     {
       "basename": "Latex",
       "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "Competitive Programming",
-      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
     }
   ],
   "omittedPaths": [],
