@@ -27,35 +27,35 @@ aws-usage-repport.sh
     README.md
     output
 
-aws-usage-report.sh
+-->Create two files ==aws-usage-report.sh and config.sh== 
 
-`#!/bin/bash`
+->in file ==aws-usage-report.sh==
+```bash
+#!/bin/bash
 
--> Load config
+# Load config
 source `"$(dirname "$0")/config.sh"`
 
-->check if aws CLI is installed
-```bash
-if 1!command -v aws &> /dev/null; then
+# check if AWS CLI is installed
+
+if !command -v aws &> /dev/null; then
 echo "AWS CLI NOT FOUND"
 exit 1
-fi```
+fi
 
-->compute  start and end data & time
-```bash
+# compute  start and end data & time
+
 START_DATE=$(date -d "$(date +%Y-%m-01)" +%F)
 END_DATE=$
-```
 
-```bash
 echo "AWS Cost & Usage Report"
 echo "Date Range: $START_DATE to END_DATE"
 echo "Region":$AWS_REGION"
-```
 
 
-->Fetch TOTAL COST
-```bash
+
+# Fetch and Display TOTAL COST
+
 TOTAL_COST = $(aws ce get-cost-and-usage \
 --time-period Start=$START-_DATE,End = $END_DATE \
 --granularity MONTHLY\                                                 (//mean monthy or weekly)
@@ -64,50 +64,11 @@ TOTAL_COST = $(aws ce get-cost-and-usage \
 --group-by Type=DIMENSION, Key=SERVICE \
 --query 'ResultByTime[0].roups[*].{Service:Key[0], Cost:Metrics.UnblendedCost.Amount}'\
 --output table
-```
 
 
--> docs for some aws CLI commands and code:
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.aws.amazon.com/redshift/latest/dg/Date_functions_header.html" target="_blank">
-	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://docs.aws.amazon.com/assets/images/favicon.ico')">
-	</div>
-	</div>
-	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">Date and time functions - Amazon Redshift</h1>
-		<p class="rich-link-card-description">
-		Find descriptions of the date and time scalar functions for SQL that Amazon Redshift supports.
-		</p>
-		<p class="rich-link-href">
-		https://docs.aws.amazon.com/redshift/latest/dg/Date_functions_header.html
-		</p>
-	</div>
-</a></div>
 
+#optionally save the file
 
-<div class="rich-link-card-container"><a class="rich-link-card" href="https://medium.com/statuspal/what-is-the-role-of-a-devops-engineer-08d9dc4e3134" target="_blank">
-	<div class="rich-link-image-container">
-		<div class="rich-link-image" style="background-image: url('https://miro.medium.com/v2/resize:fit:1200/0*kXqWXfK5UTSTKyGp.jpg')">
-	</div>
-	</div>
-	<div class="rich-link-card-text">
-		<h1 class="rich-link-card-title">What Is the Role of a DevOps Engineer?</h1>
-		<p class="rich-link-card-description">
-		Explore the comprehensive role of a DevOps engineer, including their key responsibilities, essential skills, and the tools and technologies they employ.
-		</p>
-		<p class="rich-link-href">
-		https://medium.com/statuspal/what-is-the-role-of-a-devops-engineer-08d9dc4e3134
-		</p>
-	</div>
-</a></div>
-
----
-
-
--->Create two files ==aws-usage-report.sh and config.sh== 
-
-->in file ==aws-usage-report.sh==
-```bash
 if [["$SAVE-TO-FILE" == true]]; then
     mkdir -p output
     FILENAME="output/aws-usage-$(date  +%Y-%m).txt"
@@ -146,6 +107,41 @@ Usage :
 `./aws-usage-usage-report.sh`
 
 --> to get the credential go to === ***AWS cost Management***  ===
+-> docs for some aws CLI commands and code:
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://docs.aws.amazon.com/redshift/latest/dg/Date_functions_header.html" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://docs.aws.amazon.com/assets/images/favicon.ico')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">Date and time functions - Amazon Redshift</h1>
+		<p class="rich-link-card-description">
+		Find descriptions of the date and time scalar functions for SQL that Amazon Redshift supports.
+		</p>
+		<p class="rich-link-href">
+		https://docs.aws.amazon.com/redshift/latest/dg/Date_functions_header.html
+		</p>
+	</div>
+</a></div>
+
+
+<div class="rich-link-card-container"><a class="rich-link-card" href="https://medium.com/statuspal/what-is-the-role-of-a-devops-engineer-08d9dc4e3134" target="_blank">
+	<div class="rich-link-image-container">
+		<div class="rich-link-image" style="background-image: url('https://miro.medium.com/v2/resize:fit:1200/0*kXqWXfK5UTSTKyGp.jpg')">
+	</div>
+	</div>
+	<div class="rich-link-card-text">
+		<h1 class="rich-link-card-title">What Is the Role of a DevOps Engineer?</h1>
+		<p class="rich-link-card-description">
+		Explore the comprehensive role of a DevOps engineer, including their key responsibilities, essential skills, and the tools and technologies they employ.
+		</p>
+		<p class="rich-link-href">
+		https://medium.com/statuspal/what-is-the-role-of-a-devops-engineer-08d9dc4e3134
+		</p>
+	</div>
+</a></div>
+
+
 
 ---
 ### <code style="color:blue"> API </code>
