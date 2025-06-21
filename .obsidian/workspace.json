@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/03 - DevOps/DevOps Day-5.md",
+                "file": "DevOps Day-6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps Day-5"
+              "title": "DevOps Day-6"
             }
           }
         ],
@@ -274,19 +274,20 @@
   },
   "active": "b5bba06bc876ad02",
   "lastOpenFiles": [
-    "04 - Permanent/03 - DevOps/DevOps Day-4.md",
-    "04 - Permanent/03 - DevOps/DevOps Day-5.md",
-    "04 - Permanent/03 - DevOps/DevOps Day-3.md",
-    "00 - Maps of Content/01 Map.md",
     "00 - Maps of Content/00 Homepage.md",
-    "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
+    "DevOps Day-6.md",
     "04 - Permanent/03 - DevOps/DevOps Day-2.md",
+    "05 - Archives/Some Useful Website.md",
+    "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-5.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-4.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-3.md",
     "04 - Permanent/03 - DevOps/DevOps Day-1.md",
+    "00 - Maps of Content/01 Map.md",
     "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md",
     "99 - Meta/attachments/1-DevOps MCQs.pdf",
     "04 - Permanent/03 - DevOps/Untitled.md",
     "08 - Gamedev/00 - Gamedev Index.md",
-    "05 - Archives/Some Useful Website.md",
     "08 - Gamedev/Portfolio for Gamedev.md",
     "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/1. Introduction.md",
     "00 - Maps of Content/99 Meetings.md",
@@ -308,7 +309,6 @@
     "07 - Others/Blender golden rule of 3.md",
     "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
     "99 - Meta/attachments/1-Vulkan's Canonical View Volume.png",
-    "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
     "99 - Meta/attachments/14-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/13-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/12-Perspective Projection (Math behind 3D).png",

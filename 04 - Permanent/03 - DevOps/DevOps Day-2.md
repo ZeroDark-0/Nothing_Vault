@@ -118,6 +118,7 @@ def create_ec2_instance():
     print('Created Instance')
 if __name__=='__main'
     create_ec2_instance()
+    
 ```
 
 ```python
@@ -149,7 +150,7 @@ def create_ec2_instance():
     print('Created Instance:', instances[0].id)
 
 if __name__ == '__main__':
-    create_ec2_instance()>)
+    create_ec2_instance()
 ```
 
 ### <code style="color:red">Documentation</code>
