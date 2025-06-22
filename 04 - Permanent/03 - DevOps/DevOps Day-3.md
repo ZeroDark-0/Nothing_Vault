@@ -1,6 +1,8 @@
 ---
 date: 2025-06-15T21:57
 tags: []
+share_link: https://share.note.sx/ahd9n48z#jjjxZ06NR11tVS2sdE+YWQ64G1xmo9ZOJ0vpH138Sh0
+share_updated: 2025-06-22T12:39:58+08:00
 ---
 
 # <code style="color:red">Linux</code>

@@ -877,3 +877,155 @@ D. Running Docker containers
 
 ![[1-01 Map.gif]]
 
+
+# <code style="color:cyan">Day-7</code>
+
+1. What is Docker primarily used for?
+A. Virtualization
+B. Containerization
+C. Operating System Development
+D. Network Monitoring
+
+Which of the following is a lightweight, standalone, and executable software package?
+A. VM
+B. ISO
+C. Container
+D. Snapshot
+
+What is a Docker image?
+A. A running container
+B. A template used to create containers
+C. A virtual machine
+D. A script file
+
+Which file is used to build a Docker image?
+A. Imagefile
+B. Containerfile
+C. Dockerfile
+D. Buildfile
+
+Which command is used to build a Docker image?
+A. docker create
+B. docker build
+C. docker make
+D. docker generate
+
+What command lists all running Docker containers?
+A. docker ps
+B. docker list
+C. docker status
+D. docker show
+
+What is Docker Hub?
+A. A command-line tool
+B. A container runtime
+C. A cloud-based registry for Docker images
+D. A network plugin
+
+Which command stops a running container?
+A. docker halt
+B. docker kill
+C. docker stop
+D. docker pause
+
+Which flag is used to run a container in detached mode?
+A. -b
+B. -d
+C. -r
+D. -t
+
+Which of the following best describes Docker containers?
+A. Heavyweight and hardware-dependent
+B. Fast and isolated runtime environments
+C. Designed only for Linux
+D. Always require GUI
+
+What does the docker pull command do?
+A. Removes an image
+B. Downloads an image from Docker Hub
+C. Uploads an image
+D. Creates a new container
+
+Which of the following commands creates and starts a container?
+A. docker start
+B. docker new
+C. docker run
+D. docker launch
+
+Which command is used to remove a container?
+A. docker delete
+B. docker kill
+C. docker remove
+D. docker rm
+
+What is the purpose of the EXPOSE instruction in a Dockerfile?
+A. Run the container
+B. Set environment variables
+C. Inform Docker about the port the container listens on
+D. Install software
+
+Which of the following is a valid base image in a Dockerfile?
+A. FROM node
+B. BASE ubuntu
+C. USING alpine
+D. ROOT centos
+
+What is the default Docker network driver?
+A. Bridge
+B. Host
+C. Overlay
+D. None
+
+What does docker exec allow you to do?
+A. Run a new container
+B. Execute a command inside a running container
+C. List all containers
+D. Connect to Docker Hub
+
+Which of the following is NOT a valid Docker command?
+A. docker push
+B. docker logs
+C. docker attach
+D. docker connect
+
+Which command is used to tag a Docker image?
+A. docker name
+B. docker tag
+C. docker label
+D. docker push
+
+What is a multi-stage build in Docker used for?
+A. Running multiple containers
+B. Optimizing image size
+C. Running containers in different regions
+D. Debugging
+
+What is the main advantage of using containers over virtual machines?
+A. Higher disk usage
+B. Faster performance and lower overhead
+C. Full OS-level access
+D. Better GPU performance
+
+Which Dockerfile instruction copies files from the host into the image?
+A. COPY
+B. MOVE
+C. UPLOAD
+D. IMPORT
+
+What is the command to view logs of a Docker container?
+A. docker history
+B. docker info
+C. docker logs
+D. docker read
+
+Which Docker command is used to upload an image to Docker Hub?
+A. docker upload
+B. docker push
+C. docker export
+D. docker share
+
+What is the function of the CMD instruction in a Dockerfile?
+A. Build the image
+B. Set the base image
+C. Specify the default command to run
+D. Expose ports

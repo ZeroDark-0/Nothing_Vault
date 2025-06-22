@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "DevOps Day-6",
-      "path": "DevOps Day-6.md"
+      "basename": "DevOps Day-7",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-7.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "DevOps Day-1",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-1.md"
     },
     {
       "basename": "DevOps Day-2",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-2.md"
+    },
+    {
+      "basename": "DevOps Day-3",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
+    },
+    {
+      "basename": "DevOps Day-4",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-4.md"
+    },
+    {
+      "basename": "DevOps Day-5",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-5.md"
+    },
+    {
+      "basename": "DevOps Day-6",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-6.md"
+    },
+    {
+      "basename": "0 - DevOps EveryDay MCQs",
+      "path": "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Some Useful Website",
@@ -21,28 +45,8 @@
       "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
     },
     {
-      "basename": "DevOps Day-5",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-5.md"
-    },
-    {
-      "basename": "DevOps Day-4",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-4.md"
-    },
-    {
-      "basename": "DevOps Day-3",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
-    },
-    {
-      "basename": "DevOps Day-1",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-1.md"
-    },
-    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "0 - DevOps EveryDay MCQs",
-      "path": "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md"
     },
     {
       "basename": "00 - Gamedev Index",
@@ -195,10 +199,6 @@
     {
       "basename": "Secure Boot YT(202501031505)",
       "path": "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md"
-    },
-    {
-      "basename": "packt",
-      "path": "03 - Resources/01 - Programming/packt.md"
     }
   ],
   "omittedPaths": [],
