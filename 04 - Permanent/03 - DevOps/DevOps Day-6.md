@@ -2,7 +2,7 @@
 date: 2025-06-21T10:46
 tags: []
 share_link: https://share.note.sx/drc281ia#52fZnPxbx2T8WsFB0CCy1B4AySyg5HdWUleBh2CzzVw
-share_updated: 2025-06-22T23:17:24+08:00
+share_updated: 2025-06-22T23:18:19+08:00
 ---
 
 
@@ -34,7 +34,7 @@ aspectRatio: "55.875"
 it is very good for the back-end process deployment and it also support for the front-end operations with some of the web frame-work.
 
 --> and Finally we can use the AWS cloud services also :
-But to use that we have to us the security cloud for that also allowing the ==SSH and HTTP== traffics 
+But to use that we have to enable the security cloud and for that we have also allowing the ==SSH and HTTP== traffics 
 
 
 Whitelisting of IP address
