@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Sites Library",
+      "path": "05 - Archives/Sites Library.md"
+    },
+    {
+      "basename": "Some Useful Website",
+      "path": "05 - Archives/Some Useful Website.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "0 - DevOps EveryDay MCQs",
+      "path": "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "DevOps Day-6",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-6.md"
     },
     {
       "basename": "DevOps Day-7",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-7.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "DevOps Day-1",
@@ -33,20 +49,8 @@
       "path": "04 - Permanent/03 - DevOps/DevOps Day-5.md"
     },
     {
-      "basename": "0 - DevOps EveryDay MCQs",
-      "path": "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md"
-    },
-    {
-      "basename": "Some Useful Website",
-      "path": "05 - Archives/Some Useful Website.md"
-    },
-    {
       "basename": "2. Binary Tree Level Order Traversal",
       "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 - Gamedev Index",
@@ -195,10 +199,6 @@
     {
       "basename": "CREATE YOUR OWN X",
       "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
-    },
-    {
-      "basename": "Secure Boot YT(202501031505)",
-      "path": "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md"
     }
   ],
   "omittedPaths": [],

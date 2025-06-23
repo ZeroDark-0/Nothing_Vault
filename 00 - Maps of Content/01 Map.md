@@ -103,7 +103,8 @@ SORT file.name ASC
     + [[DevOps Day-3]]
     + [[DevOps Day-4]]
     + [[DevOps Day-5]]
-    + 
+    + [[DevOps Day-6]]
+    + [[DevOps Day-7]]
     + 
 
 
@@ -125,6 +126,7 @@ SORT file.name ASC
  - [[My Resume]]
  - [[JeffreySu_Resume.pdf]]
  - [[Resume or CV making]]
+ - [[Sites Library]]
  - [[Some Useful Website]] 
  - 
    
