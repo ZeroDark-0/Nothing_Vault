@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Binary Tree Level Order Traversal",
-      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
+      "basename": "DevOps Day-8",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-8.md"
     },
     {
-      "basename": "Sites Library",
-      "path": "05 - Archives/Sites Library.md"
+      "basename": "3.Branding Fundamentals",
+      "path": "3.Branding Fundamentals.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Some Useful Website",
-      "path": "05 - Archives/Some Useful Website.md"
+      "basename": "2.Photoshop -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "0. Course Overview",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
     },
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Sites Library",
+      "path": "05 - Archives/Sites Library.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+    },
+    {
+      "basename": "2. Binary Tree Level Order Traversal",
+      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
+    },
+    {
+      "basename": "DevOps Day-7",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-7.md"
+    },
+    {
+      "basename": "Some Useful Website",
+      "path": "05 - Archives/Some Useful Website.md"
     },
     {
       "basename": "0 - DevOps EveryDay MCQs",
@@ -27,10 +59,6 @@
     {
       "basename": "DevOps Day-6",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-6.md"
-    },
-    {
-      "basename": "DevOps Day-7",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-7.md"
     },
     {
       "basename": "DevOps Day-1",
@@ -77,10 +105,6 @@
       "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
     },
     {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
-    },
-    {
       "basename": "Aimer7 Routine Addendum",
       "path": "X/Aimer7 Routine Addendum.pdf"
     },
@@ -109,24 +133,8 @@
       "path": "07 - Others/Blender golden rule of 3.md"
     },
     {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
-    },
-    {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
-    },
-    {
-      "basename": "2.Photoshop -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/2.Photoshop -Pre-Marketing-.md"
-    },
-    {
       "basename": "Arch Linux Installation (202501010710)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
-    },
-    {
-      "basename": "0. Course Overview",
-      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/0. Course Overview.md"
     },
     {
       "basename": "Body Structures (male)",
@@ -154,7 +162,7 @@
     },
     {
       "basename": "1.Steam Wishlist -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/fulltimegamedev/1.Steam Wishlist -Pre-Marketing-.md"
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
     },
     {
       "basename": "Kadane's Algorithm",
@@ -191,14 +199,6 @@
     {
       "basename": "Cross Mind Day-2",
       "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-2.md"
-    },
-    {
-      "basename": "learn-anything",
-      "path": "10 - OUT OF BRAIN CELLS/learn-anything.md"
-    },
-    {
-      "basename": "CREATE YOUR OWN X",
-      "path": "10 - OUT OF BRAIN CELLS/CREATE YOUR OWN X.md"
     }
   ],
   "omittedPaths": [],

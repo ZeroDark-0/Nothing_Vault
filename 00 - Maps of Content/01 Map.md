@@ -181,5 +181,4 @@ SORT file.name ASC
 
 
   + [[CREATE YOUR OWN X]]
-  + [[learn-anything]]
   + 
