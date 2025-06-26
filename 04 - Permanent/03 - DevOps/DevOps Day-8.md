@@ -47,7 +47,7 @@ npm install express # (Install Express framework)
 node server.js      # (Run your server)
 ```
 
-and the server will be http://localhost:3000
+and the server will be [http://localhost:3000](http://localhost:3000)
 
 ## --> But to do this with Docker
 
@@ -55,6 +55,7 @@ In your IDE
 step-1 - make files `server.js` `package.json` `Dockerfile` `index.html`
 
 in `server.js`
+
 ```js
 const http = require('http');  
 const fs = require('fs');  
@@ -79,6 +80,7 @@ server.listen(port, () => {
 ```
 
 in `package.json`
+
 ```json
 {  
   "name": "node-fs-server",  
@@ -116,7 +118,7 @@ EXPOSE 3000
 CMD ["npm", "start"]
 ```
 
---> in `index.file`
+--> in `index.html`
 
 ```html
 <!DOCTYPE html>  

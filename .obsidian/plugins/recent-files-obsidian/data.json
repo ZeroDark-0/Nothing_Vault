@@ -5,12 +5,28 @@
       "path": "04 - Permanent/03 - DevOps/DevOps Day-8.md"
     },
     {
-      "basename": "3.Branding Fundamentals",
-      "path": "3.Branding Fundamentals.md"
+      "basename": "DevOps Day-7",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-7.md"
+    },
+    {
+      "basename": "DevOps Day-9",
+      "path": "DevOps Day-9.md"
+    },
+    {
+      "basename": "0 - DevOps EveryDay MCQs",
+      "path": "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Some Useful Website",
+      "path": "05 - Archives/Some Useful Website.md"
+    },
+    {
+      "basename": "3.Branding Fundamentals",
+      "path": "3.Branding Fundamentals.md"
     },
     {
       "basename": "2.Photoshop -Pre-Marketing-",
@@ -43,18 +59,6 @@
     {
       "basename": "2. Binary Tree Level Order Traversal",
       "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
-    },
-    {
-      "basename": "DevOps Day-7",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-7.md"
-    },
-    {
-      "basename": "Some Useful Website",
-      "path": "05 - Archives/Some Useful Website.md"
-    },
-    {
-      "basename": "0 - DevOps EveryDay MCQs",
-      "path": "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md"
     },
     {
       "basename": "DevOps Day-6",
@@ -195,10 +199,6 @@
     {
       "basename": "Cross Mind Day-3",
       "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-3.md"
-    },
-    {
-      "basename": "Cross Mind Day-2",
-      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-2.md"
     }
   ],
   "omittedPaths": [],

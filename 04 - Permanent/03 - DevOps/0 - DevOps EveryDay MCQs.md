@@ -1029,3 +1029,207 @@ A. Build the image
 B. Set the base image
 C. Specify the default command to run
 D. Expose ports
+
+![[1-01 Map.gif]]
+
+# <code style="color:cyan">Day-9</code>
+
+Which of the following best describes configuration management?
+
+A) Managing user passwords
+
+B) Automating the deployment and maintenance of system configurations
+
+C) Monitoring CPU and memory usage
+
+D) Updating firewall rules manually
+
+Ansible is written in which programming language?
+
+A) Java
+
+B) Go
+
+C) Python
+
+D) Ruby
+
+Which command is used to run an Ansible playbook?
+
+A) ansible-run
+
+B) ansible-start
+
+C) ansible-playbook
+
+D) ansible-config
+
+Ansible uses which protocol to communicate with managed nodes?
+
+A) FTP
+
+B) HTTP
+
+C) SSH
+
+D) SNMP
+
+In Ansible, what is a playbook?
+
+A) A shell script
+
+B) A log file
+
+C) A YAML file describing automation tasks
+
+D) A list of usernames
+
+Which of the following best describes Ansible as a tool?
+
+A) Agent-based
+
+B) Agentless
+
+C) Requires Java
+
+D) Requires GUI
+
+What is the default file extension for an Ansible playbook?
+
+A) .xml
+
+B) .txt
+
+C) .yaml or .yml
+
+D) .cfg
+
+What does become: true do in a playbook?
+
+A) Promotes a user
+
+B) Runs tasks as the root user
+
+C) Disables sudo
+
+D) Ends the playbook
+
+Where do you define host IPs and access details in an Ansible project?
+
+A) settings.py
+
+B) ansible.cfg
+
+C) hosts or inventory file
+
+D) playbook.yml
+
+Which command checks if a host is reachable by Ansible?
+
+A) ansible-check
+
+B) ansible-ping
+
+C) ansible <host> -m ping
+
+D) ansible-run ping
+
+What is the purpose of handlers in Ansible?
+
+A) Send alerts
+
+B) Restart services only when notified
+
+C) Format YAML files
+
+D) Change user passwords
+
+Which directive is used to install packages in Ansible on Debian-based systems?
+
+A) yum
+
+B) package
+
+C) install
+
+D) apt
+
+What does idempotent mean in Ansible?
+
+A) It only runs once
+
+B) It reboots the machine
+
+C) Running tasks multiple times has the same effect as once
+
+D) It deletes data on failure
+
+Which directory in an Ansible project usually contains HTML or configuration files to be copied?
+
+A) configs/
+
+B) templates/
+
+C) files/
+
+D) roles/
+
+Ansible playbooks are written in:
+
+A) JSON
+
+B) YAML
+
+C) XML
+
+D) INI
+
+In the inventory file, what is [web] or [webservers]?
+
+A) A task name
+
+B) A YAML variable
+
+C) A host group
+
+D) A role
+
+What does the copy module in Ansible do?
+
+A) Copies files from one remote to another
+
+B) Copies files from control machine to remote node
+
+C) Clones a Git repo
+
+D) Installs packages
+
+Which Ansible module is used to manage services?
+
+A) apt
+
+B) command
+
+C) service
+
+D) file
+
+What is ansible_user in the inventory file used for?
+
+A) It creates a new user
+
+B) It sets the user Ansible will SSH as
+
+C) It changes the remote hostname
+
+D) It logs all user activity
+
+What is the benefit of using Ansible for AWS EC2 configuration?
+
+A) Manual scaling
+
+B) GUI dashboards
+
+C) Automated provisioning and reproducible environments
+
+D) Free hosting
