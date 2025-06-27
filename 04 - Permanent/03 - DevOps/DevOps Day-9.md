@@ -98,6 +98,8 @@ and in `index.html`
 
 now in your local computer open cmd in the folder where your .pem file is located and run
 `ssh -i your-key-pair.pem ec2-user@13.233.251.15`
+exit and then
+`scp -i your-key-pair.pem your-key-pair.pem ec2-user@13.233.251.15:/home/ec2-user/ansible-aws-project/ansible-key.pem`
 replace your key pair and IP given with the given Instance key pair(.pem) and IP
 
 After doing this 
