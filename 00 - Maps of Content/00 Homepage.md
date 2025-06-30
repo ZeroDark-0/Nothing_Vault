@@ -7,6 +7,16 @@ cssclasses:
 
 # <code style="color:Blue">Eternity</code>
 
+
+July 1 -> July 30 (1 month focus)
+
+- [ ] Photoshop tut 📅 2025-06-30  🔼 
+- [ ] Docker 3 vids ⏫  
+- [ ] Game Math⏫ 
+- [ ] DSA ⏫ 
+- [ ] Full Time Game Dev ⏫ 
+
+
 ### <code style="color:purple">Daily</code>
 
 -  fulltimegamedev (1 vid)

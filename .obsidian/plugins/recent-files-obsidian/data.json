@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "DevOps Day-12",
+      "path": "DevOps Day-12.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Photoshop by Envato Tuts+",
+      "path": "Photoshop by Envato Tuts+.md"
+    },
+    {
       "basename": "DevOps Day-10 Project",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-10 Project.md"
     },
@@ -9,16 +25,16 @@
       "path": "04 - Permanent/03 - DevOps/DevOps Day-9.md"
     },
     {
-      "basename": "Sites Library",
-      "path": "05 - Archives/Sites Library.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
       "basename": "DevOps Day-8",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-8.md"
+    },
+    {
+      "basename": "DevOps Day-11",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-11.md"
+    },
+    {
+      "basename": "Sites Library",
+      "path": "05 - Archives/Sites Library.md"
     },
     {
       "basename": "2. Binary Tree Level Order Traversal",
@@ -55,10 +71,6 @@
     {
       "basename": "0. Course Overview",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Perspective Projection (Math behind 3D)",
@@ -187,18 +199,6 @@
     {
       "basename": "Modern C++ Programming Cookbook",
       "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "C++ cookbook",
-      "path": "99 - Meta/attachments/C++ cookbook.pdf"
-    },
-    {
-      "basename": "Cross Mind Day-1",
-      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-1.md"
-    },
-    {
-      "basename": "Cross Mind Day-5",
-      "path": "08 - Gamedev/3D Art Resource and Notes/CrossMind Notes/Cross Mind Day-5.md"
     }
   ],
   "omittedPaths": [],
