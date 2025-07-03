@@ -13,8 +13,8 @@ aspectRatio: "56.25"
 ```
 
 1. Introduction [00:00:00](https://www.youtube.com/watch?v=IyR_uYsRdPs) 
-     1.1 Welcome to the Course [00:01:50](https://www.youtube.com/watch?v=IyR_uYsRdPs&t=110s) 
-     1.2 Getting Started 
+    1.1 Welcome to the Course [00:01:50](https://www.youtube.com/watch?v=IyR_uYsRdPs&t=110s) 
+    1.2 Getting Started 
 2. Layers [00:03:10](https://www.youtube.com/watch?v=IyR_uYsRdPs&t=190s) 
     2.1 How Photoshop Layers Work [00:12:06](https://www.youtube.com/watch?v=IyR_uYsRdPs&t=726s) 
     2.2 Combining Multiple Images 

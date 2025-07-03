@@ -105,6 +105,11 @@ SORT file.name ASC
     + [[DevOps Day-5]]
     + [[DevOps Day-6]]
     + [[DevOps Day-7]]
+    + [[DevOps Day-8]]
+    + [[DevOps Day-9]]
+    + [[DevOps Day-10 Project]]
+    + [[DevOps Day-11]]
+    + [[DevOps Day-12]]
     + 
 
 

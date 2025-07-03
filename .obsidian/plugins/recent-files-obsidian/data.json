@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "DevOps Day-12",
-      "path": "DevOps Day-12.md"
+      "basename": "DevOps Day-13",
+      "path": "DevOps Day-13.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "Photoshop by Envato Tuts+",
+      "path": "Photoshop by Envato Tuts+.md"
+    },
+    {
+      "basename": "2. Binary Tree Level Order Traversal",
+      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
+    },
+    {
+      "basename": "DevOps Day-12",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-12.md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
-      "basename": "Photoshop by Envato Tuts+",
-      "path": "Photoshop by Envato Tuts+.md"
+      "basename": "DevOps Day-3",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
+    },
+    {
+      "basename": "3.Branding Fundamentals",
+      "path": "3.Branding Fundamentals.md"
     },
     {
       "basename": "DevOps Day-10 Project",
@@ -37,10 +53,6 @@
       "path": "05 - Archives/Sites Library.md"
     },
     {
-      "basename": "2. Binary Tree Level Order Traversal",
-      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
-    },
-    {
       "basename": "2.Photoshop -Pre-Marketing-",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "Some Useful Website",
       "path": "05 - Archives/Some Useful Website.md"
-    },
-    {
-      "basename": "3.Branding Fundamentals",
-      "path": "3.Branding Fundamentals.md"
     },
     {
       "basename": "The Secret to Finishing Your Game",
@@ -91,10 +99,6 @@
     {
       "basename": "DevOps Day-2",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-2.md"
-    },
-    {
-      "basename": "DevOps Day-3",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
     },
     {
       "basename": "DevOps Day-4",
@@ -195,10 +199,6 @@
     {
       "basename": "Introduction to Algorithms",
       "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
     }
   ],
   "omittedPaths": [],
