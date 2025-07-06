@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "DevOps Day-13",
-      "path": "DevOps Day-13.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
       "basename": "Photoshop by Envato Tuts+",
-      "path": "Photoshop by Envato Tuts+.md"
+      "path": "08 - Gamedev/Non-Index/Photoshop by Envato Tuts+.md"
+    },
+    {
+      "basename": "Improve 7X Faster",
+      "path": "X/Improve 7X Faster.md"
     },
     {
       "basename": "2. Binary Tree Level Order Traversal",
       "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
+    },
+    {
+      "basename": "3.Branding Fundamentals",
+      "path": "3.Branding Fundamentals.md"
+    },
+    {
+      "basename": "2.Photoshop -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
+    },
+    {
+      "basename": "DevOps Day-13",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-13.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "DevOps Day-12",
@@ -27,10 +39,6 @@
     {
       "basename": "DevOps Day-3",
       "path": "04 - Permanent/03 - DevOps/DevOps Day-3.md"
-    },
-    {
-      "basename": "3.Branding Fundamentals",
-      "path": "3.Branding Fundamentals.md"
     },
     {
       "basename": "DevOps Day-10 Project",
@@ -51,10 +59,6 @@
     {
       "basename": "Sites Library",
       "path": "05 - Archives/Sites Library.md"
-    },
-    {
-      "basename": "2.Photoshop -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
     },
     {
       "basename": "1.Introduction",
@@ -141,10 +145,6 @@
       "path": "X/Game Sense.md"
     },
     {
-      "basename": "Improve 7X Faster",
-      "path": "X/Improve 7X Faster.md"
-    },
-    {
       "basename": "kovaaks-playlist-compendium",
       "path": "X/kovaaks-playlist-compendium.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Kadane's Algorithm",
       "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
-    },
-    {
-      "basename": "Introduction to Algorithms",
-      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
     }
   ],
   "omittedPaths": [],
