@@ -1,6 +1,7 @@
 ---
 date: 2025-06-28T17:35
-tags: []
+tags:
+  - photoshop
 ---
 
 ```embed

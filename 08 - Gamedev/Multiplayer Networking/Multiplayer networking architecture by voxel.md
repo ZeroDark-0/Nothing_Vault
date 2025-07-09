@@ -21,4 +21,4 @@ To prevent that we use the Relay method-
 
 Here a Lobby, 
 why to use this hassle system - this can help you to reduce the lag and no IP address is shared ..
-but a lobby can host multiple relay...[[ED-202502060042.excalidraw]]
+but a lobby can host multiple relay...[[Relay System(multiplayer).excalidraw]]
