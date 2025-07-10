@@ -27,7 +27,14 @@ tags:
 + 
 
 ---
+## <code style="color:cyan">Editing</code>
 
++ [[Photoshop by Envato Tuts+]]
++ [[Advanced Photoshop by Envato Tuts+]]
++ 
+
+
+---
 ## <code style="color:cyan">Full Time Game Dev</code>
 
 + fulltimegamedev:

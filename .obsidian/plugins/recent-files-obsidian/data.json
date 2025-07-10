@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "DevOps Day-14",
-      "path": "04 - Permanent/03 - DevOps/DevOps Day-14.md"
+      "basename": "Advanced Photoshop by Envato Tuts+",
+      "path": "08 - Gamedev/Editing/Advanced Photoshop by Envato Tuts+.md"
+    },
+    {
+      "basename": "Photoshop by Envato Tuts+",
+      "path": "08 - Gamedev/Editing/Photoshop by Envato Tuts+.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
     },
     {
       "basename": "2.Photoshop -Pre-Marketing-",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
     },
     {
-      "basename": "Photoshop by Envato Tuts+",
-      "path": "08 - Gamedev/Non-Index/Photoshop by Envato Tuts+.md"
+      "basename": "DevOps Day-14",
+      "path": "04 - Permanent/03 - DevOps/DevOps Day-14.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/00 - Gamedev Index.md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Game development Tools by Thomas brush",
@@ -195,10 +199,6 @@
     {
       "basename": "Live2D",
       "path": "02 - Areas/Live2D.md"
-    },
-    {
-      "basename": "DSA",
-      "path": "02 - Areas/DSA.md"
     }
   ],
   "omittedPaths": [],

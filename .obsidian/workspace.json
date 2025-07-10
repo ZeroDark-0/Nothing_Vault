@@ -27,44 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.Photoshop -Pre-Marketing-"
+              "title": "00 Homepage"
             }
           },
           {
-            "id": "acebbcfbde55906f",
+            "id": "6d797535e061f38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/03 - DevOps/DevOps Day-14.md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps Day-14"
-            }
-          },
-          {
-            "id": "c194dcd9fcb5b31a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps of Content/01 Map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 Map"
+              "title": "00 Homepage"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,13 +286,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c194dcd9fcb5b31a",
+  "active": "a941e7c8aca04643",
   "lastOpenFiles": [
-    "04 - Permanent/03 - DevOps/DevOps Day-14.md",
-    "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md",
-    "08 - Gamedev/Non-Index/Photoshop by Envato Tuts+.md",
-    "00 - Maps of Content/00 Homepage.md",
+    "08 - Gamedev/Editing/Advanced Photoshop by Envato Tuts+.md",
+    "08 - Gamedev/Editing/Photoshop by Envato Tuts+.md",
     "08 - Gamedev/00 - Gamedev Index.md",
+    "08 - Gamedev/Editing",
+    "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md",
+    "04 - Permanent/03 - DevOps/DevOps Day-14.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "00 - Maps of Content/01 Map.md",
     "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md",
     "08 - Gamedev/GameDev Resources/Develop.games by Thor.md",
     "08 - Gamedev/Multiplayer Networking/Relay System(multiplayer).excalidraw.md",
@@ -319,7 +308,6 @@
     "3.Branding Fundamentals.md",
     "04 - Permanent/03 - DevOps/DevOps Day-13.md",
     "04 - Permanent/03 - DevOps/DevOps Day-12.md",
-    "00 - Maps of Content/01 Map.md",
     "04 - Permanent/03 - DevOps/DevOps Day-3.md",
     "04 - Permanent/03 - DevOps/DevOps Day-10 Project.md",
     "04 - Permanent/03 - DevOps/DevOps Day-9.md",
@@ -329,8 +317,6 @@
     "05 - Archives/Sites Library.md",
     "Grokking the Coding Interview/1. Pattern Sliding Window/1.Introduction.md",
     "Grokking the Coding Interview/1. Pattern Sliding Window/1.Introduction",
-    "04 - Permanent/03 - DevOps/0 - DevOps EveryDay MCQs.md",
-    "04 - Permanent/03 - DevOps/DevOps Day-7.md",
     "99 - Meta/attachments/1-DevOps MCQs.pdf",
     "04 - Permanent/03 - DevOps",
     "99 - Meta/attachments/1-DevOps.png",
@@ -347,7 +333,6 @@
     "99 - Meta/attachments/10-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/9-Perspective Projection (Math behind 3D).png",
     "99 - Meta/attachments/8-Perspective Projection (Math behind 3D).png",
-    "08 - Gamedev/Full Time Game Dev/fulltimegamedev/Pre-marketing",
     "Untitled.canvas",
     "03 - Resources/Untitled.canvas"
   ]

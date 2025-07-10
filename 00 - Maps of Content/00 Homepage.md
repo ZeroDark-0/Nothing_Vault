@@ -10,7 +10,7 @@ cssclasses:
 
 July 1 -> July 30 (1 month focus)
 
-- [ ] Photoshop tut 🔼 
+- [x] Photoshop tut 🔼 ✅ 2025-07-10
 - [ ] Docker 3 vids ⏫  
 - [ ] Game Math⏫ 
 - [ ] DSA ⏫ 

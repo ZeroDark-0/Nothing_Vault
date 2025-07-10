@@ -48,3 +48,5 @@ aspectRatio: "56.25"
     11.1 Exporting Images 
 13. Conclusion [03:04:49](https://www.youtube.com/watch?v=IyR_uYsRdPs&t=11089s) 
     12.1 What Next?
+
+# Next of -> [[Advanced Photoshop by Envato Tuts+]]
