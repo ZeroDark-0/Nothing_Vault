@@ -97,22 +97,23 @@ SORT file.name ASC
     + 
 
  + 4.3 DevOps
-    + [[0 - DevOps EveryDay MCQs]]
-    + [[DevOps Day-1]]
-    + [[DevOps Day-2]]
-    + [[DevOps Day-3]]
-    + [[DevOps Day-4]]
-    + [[DevOps Day-5]]
-    + [[DevOps Day-6]]
-    + [[DevOps Day-7]]
-    + [[DevOps Day-8]]
-    + [[DevOps Day-9]]
-    + [[DevOps Day-10 Project]]
-    + [[DevOps Day-11]]
-    + [[DevOps Day-12]]
-    + [[DevOps Day-13]]
-    + [[DevOps Day-14]]
-    + 
+    + NG
+        + [[0 - DevOps EveryDay MCQs]]
+        + [[DevOps Day-1]]
+        + [[DevOps Day-2]]
+        + [[DevOps Day-3]]
+        + [[DevOps Day-4]]
+        + [[DevOps Day-5]]
+        + [[DevOps Day-6]]
+        + [[DevOps Day-7]]
+        + [[DevOps Day-8]]
+        + [[DevOps Day-9]]
+        + [[DevOps Day-10 Project]]
+        + [[DevOps Day-11]]
+        + [[DevOps Day-12]]
+        + [[DevOps Day-13]]
+        + [[DevOps Day-14]]
+        + [[DevOps Day-15]]
 
 
 
