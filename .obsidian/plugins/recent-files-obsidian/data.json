@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Introduction",
+      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/1. Introduction.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "2. Maximum Sum Subarray of Size K (easy)",
+      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/2. Maximum Sum Subarray of Size K (easy).md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "1. Introduction",
+      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/1. Introduction.md"
+    },
+    {
+      "basename": "2. Binary Tree Level Order Traversal (easy)",
+      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal (easy).md"
+    },
+    {
+      "basename": "3.Branding Fundamentals",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
+    },
+    {
+      "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
+      "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
+    },
+    {
+      "basename": "C++++ brocode",
+      "path": "03 - Resources/C#/C++++ brocode.md"
+    },
+    {
+      "basename": "DevOps Day-10 Project",
+      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-10 Project.md"
     },
     {
       "basename": "Upper Body and Underwear",
@@ -31,14 +67,6 @@
     {
       "basename": "Girls denim shorts",
       "path": "02 - Areas/2D Art/Clothing/Girls denim shorts.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "DevOps Day-10 Project",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-10 Project.md"
     },
     {
       "basename": "DevOps Day-5",
@@ -113,16 +141,8 @@
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
     },
     {
-      "basename": "2. Binary Tree Level Order Traversal",
-      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/2. Binary Tree Level Order Traversal.md"
-    },
-    {
       "basename": "Improve 7X Faster",
       "path": "X/Improve 7X Faster.md"
-    },
-    {
-      "basename": "3.Branding Fundamentals",
-      "path": "3.Branding Fundamentals.md"
     },
     {
       "basename": "DevOps Day-13",
@@ -143,10 +163,6 @@
     {
       "basename": "DevOps Day-11",
       "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-11.md"
-    },
-    {
-      "basename": "1.Introduction",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/1.Introduction.md"
     },
     {
       "basename": "The Secret to Finishing Your Game",
@@ -181,24 +197,8 @@
       "path": "08 - Gamedev/Portfolio for Gamedev.md"
     },
     {
-      "basename": "1. Introduction",
-      "path": "Grokking the Coding Interview/7. Pattern Tree Breadth First Search/1. Introduction.md"
-    },
-    {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "ZZZ Character Model by 2AM",
-      "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
-    },
-    {
-      "basename": "Aimer7 Routine Addendum",
-      "path": "X/Aimer7 Routine Addendum.pdf"
     }
   ],
   "omittedPaths": [],

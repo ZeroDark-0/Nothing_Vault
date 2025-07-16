@@ -5,6 +5,9 @@ cssclasses:
   - center-images
 ---
 
+![[6-00 Homepage.jpg]]
+
+---
 # <code style="color:Blue">Eternity</code>
 
 
@@ -35,4 +38,3 @@ July 1 -> July 30 (1 month focus)
 
 ---
 
-![[6-00 Homepage.jpg]]
