@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Introduction",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/1. Introduction.md"
+      "basename": "2. Maximum Sum Subarray of Size K (easy)",
+      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/2. Maximum Sum Subarray of Size K (easy).md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "2. Maximum Sum Subarray of Size K (easy)",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/2. Maximum Sum Subarray of Size K (easy).md"
+      "basename": "1. Introduction",
+      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/1. Introduction.md"
+    },
+    {
+      "basename": "Female skin Glow",
+      "path": "02 - Areas/2D Art/Skin/Female skin Glow.md"
+    },
+    {
+      "basename": "Upper Body and Underwear",
+      "path": "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md"
+    },
+    {
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Core body/Body Structures (male).md"
+    },
+    {
+      "basename": "Girls denim shorts",
+      "path": "02 - Areas/2D Art/Clothing/Girls denim shorts.md"
+    },
+    {
+      "basename": "Cap",
+      "path": "02 - Areas/2D Art/Clothing/Cap.md"
+    },
+    {
+      "basename": "Male Armpit and elbow",
+      "path": "02 - Areas/2D Art/Arms/Male Armpit and elbow.md"
     },
     {
       "basename": "01 Map",
@@ -41,32 +65,8 @@
       "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-10 Project.md"
     },
     {
-      "basename": "Upper Body and Underwear",
-      "path": "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md"
-    },
-    {
-      "basename": "Female skin Glow",
-      "path": "02 - Areas/2D Art/Skin/Female skin Glow.md"
-    },
-    {
-      "basename": "Cap",
-      "path": "02 - Areas/2D Art/Clothing/Cap.md"
-    },
-    {
-      "basename": "Male Armpit and elbow",
-      "path": "02 - Areas/2D Art/Arms/Male Armpit and elbow.md"
-    },
-    {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Core body/Body Structures (male).md"
-    },
-    {
-      "basename": "Girls denim shorts",
-      "path": "02 - Areas/2D Art/Clothing/Girls denim shorts.md"
     },
     {
       "basename": "DevOps Day-5",
@@ -102,7 +102,7 @@
     },
     {
       "basename": "2025-07-11",
-      "path": "09 - Periodic/00 - Daily/2025-07-11.md"
+      "path": "10 - OUT OF BRAIN CELLS/09 - Periodic/00 - Daily/2025-07-11.md"
     },
     {
       "basename": "DevOps Day-14",
