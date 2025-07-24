@@ -5,12 +5,24 @@
       "path": "Random.md"
     },
     {
-      "basename": "DevOps Day-5",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-5.md"
+      "basename": "1. Introduction",
+      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/1. Introduction.md"
+    },
+    {
+      "basename": "3. Smallest Subarray with a given sum (easy)",
+      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/3. Smallest Subarray with a given sum (easy).md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "2. Maximum Sum Subarray of Size K (easy)",
+      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/2. Maximum Sum Subarray of Size K (easy).md"
+    },
+    {
+      "basename": "DevOps Day-5",
+      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-5.md"
     },
     {
       "basename": "DevOps Day-4",
@@ -49,16 +61,8 @@
       "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-10 Project.md"
     },
     {
-      "basename": "2. Maximum Sum Subarray of Size K (easy)",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/2. Maximum Sum Subarray of Size K (easy).md"
-    },
-    {
       "basename": "C++++ brocode",
       "path": "03 - Resources/C#/C++++ brocode.md"
-    },
-    {
-      "basename": "1. Introduction",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/1. Introduction.md"
     },
     {
       "basename": "Female skin Glow",
@@ -195,10 +199,6 @@
     {
       "basename": "Vulkan's Canonical View Volume",
       "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
-    },
-    {
-      "basename": "Portfolio for Gamedev",
-      "path": "08 - Gamedev/Portfolio for Gamedev.md"
     }
   ],
   "omittedPaths": [],
