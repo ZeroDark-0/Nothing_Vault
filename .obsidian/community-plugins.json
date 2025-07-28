@@ -45,5 +45,7 @@
   "editor-width-slider",
   "obsidian-paste-image-rename",
   "share-note",
-  "execute-code"
+  "execute-code",
+  "image-converter",
+  "autoplay-and-loop"
 ]

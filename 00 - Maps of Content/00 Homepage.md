@@ -5,7 +5,9 @@ cssclasses:
   - center-images
 ---
 
-![[6-00 Homepage.jpg]]
+
+
+![[6-00 Homepage.jpg|900x469]]
 
 ---
 # <code style="color:Blue">Eternity</code>
