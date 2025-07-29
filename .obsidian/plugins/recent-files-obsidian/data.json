@@ -5,16 +5,40 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "03 - Java Input n Output",
-      "path": "03 - Java Input n Output.md"
+      "basename": "Basic of Fibonacci",
+      "path": "04 - Permanent/04 - Problems/Basic of Fibonacci.md"
+    },
+    {
+      "basename": "Kadane's Algorithm",
+      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
+    },
+    {
+      "basename": "Random.excalidraw",
+      "path": "non-index/Random.excalidraw.md"
+    },
+    {
+      "basename": "01 - Java Introduction",
+      "path": "04 - Permanent/01 - Programming Languages/09 - Java/01 - Java Introduction.md"
     },
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
-      "basename": "01 - Java Introduction",
-      "path": "04 - Permanent/01 - Programming Languages/09 - Java/01 - Java Introduction.md"
+      "basename": "05 - Array in Java",
+      "path": "04 - Permanent/01 - Programming Languages/09 - Java/05 - Array in Java.md"
+    },
+    {
+      "basename": "C++++ brocode",
+      "path": "03 - Resources/C#/C++++ brocode.md"
+    },
+    {
+      "basename": "04 - Flow Control",
+      "path": "04 - Permanent/01 - Programming Languages/09 - Java/04 - Flow Control.md"
+    },
+    {
+      "basename": "03 - Java Input n Output",
+      "path": "04 - Permanent/01 - Programming Languages/09 - Java/03 - Java Input n Output.md"
     },
     {
       "basename": "02 - Variable and Data type in Java",
@@ -22,7 +46,7 @@
     },
     {
       "basename": "Random",
-      "path": "Random.md"
+      "path": "non-index/Random.md"
     },
     {
       "basename": "1. Introduction",
@@ -75,10 +99,6 @@
     {
       "basename": "DevOps Day-10 Project",
       "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-10 Project.md"
-    },
-    {
-      "basename": "C++++ brocode",
-      "path": "03 - Resources/C#/C++++ brocode.md"
     },
     {
       "basename": "Female skin Glow",
@@ -179,26 +199,6 @@
     {
       "basename": "Other Game dev related",
       "path": "08 - Gamedev/Other Game dev related.md"
-    },
-    {
-      "basename": "1.Steam Wishlist -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
-    },
-    {
-      "basename": "Improve 7X Faster",
-      "path": "X/Improve 7X Faster.md"
-    },
-    {
-      "basename": "DevOps Day-12",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-12.md"
-    },
-    {
-      "basename": "DevOps Day-9",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-9.md"
-    },
-    {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
     }
   ],
   "omittedPaths": [],
