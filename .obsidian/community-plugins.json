@@ -46,5 +46,7 @@
   "obsidian-paste-image-rename",
   "share-note",
   "execute-code",
-  "image-converter"
+  "image-converter",
+  "widgets",
+  "autoplay-and-loop"
 ]

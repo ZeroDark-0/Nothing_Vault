@@ -5,10 +5,18 @@ cssclasses:
   - center-images
 ---
 
-
+```widgets
+type: countdown
+date: 2026-01-01 00:00:00
+to: If can
+completedLabel: Did you?//
+```
 
 
 ![[6-00 Homepage.jpg|900x469]]
+
+![[фрози (frozy), dbb - Parano (Inuhaya version).mp4]]
+
 
 ---
 # <code style="color:Blue">Eternity</code>
