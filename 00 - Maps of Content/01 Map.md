@@ -121,6 +121,7 @@ SORT file.name ASC
 
 ![[2-01 Map.gif]]
 
+
 # <code style= "color:#c952ed">5. Archives</code>
 
  - 5.1 Arch Linux Installation
@@ -149,6 +150,7 @@ SORT file.name ASC
   - [[Secure Boot]]
   - 
 
+
 ![[2-01 Map.gif]]
 
 ![[2-01 Map.gif]]
@@ -160,6 +162,7 @@ SORT file.name ASC
   - [[game math]]
   - 
 
+
 ![[2-01 Map.gif]]
 
 ![[2-01 Map.gif]]
@@ -167,6 +170,7 @@ SORT file.name ASC
 # <code style="color:#ee6748">8. Gamedev</code>
 
   - [[00 - Gamedev Index]]
+
 
 ![[2-01 Map.gif]]
 
@@ -179,6 +183,7 @@ SORT file.name ASC
   - Monthly
   - Quarterly
   - Yearly
+
 
 ![[2-01 Map.gif]]
 

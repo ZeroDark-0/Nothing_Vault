@@ -6,6 +6,7 @@ cssclasses:
   - recolor-images
   - center-images
 ---
+
 # Why in multiple programming languages we always start with index 0?
 
   As we know that every array have a similar behavior whether we are coding in JS, Python, Java, Ruby, and Rust which uses 0 indexing algo and there are exception to this. Languages like Lua, COBOL, Fortran, Julia and MATLAB uses 1 based indexing.  
