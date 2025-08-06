@@ -291,8 +291,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
-      "widgets:Add widget": false,
-      "periodic-notes:Open today": false
+      "widgets:Add widget": false
     }
   },
   "active": "b8f2c242a2730586",
