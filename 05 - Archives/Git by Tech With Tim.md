@@ -4,7 +4,16 @@ tags:
   - git
 cssclasses:
 ---
-### <code style="color : aqua">Source -</code> <iframe title="Git Tutorial for Beginners - Git &amp; GitHub Fundamentals In Depth" src="https://www.youtube.com/embed/DVRQoVRzMIY?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+### <code style="color : aqua">Source -</code> 
+
+```embed
+title: "Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth"
+image: "https://i.ytimg.com/vi/DVRQoVRzMIY/maxresdefault.jpg"
+description: "This git tutorial for beginners is designed to teach you the git command line tool and how it works with github. This beginner git tutorial teaches github fu..."
+url: "https://youtu.be/DVRQoVRzMIY"
+favicon: ""
+aspectRatio: "56.25"
+```
 
 
 Here ==GitHub== is a website which help us to upload, fork, collaborate and other things.

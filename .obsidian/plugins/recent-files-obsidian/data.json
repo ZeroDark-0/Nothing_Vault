@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "One and Two Year Way",
+      "path": "non-index/One and Two Year Way.md"
+    },
+    {
+      "basename": "Git by Tech With Tim",
+      "path": "05 - Archives/Git by Tech With Tim.md"
+    },
+    {
+      "basename": "JeffreySu_Resume",
+      "path": "05 - Archives/JeffreySu_Resume.pdf"
+    },
+    {
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
+    },
+    {
+      "basename": "Deleting Dual Boot",
+      "path": "05 - Archives/Deleting Dual Boot.md"
+    },
+    {
+      "basename": "Some Useful Website",
+      "path": "05 - Archives/Some Useful Website.md"
+    },
+    {
+      "basename": "Sites Library",
+      "path": "05 - Archives/Sites Library.md"
+    },
+    {
+      "basename": "Resume or CV making",
+      "path": "05 - Archives/Resume or CV making.md"
+    },
+    {
+      "basename": "My Resume",
+      "path": "05 - Archives/My Resume.md"
+    },
+    {
+      "basename": "Kadane's Algorithm",
+      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Notes System",
       "path": "06 - Atomic/Notes System.md"
+    },
+    {
+      "basename": "C++ cookbook",
+      "path": "99 - Meta/attachments/C++ cookbook.pdf"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Secure Boot",
@@ -81,20 +129,8 @@
       "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
     },
     {
-      "basename": "C++ cookbook",
-      "path": "99 - Meta/attachments/C++ cookbook.pdf"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
       "basename": "Basic of Fibonacci",
       "path": "04 - Permanent/04 - Problems/Basic of Fibonacci.md"
-    },
-    {
-      "basename": "Kadane's Algorithm",
-      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
     },
     {
       "basename": "Random.excalidraw",
@@ -163,42 +199,6 @@
     {
       "basename": "DevOps Day-15",
       "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-15.md"
-    },
-    {
-      "basename": "DevOps Day-13",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-13.md"
-    },
-    {
-      "basename": "DevOps Day-7",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-7.md"
-    },
-    {
-      "basename": "DevOps Day-11",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-11.md"
-    },
-    {
-      "basename": "DevOps Day-10 Project",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-10 Project.md"
-    },
-    {
-      "basename": "Female skin Glow",
-      "path": "02 - Areas/2D Art/Skin/Female skin Glow.md"
-    },
-    {
-      "basename": "Upper Body and Underwear",
-      "path": "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Core body/Body Structures (male).md"
-    },
-    {
-      "basename": "Girls denim shorts",
-      "path": "02 - Areas/2D Art/Clothing/Girls denim shorts.md"
-    },
-    {
-      "basename": "Cap",
-      "path": "02 - Areas/2D Art/Clothing/Cap.md"
     }
   ],
   "omittedPaths": [],
