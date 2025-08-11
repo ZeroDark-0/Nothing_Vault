@@ -7,7 +7,7 @@ cssclasses:
 
 ```widgets
 type: countdown
-date: 2026-08-07 00:00:00
+date: 2026-08-12 00:00:00
 to: If can
 completedLabel: Did you?//
 ```
