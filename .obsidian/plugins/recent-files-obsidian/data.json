@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "One and Two Year Way",
-      "path": "non-index/One and Two Year Way.md"
+      "basename": "Cohort2.0 by 100xdevs",
+      "path": "Cohort2.0 by 100xdevs.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Random",
@@ -13,8 +17,20 @@
       "path": "non-index/Random.excalidraw.md"
     },
     {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "Leetcode 463.excalidraw",
+      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
+    },
+    {
+      "basename": "One and Two Year Way",
+      "path": "non-index/One and Two Year Way.md"
+    },
+    {
+      "basename": "Photoshop by Envato Tuts+",
+      "path": "08 - Gamedev/Editing/Photoshop by Envato Tuts+.md"
+    },
+    {
+      "basename": "2.Photoshop -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
     },
     {
       "basename": "2. Maximum Sum Subarray of Size K (easy)",
@@ -81,20 +97,12 @@
       "path": "08 - Gamedev/Editing/Advanced Photoshop by Envato Tuts+.md"
     },
     {
-      "basename": "Photoshop by Envato Tuts+",
-      "path": "08 - Gamedev/Editing/Photoshop by Envato Tuts+.md"
-    },
-    {
       "basename": "0. Course Overview",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
     },
     {
       "basename": "1.Steam Wishlist -Pre-Marketing-",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
-    },
-    {
-      "basename": "2.Photoshop -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
     },
     {
       "basename": "3.Branding Fundamentals",
@@ -187,18 +195,6 @@
     {
       "basename": "DevOps Day-2",
       "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-2.md"
-    },
-    {
-      "basename": "DevOps Day-1",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-1.md"
-    },
-    {
-      "basename": "DevOps Day-3",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-3.md"
-    },
-    {
-      "basename": "DevOps Day-15",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-15.md"
     }
   ],
   "omittedPaths": [],
