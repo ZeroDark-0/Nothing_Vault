@@ -5,7 +5,7 @@ tags: []
 
 # Virtual Private Cloud (VPC)
 
-It's a **private, isolated section of a cloud provider’s network** where you can launch and manage cloud resources like virtual machines.
+It's a **private, isolated section of a cloud provider’s network** where you can launch and manage cloud resources like virtual machines.                     
 
 # Cloud 9 AWS
 

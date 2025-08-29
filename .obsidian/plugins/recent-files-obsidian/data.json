@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Cohort2.0 by 100xdevs",
-      "path": "Cohort2.0 by 100xdevs.md"
+      "basename": "HTML Bro Code",
+      "path": "HTML Bro Code.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Live2D",
+      "path": "02 - Areas/Live2D.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
+      "basename": "Cohort2.0 Week1.2 by 100xdevs",
+      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
+    },
+    {
+      "basename": "DevOps Day-12",
+      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-12.md"
+    },
+    {
+      "basename": "DevOps Day-5",
+      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-5.md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "Random",
@@ -15,10 +47,6 @@
     {
       "basename": "Random.excalidraw",
       "path": "non-index/Random.excalidraw.md"
-    },
-    {
-      "basename": "Leetcode 463.excalidraw",
-      "path": "02 - Areas/Leetcode/Leetcode 463.excalidraw.md"
     },
     {
       "basename": "One and Two Year Way",
@@ -39,10 +67,6 @@
     {
       "basename": "JeffreySu_Resume",
       "path": "05 - Archives/JeffreySu_Resume.pdf"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Git by Tech With Tim",
@@ -154,11 +178,11 @@
     },
     {
       "basename": "01 - Java Introduction",
-      "path": "04 - Permanent/01 - Programming Languages/09 - Java/01 - Java Introduction.md"
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/01 - Java Introduction.md"
     },
     {
       "basename": "05 - Array in Java",
-      "path": "04 - Permanent/01 - Programming Languages/09 - Java/05 - Array in Java.md"
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md"
     },
     {
       "basename": "C++++ brocode",
@@ -166,35 +190,15 @@
     },
     {
       "basename": "04 - Flow Control",
-      "path": "04 - Permanent/01 - Programming Languages/09 - Java/04 - Flow Control.md"
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/04 - Flow Control.md"
     },
     {
       "basename": "03 - Java Input n Output",
-      "path": "04 - Permanent/01 - Programming Languages/09 - Java/03 - Java Input n Output.md"
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/03 - Java Input n Output.md"
     },
     {
       "basename": "02 - Variable and Data type in Java",
-      "path": "04 - Permanent/01 - Programming Languages/09 - Java/02 - Variable and Data type in Java.md"
-    },
-    {
-      "basename": "1. Introduction",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/1. Introduction.md"
-    },
-    {
-      "basename": "3. Smallest Subarray with a given sum (easy)",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/3. Smallest Subarray with a given sum (easy).md"
-    },
-    {
-      "basename": "DevOps Day-5",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-5.md"
-    },
-    {
-      "basename": "DevOps Day-4",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-4.md"
-    },
-    {
-      "basename": "DevOps Day-2",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-2.md"
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/02 - Variable and Data type in Java.md"
     }
   ],
   "omittedPaths": [],

@@ -81,7 +81,7 @@ SORT file.name ASC
 
 # <code style="color:#9446f8">4. Permanent</code>
 
- - 4.1 Programming Language
+ - 4.1 Coding Language
     1. Markdown [[Mark Down]]
     2. C Programming 
     3. C++
@@ -90,6 +90,9 @@ SORT file.name ASC
     6. BrainFuck
     7. Rust
     8. Latex
+    9. Java
+    10. JavaScript 
+    11. HTML
 
 ---
  + 4.2 DSA
@@ -98,22 +101,7 @@ SORT file.name ASC
 
  + 4.3 DevOps
     + NG
-        + [[0 - DevOps EveryDay MCQs]]
-        + [[DevOps Day-1]]
-        + [[DevOps Day-2]]
-        + [[DevOps Day-3]]
-        + [[DevOps Day-4]]
-        + [[DevOps Day-5]]
-        + [[DevOps Day-6]]
-        + [[DevOps Day-7]]
-        + [[DevOps Day-8]]
-        + [[DevOps Day-9]]
-        + [[DevOps Day-10 Project]]
-        + [[DevOps Day-11]]
-        + [[DevOps Day-12]]
-        + [[DevOps Day-13]]
-        + [[DevOps Day-14]]
-        + [[DevOps Day-15]]
+
 
 
 
