@@ -2,15 +2,15 @@
   "recentFiles": [
     {
       "basename": "HTML Bro Code",
-      "path": "HTML Bro Code.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML Bro Code.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Live2D",
@@ -195,10 +195,6 @@
     {
       "basename": "03 - Java Input n Output",
       "path": "04 - Permanent/01 - Coding Languages/09 - Java/03 - Java Input n Output.md"
-    },
-    {
-      "basename": "02 - Variable and Data type in Java",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/02 - Variable and Data type in Java.md"
     }
   ],
   "omittedPaths": [],
