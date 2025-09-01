@@ -5,10 +5,11 @@ cssclasses:
   - center-images
 ---
 
+
 ```widgets
 type: countdown
 date: 2026-08-12 00:00:00
-to: If can
+to: If you can
 completedLabel: Did you?//
 ```
 

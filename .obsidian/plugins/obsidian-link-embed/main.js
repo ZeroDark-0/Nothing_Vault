@@ -1261,14 +1261,21 @@ var MicroLinkParser = class extends Parser {
 
 // src/parsers/IframelyParser.ts
 var IframelyParser = class extends Parser {
-  constructor() {
+  constructor(apiKey = "") {
     super();
-    this.api = "http://iframely.server.crestify.com/iframely?url={{{url}}}";
+    this.api = `https://iframe.ly/api/iframely?url={{{url}}}&api_key=${apiKey}`;
   }
   process(data) {
     var _a, _b, _c;
     const title = ((_a = data.meta) == null ? void 0 : _a.title) || "";
-    const image = ((_b = data.links[0]) == null ? void 0 : _b.href) || "";
+    const thumbnails = ((_b = data.links) == null ? void 0 : _b.thumbnail) || [];
+    const image = thumbnails.reduce((best, thumb) => {
+      if (best.includes("maxresdefault"))
+        return best;
+      if (thumb.href.includes("maxresdefault") || !best)
+        return thumb.href;
+      return best;
+    }, "") || "";
     let description = ((_c = data.meta) == null ? void 0 : _c.description) || "";
     description = description.replace(/\n/g, " ").replace(/\\/g, "\\\\");
     return { title, image, description };
@@ -1459,42 +1466,52 @@ var _LocalParser = class extends Parser {
     return "";
   }
   getFavicon(doc, url) {
-    const base = url.href;
-    this.debugLog("[Link Embed] Favicon - Looking for favicon for:", url.href);
-    this.debugLog("[Link Embed] Favicon - Base URL:", base);
-    const faviconLink = doc.querySelector('link[rel="icon"], link[rel="shortcut icon"]');
-    if (faviconLink) {
-      const hrefAttr = faviconLink.getAttribute("href");
-      this.debugLog("[Link Embed] Favicon - Found standard favicon link:", hrefAttr);
-      if (hrefAttr) {
-        try {
-          const resolvedUrl = new URL(hrefAttr, base).href;
-          this.debugLog("[Link Embed] Favicon - Resolved standard favicon URL:", resolvedUrl);
-          return resolvedUrl;
-        } catch (error) {
-          this.debugError("[Link Embed] Favicon - Error resolving standard favicon URL:", error);
-          return hrefAttr;
+    return __async(this, null, function* () {
+      const base = url.href;
+      const failedUrls = new Set();
+      this.debugLog("[Link Embed] Favicon - Looking for favicon for:", url.href);
+      this.debugLog("[Link Embed] Favicon - Base URL:", base);
+      const faviconSelectors = [
+        'link[rel="icon"]',
+        'link[rel="shortcut icon"]',
+        'link[rel="apple-touch-icon"]',
+        'link[rel="apple-touch-icon-precomposed"]'
+      ];
+      for (const selector of faviconSelectors) {
+        const faviconLink = doc.querySelector(selector);
+        if (faviconLink) {
+          const hrefAttr = faviconLink.getAttribute("href");
+          this.debugLog(`[Link Embed] Favicon - Found ${selector}:`, hrefAttr);
+          if (hrefAttr) {
+            try {
+              const resolvedUrl = new URL(hrefAttr, base).href;
+              this.debugLog(`[Link Embed] Favicon - Resolved ${selector} URL:`, resolvedUrl);
+              const verifiedUrl = yield this.verifyImageUrl(resolvedUrl, failedUrls);
+              if (verifiedUrl) {
+                this.debugLog("[Link Embed] Favicon - Successfully verified favicon:", verifiedUrl);
+                return verifiedUrl;
+              }
+            } catch (error) {
+              this.debugError(`[Link Embed] Favicon - Error resolving ${selector} URL:`, error);
+            }
+          }
         }
       }
-    }
-    const appleIcon = doc.querySelector('link[rel="apple-touch-icon"]');
-    if (appleIcon) {
-      const hrefAttr = appleIcon.getAttribute("href");
-      this.debugLog("[Link Embed] Favicon - Found apple-touch-icon:", hrefAttr);
-      if (hrefAttr) {
-        try {
-          const resolvedUrl = new URL(hrefAttr, base).href;
-          this.debugLog("[Link Embed] Favicon - Resolved apple-touch-icon URL:", resolvedUrl);
-          return resolvedUrl;
-        } catch (error) {
-          this.debugError("[Link Embed] Favicon - Error resolving apple-touch-icon URL:", error);
-          return hrefAttr;
+      try {
+        const defaultFaviconUrl = new URL("/favicon.ico", base).href;
+        this.debugLog("[Link Embed] Favicon - Trying default /favicon.ico:", defaultFaviconUrl);
+        const verifiedUrl = yield this.verifyImageUrl(defaultFaviconUrl, failedUrls);
+        if (verifiedUrl) {
+          this.debugLog("[Link Embed] Favicon - Successfully verified default favicon:", verifiedUrl);
+          return verifiedUrl;
         }
+      } catch (error) {
+        this.debugError("[Link Embed] Favicon - Error with default /favicon.ico:", error);
       }
-    }
-    const defaultFaviconDataUri = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRklEQVR42mKgOqjq75ds7510YNL0uV9nAGqniqwKYiCIHIIjcAK22BGQLRdgBWvc3fnWk/FJhrkPO1xPgGvqPfLfJMHhT1yqurvS48bPaJhjD2efgidnVwa2yv59xecvEvi0UWCXq9t0ItfP2MMZ7nwIpkA8F1n8uLxZHM6yrBH7FIl2gFXDHYsErkn2hyKLHtcKrFntk58uVQJ+kSdQnmjhID4cwLLa8+K0BXsfNWCqBOsFdo2Yldv43DBrkxd30cjnNyYBhK0SQGkI9pG4Mu40D5b374DRCAyhHqXVfTmOwivivMkJxBz5wnHCtBfGgNFC+ChWKWRf3hsQIlyEoIv4IYEo5wkgtBLRekY9DE4Uin4Keae6hydGnljPmE8kRcCine6827AMsJ1IuW9ibnlQpXLBCR/WC875m2BP+VSu3c/0m+8V08OBngc0pxcAAAAASUVORK5CYII=";
-    this.debugLog("[Link Embed] Favicon - Using default favicon data URI");
-    return defaultFaviconDataUri;
+      const defaultFaviconDataUri = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABRklEQVR42mKgOqjq75ds7510YNL0uV9nAGqniqwKYiCIHIIjcAK22BGQLRdgBWvc3fnWk/FJhrkPO1xPgGvqPfLfJMHhT1yqurvS48bPaJhjD2efgidnVwa2yv59xecvEvi0UWCXq9t0ItfP2MMZ7nwIpkA8F1n8uLxZHM6yrBH7FIl2gFXDHYsErkn2hyKLHtcKrFntk58uVQJ+kSdQnmjhID4cwLLa8+K0BXsfNWCqBOsFdo2Yldv43DBrkxd30cjnNyYBhK0SQGkI9pG4Mu40D5b374DRCAyhHqXVfTmOwivivMkJxBz5wnHCtBfGgNFC+ChWKWRf3hsQIlyEoIv4IYEo5wkgtBLRekY9DE4Uin4Keae6hydGnljPmE8kRcCine6827AMsJ1IuW9ibnlQpXLBCR/WC875m2BP+VSu3c/0m+8V08OBngc0pxcAAAAASUVORK5CYII=";
+      this.debugLog("[Link Embed] Favicon - Using default favicon data URI");
+      return defaultFaviconDataUri;
+    });
   }
   getHtmlByRequest(url) {
     return __async(this, null, function* () {
@@ -1574,7 +1591,7 @@ var _LocalParser = class extends Parser {
       this.debugLog("[Link Embed] Doc:", doc);
       let title = this.getTitle(doc, uRL);
       let description = this.getDescription(doc);
-      let favicon = this.getFavicon(doc, uRL);
+      let favicon = yield this.getFavicon(doc, uRL);
       let image = yield this.getImage(doc, uRL);
       let processedData = this.process({
         title,
@@ -1605,7 +1622,12 @@ function createParser(parserType, settings, vault = null) {
       parser = new MicroLinkParser();
       break;
     case "iframely":
-      parser = new IframelyParser();
+      const iframelyApiKey = settings.iframelyApiKey;
+      if (!iframelyApiKey) {
+        console.log("[Link Embed] Iframely API key is not set");
+        throw new Error("Iframely API key is not set");
+      }
+      parser = new IframelyParser(iframelyApiKey);
       break;
     case "local":
       parser = new LocalParser();
@@ -1647,6 +1669,7 @@ var DEFAULT_SETTINGS = {
   delay: 0,
   linkpreviewApiKey: "",
   jsonlinkApiKey: "",
+  iframelyApiKey: "",
   metadataTemplate: 'parser: "{{parser}}"\ndate: "{{date}}"\ncustom_date: "{{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}"',
   useMetadataTemplate: false,
   saveImagesToVault: false,
@@ -1824,6 +1847,12 @@ ${content.split(origin).join(embed)}`);
     new import_obsidian4.Setting(containerEl).setName("JSONLink API Key").setDesc("Enter your API key for the JSONLink provider.").addText((value) => {
       value.setValue(this.plugin.settings.jsonlinkApiKey).onChange((value2) => {
         this.plugin.settings.jsonlinkApiKey = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian4.Setting(containerEl).setName("Iframely API Key").setDesc("Enter your API key for the Iframely provider.").addText((value) => {
+      value.setValue(this.plugin.settings.iframelyApiKey).onChange((value2) => {
+        this.plugin.settings.iframelyApiKey = value2;
         this.plugin.saveSettings();
       });
     });
@@ -2605,3 +2634,5 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian10.Plugin {
  * http://github.com/janl/mustache.js
  */
 /*! https://mths.be/he v1.2.0 by @mathias | MIT license */
+
+/* nosourcemap */

@@ -29,3 +29,22 @@ The above code will able to run partially
 ![[1-Cohort2.0 Week1.2 by 100xdevs.pdf]]
 
 
+### Basic Syntax of the JavaScript
+
+```js
+let firstname = "alex"
+let age = 18;
+let isMarried = false;
+
+console.log("this person name is " + firstname + " and their age is " + age)
+```
+
+```js 
+
+let answer = 0;
+for(let i = 0;i<10;i = i+1){
+    answer = answer + i;
+}
+console.log(answer);
+```
+
