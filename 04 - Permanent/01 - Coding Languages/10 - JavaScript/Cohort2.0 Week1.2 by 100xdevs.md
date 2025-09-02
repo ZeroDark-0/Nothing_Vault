@@ -48,3 +48,41 @@ for(let i = 0;i<10;i = i+1){
 console.log(answer);
 ```
 
+```js
+const personArray = ["alex","rina","micheal"];          //these are the array
+const generArray = ["male","female","male"];
+
+
+const user1 = {                      
+    firstName : "ellen",
+    gender : "female"
+}
+console.log(user1["gender"]);
+
+const alluser = [{                          //these are the objects
+    firstName : "ellen",
+    gender : "female"
+}, {
+    firstName : "jane",
+    gender : "female"
+},{
+    firstName : "pan",
+    gender : "male"
+},{
+    firstName : "wise",
+    gender : "male"
+}]
+```
+
+### Functions
+
+```js
+
+function sum(a,b){
+    //do things
+    return a+b;
+}
+
+console.log(sum(1,2));
+```
+
