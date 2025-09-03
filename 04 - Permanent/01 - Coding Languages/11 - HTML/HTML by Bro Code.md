@@ -158,6 +158,32 @@ we can write the code as :-
 </html>
 ```
 
+and also if the structure is like this:-
+
+project/
+├── myHTML/          ← your HTML file is here
+│   └── index.html
+└── images/          ← your images are here
+    ├── 1.png
+    ├── 2.jfif
+    └── 3.jfif
+
+```html
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>My first Website</title>
+</head>
+<body>
+    
+    <img src = "../images/1.png">
+    
+</body>
+</html>
+
+```
+
 ### Now the size of the image
 
 ```html

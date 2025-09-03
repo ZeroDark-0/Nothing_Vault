@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Cohort2.0 Week1.2 by 100xdevs",
+      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Female skin Glow",
+      "path": "02 - Areas/2D Art/Skin/Female skin Glow.md"
+    },
+    {
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
       "basename": "HTML by Bro Code",
       "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+    },
+    {
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Core body/Body Structures (male).md"
     },
     {
       "basename": "sample",
@@ -57,16 +77,8 @@
       "path": "01 - Projects/Discord Bot/Discord Bot.md"
     },
     {
-      "basename": "Cohort2.0 Week1.2 by 100xdevs",
-      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
-    },
-    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Live2D",
@@ -75,10 +87,6 @@
     {
       "basename": "00 - Gamedev Index",
       "path": "08 - Gamedev/00 - Gamedev Index.md"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
     },
     {
       "basename": "DevOps Day-12",
@@ -191,14 +199,6 @@
     {
       "basename": "Relay System(multiplayer).excalidraw",
       "path": "08 - Gamedev/Multiplayer Networking/Relay System(multiplayer).excalidraw.md"
-    },
-    {
-      "basename": "Multiplayer networking architecture by voxel",
-      "path": "08 - Gamedev/Multiplayer Networking/Multiplayer networking architecture by voxel.md"
-    },
-    {
-      "basename": "ZZZ Character Model by 2AM",
-      "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
     }
   ],
   "omittedPaths": [],
