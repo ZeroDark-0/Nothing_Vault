@@ -1,16 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "HTML by Bro Code",
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/08 - Latex/sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/07 - Rust/sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/06 - BrainFuck/sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/05 - Python/sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/02 - C Programming/sample.md"
+    },
+    {
+      "basename": "Sample",
+      "path": "02 - Areas/2D Art/Legs/Sample.md"
+    },
+    {
+      "basename": "Sample",
+      "path": "02 - Areas/2D Art/Hands/Sample.md"
+    },
+    {
+      "basename": "Sample",
+      "path": "02 - Areas/2D Art/Feets/Sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "02 - Areas/2D Art/Face/sample.md"
+    },
+    {
+      "basename": "sample",
+      "path": "02 - Areas/2D Art/Chest/sample.md"
+    },
+    {
+      "basename": "Discord Bot",
+      "path": "01 - Projects/Discord Bot/Discord Bot.md"
+    },
+    {
       "basename": "Cohort2.0 Week1.2 by 100xdevs",
       "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
-    },
-    {
-      "basename": "HTML by Bro Code",
-      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
     },
     {
       "basename": "01 Map",
@@ -147,54 +199,6 @@
     {
       "basename": "ZZZ Character Model by 2AM",
       "path": "08 - Gamedev/3D Art Resource and Notes/Character Designs/ZZZ Character Model by 2AM.md"
-    },
-    {
-      "basename": "PBR Videos",
-      "path": "08 - Gamedev/3D Art Resource and Notes/PBR Videos.md"
-    },
-    {
-      "basename": "Blender Course by CrossMind Studio",
-      "path": "08 - Gamedev/3D Art Resource and Notes/Blender Course by CrossMind Studio.md"
-    },
-    {
-      "basename": "Blender shortcut",
-      "path": "08 - Gamedev/3D Art Resource and Notes/Blender shortcut.md"
-    },
-    {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
-    },
-    {
-      "basename": "endl vs backslash n",
-      "path": "03 - Resources/C++/endl vs backslash n.md"
-    },
-    {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "Basic of Fibonacci",
-      "path": "04 - Permanent/04 - Problems/Basic of Fibonacci.md"
-    },
-    {
-      "basename": "01 - Java Introduction",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/01 - Java Introduction.md"
-    },
-    {
-      "basename": "05 - Array in Java",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md"
-    },
-    {
-      "basename": "C++++ brocode",
-      "path": "03 - Resources/C#/C++++ brocode.md"
-    },
-    {
-      "basename": "04 - Flow Control",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/04 - Flow Control.md"
-    },
-    {
-      "basename": "03 - Java Input n Output",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/03 - Java Input n Output.md"
     }
   ],
   "omittedPaths": [],

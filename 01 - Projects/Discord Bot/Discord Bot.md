@@ -10,8 +10,7 @@ area:
 ---
 [[Discord bot TOS- (202501291937)]]
 [[How Discord Bot work- (202501292056)]]
-[[resour
-
+[[Resource for the discord bot (202501291948)]]
 
 ### Projects -- 
 

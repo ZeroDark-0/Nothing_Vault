@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Cohort2.0 Week1.2 by 100xdevs"
             }
+          },
+          {
+            "id": "59c8f0b0b0f1d716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML by Bro Code"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,10 +284,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26386469bd35a1ee",
+  "active": "59c8f0b0b0f1d716",
   "lastOpenFiles": [
-    "00 - Maps of Content/00 Homepage.md",
+    "04 - Permanent/01 - Coding Languages/08 - Latex/sample.md",
+    "04 - Permanent/01 - Coding Languages/07 - Rust/sample.md",
+    "04 - Permanent/01 - Coding Languages/06 - BrainFuck/sample.md",
+    "04 - Permanent/01 - Coding Languages/05 - Python/sample.md",
+    "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/sample.md",
+    "04 - Permanent/01 - Coding Languages/02 - C Programming/sample.md",
+    "02 - Areas/2D Art/Legs/Sample.md",
+    "02 - Areas/2D Art/Hands/Sample.md",
+    "02 - Areas/2D Art/Feets/Sample.md",
+    "02 - Areas/2D Art/Face/sample.md",
+    "02 - Areas/2D Art/Chest/sample.md",
+    "01 - Projects/Discord Bot/Discord Bot.md",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
+    "00 - Maps of Content/00 Homepage.md",
     "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
     "00 - Maps of Content/01 Map.md",
     "Untitled Kanban.md",
@@ -289,20 +317,7 @@
     "04 - Permanent/03 - DevOps/NG/DevOps Day-5.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.png",
-    "ED-202508200130.excalidraw.md",
-    "non-index/Random.md",
-    "ED-202508200130_0.excalidraw.md",
-    "ED-202508200129.excalidraw.md",
-    "ED-202508200127.excalidraw.md",
-    "non-index/Random.excalidraw.md",
-    "non-index/One and Two Year Way.md",
-    "08 - Gamedev/Editing/Photoshop by Envato Tuts+.md",
-    "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md",
-    "Grokking the Coding Interview/1. Pattern Sliding Window/2. Maximum Sum Subarray of Size K (easy).md",
     "05 - Archives/JeffreySu_Resume.pdf",
-    "05 - Archives/Git by Tech With Tim.md",
-    "05 - Archives/Git by Nick White.md",
-    "05 - Archives/Deleting Dual Boot.md",
     "99 - Meta/attachments/C++ cookbook.pdf",
     "99 - Meta/attachments/image-2.png",
     "99 - Meta/attachments/image-1.png",
