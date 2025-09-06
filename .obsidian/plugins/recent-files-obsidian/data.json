@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Cohort2.0 Week1.3 by 100xdevs",
+      "path": "Cohort2.0 Week1.3 by 100xdevs.md"
+    },
+    {
       "basename": "Cohort2.0 Week1.2 by 100xdevs",
       "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "01 Map",
@@ -75,10 +83,6 @@
     {
       "basename": "Discord Bot",
       "path": "01 - Projects/Discord Bot/Discord Bot.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Live2D",
@@ -195,10 +199,6 @@
     {
       "basename": "The Secret to Finishing Your Game",
       "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
-    },
-    {
-      "basename": "Relay System(multiplayer).excalidraw",
-      "path": "08 - Gamedev/Multiplayer Networking/Relay System(multiplayer).excalidraw.md"
     }
   ],
   "omittedPaths": [],
