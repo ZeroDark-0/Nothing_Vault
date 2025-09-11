@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad1ec51a19342e5",
+        "id": "3e4501a944df8a35",
         "type": "tabs",
         "children": [
           {
-            "id": "26386469bd35a1ee",
+            "id": "1907a11ef1f34da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cohort2.0 Week1.3 by 100xdevs.md",
+                "file": "00 - Maps of Content/00 Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cohort2.0 Week1.3 by 100xdevs"
+              "title": "00 Homepage"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,12 +269,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26386469bd35a1ee",
+  "active": "1907a11ef1f34da7",
   "lastOpenFiles": [
+    "05 - Archives/Partial and Completely Object Oriented Language.md",
+    "00 - Maps of Content/01 Map.md",
     "00 - Maps of Content/00 Homepage.md",
     "Cohort2.0 Week1.3 by 100xdevs.md",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
-    "00 - Maps of Content/01 Map.md",
     "02 - Areas/2D Art/Skin/Female skin Glow.md",
     "00 - Maps of Content/99 Meetings.md",
     "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
@@ -297,7 +298,6 @@
     "02 - Areas/Live2D.md",
     "02 - Areas/00 - Areas Map (202501181839).md",
     "02 - Areas/Leetcode/Leetcode 463.excalidraw.md",
-    "08 - Gamedev/00 - Gamedev Index.md",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",

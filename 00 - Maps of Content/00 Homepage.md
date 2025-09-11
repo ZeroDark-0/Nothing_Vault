@@ -33,7 +33,7 @@ completedLabel: Did you?//
 
 
  - [ ] Multi Player System
- - [ ] Obsidian plugin css file
+ - [ ] Obsidian plugin css file 🔴
  - [ ] Github Profile Markdown
  
 

@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Cohort2.0 Week1.3 by 100xdevs",
-      "path": "Cohort2.0 Week1.3 by 100xdevs.md"
-    },
-    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Cohort2.0 Week1.2 by 100xdevs",
-      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
+      "basename": "Partial and Completely Object Oriented Language",
+      "path": "05 - Archives/Partial and Completely Object Oriented Language.md"
     },
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "Cohort2.0 Week1.3 by 100xdevs",
+      "path": "Cohort2.0 Week1.3 by 100xdevs.md"
+    },
+    {
+      "basename": "Cohort2.0 Week1.2 by 100xdevs",
+      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
     },
     {
       "basename": "Female skin Glow",
@@ -195,10 +199,6 @@
     {
       "basename": "3.Branding Fundamentals",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
-    },
-    {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
     }
   ],
   "omittedPaths": [],
