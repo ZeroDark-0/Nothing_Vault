@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cohort2.0 Week1.3 by 100xdevs.md",
+                "file": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cohort2.0 Week1.3 by 100xdevs"
+              "title": "HTML by Bro Code"
             }
           },
           {
-            "id": "719277abdbd1f2fd",
+            "id": "64e905644f1f74b4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "release-notes",
               "state": {
-                "file": "non-index/Random.excalidraw.md"
+                "currentVersion": "1.9.14"
               },
-              "icon": "excalidraw-icon",
-              "title": "Random.excalidraw"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ]
@@ -283,31 +283,32 @@
   },
   "active": "5a6b10fcc78ff255",
   "lastOpenFiles": [
-    "non-index/Random.excalidraw.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "00 - Maps of Content/01 Map.md",
-    "Cohort2.0 Week1.3 by 100xdevs.md",
-    "non-index/One and Two Year Way.md",
-    "non-index/Random.md",
-    "08 - Gamedev/Non-Index/00 - Gamedev Index.md",
-    "08 - Gamedev/Non-Index/Untitled.md",
-    "08 - Gamedev/Non-Index/Other Game dev related.md",
-    "08 - Gamedev/Non-Index/Portfolio for Gamedev.md",
-    "ED-202509121627.excalidraw.md",
-    "05 - Archives/Partial and Completely Object Oriented Language.md",
-    "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
-    "02 - Areas/2D Art/Skin/Female skin Glow.md",
-    "00 - Maps of Content/99 Meetings.md",
     "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
-    "02 - Areas/2D Art/Core body/Body Structures (male).md",
-    "04 - Permanent/01 - Coding Languages/08 - Latex/sample.md",
-    "04 - Permanent/01 - Coding Languages/07 - Rust/sample.md",
-    "04 - Permanent/01 - Coding Languages/06 - BrainFuck/sample.md",
-    "04 - Permanent/01 - Coding Languages/05 - Python/sample.md",
+    "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
     "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md",
-    "04 - Permanent/01 - Coding Languages/03 - C++/sample.md",
-    "04 - Permanent/01 - Coding Languages/02 - C Programming/sample.md",
-    "02 - Areas/2D Art/Legs/Sample.md",
+    "03 - Resources/C#/C++++ brocode.md",
+    "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md",
+    "03 - Resources/02 - DSA/Introduction to Algorithms.md",
+    "03 - Resources/01 - Programming/packt.md",
+    "03 - Resources/01 - Programming/Latex.md",
+    "03 - Resources/01 - Programming/Competitive Programming.md",
+    "01 - Projects/Main.md",
+    "01 - Projects/Multiplayer Game.md",
+    "01 - Projects/Obsidian theme Plugin (can add custom themes).md",
+    "01 - Projects/Rust.md",
+    "01 - Projects/Github Dynamic ReadMe.md",
+    "00 - Maps of Content/99 Meetings.md",
+    "00 - Maps of Content/01 Map.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "02 - Areas/2D Art/Core body/Body Structures (male).md",
+    "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md",
+    "02 - Areas/2D Art/Clothing/Girls denim shorts.md",
+    "02 - Areas/2D Art/Clothing/Cap.md",
+    "02 - Areas/2D Art/Chest/sample.md",
+    "02 - Areas/2D Art/Arms/Male Armpit and elbow.md",
+    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
+    "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md",
+    "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md",
     "04 - Permanent/01 - Coding Languages/11 - HTML",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.pdf",

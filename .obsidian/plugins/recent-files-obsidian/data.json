@@ -1,20 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "Cohort2.0 Week1.3 by 100xdevs",
-      "path": "Cohort2.0 Week1.3 by 100xdevs.md"
+      "basename": "HTML by Bro Code",
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
     },
     {
-      "basename": "Random.excalidraw",
-      "path": "non-index/Random.excalidraw.md"
+      "basename": "Cohort2.0 Week1.2 by 100xdevs",
+      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md"
+    },
+    {
+      "basename": "C++++ brocode",
+      "path": "03 - Resources/C#/C++++ brocode.md"
+    },
+    {
+      "basename": "Secure Boot YT(202501031505)",
+      "path": "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md"
+    },
+    {
+      "basename": "Introduction to Algorithms",
+      "path": "03 - Resources/02 - DSA/Introduction to Algorithms.md"
+    },
+    {
+      "basename": "packt",
+      "path": "03 - Resources/01 - Programming/packt.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "03 - Resources/01 - Programming/Latex.md"
+    },
+    {
+      "basename": "Competitive Programming",
+      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
+    },
+    {
+      "basename": "Main",
+      "path": "01 - Projects/Main.md"
+    },
+    {
+      "basename": "Multiplayer Game",
+      "path": "01 - Projects/Multiplayer Game.md"
+    },
+    {
+      "basename": "Obsidian theme Plugin (can add custom themes)",
+      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
+    },
+    {
+      "basename": "Rust",
+      "path": "01 - Projects/Rust.md"
+    },
+    {
+      "basename": "Github Dynamic ReadMe",
+      "path": "01 - Projects/Github Dynamic ReadMe.md"
+    },
+    {
+      "basename": "99 Meetings",
+      "path": "00 - Maps of Content/99 Meetings.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "Body Structures (male)",
+      "path": "02 - Areas/2D Art/Core body/Body Structures (male).md"
+    },
+    {
+      "basename": "Upper Body and Underwear",
+      "path": "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md"
+    },
+    {
+      "basename": "Girls denim shorts",
+      "path": "02 - Areas/2D Art/Clothing/Girls denim shorts.md"
+    },
+    {
+      "basename": "Cap",
+      "path": "02 - Areas/2D Art/Clothing/Cap.md"
+    },
+    {
+      "basename": "sample",
+      "path": "02 - Areas/2D Art/Chest/sample.md"
+    },
+    {
+      "basename": "Male Armpit and elbow",
+      "path": "02 - Areas/2D Art/Arms/Male Armpit and elbow.md"
+    },
+    {
+      "basename": "Arch Linux Installation (202501010710)",
+      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
+    },
+    {
+      "basename": "Arch Linux commands (202501011001)",
+      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
+    },
+    {
+      "basename": "05 - Array in Java",
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md"
+    },
+    {
+      "basename": "Cohort2.0 Week1.3 by 100xdevs",
+      "path": "Cohort2.0 Week1.3 by 100xdevs.md"
+    },
+    {
+      "basename": "Random.excalidraw",
+      "path": "non-index/Random.excalidraw.md"
     },
     {
       "basename": "One and Two Year Way",
@@ -41,24 +137,8 @@
       "path": "05 - Archives/Partial and Completely Object Oriented Language.md"
     },
     {
-      "basename": "Cohort2.0 Week1.2 by 100xdevs",
-      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
-    },
-    {
       "basename": "Female skin Glow",
       "path": "02 - Areas/2D Art/Skin/Female skin Glow.md"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "HTML by Bro Code",
-      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Core body/Body Structures (male).md"
     },
     {
       "basename": "sample",
@@ -75,10 +155,6 @@
     {
       "basename": "sample",
       "path": "04 - Permanent/01 - Coding Languages/05 - Python/sample.md"
-    },
-    {
-      "basename": "sample",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md"
     },
     {
       "basename": "sample",
@@ -105,10 +181,6 @@
       "path": "02 - Areas/2D Art/Face/sample.md"
     },
     {
-      "basename": "sample",
-      "path": "02 - Areas/2D Art/Chest/sample.md"
-    },
-    {
       "basename": "Discord Bot",
       "path": "01 - Projects/Discord Bot/Discord Bot.md"
     },
@@ -127,74 +199,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Photoshop by Envato Tuts+",
-      "path": "08 - Gamedev/Editing/Photoshop by Envato Tuts+.md"
-    },
-    {
-      "basename": "2.Photoshop -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
-    },
-    {
-      "basename": "2. Maximum Sum Subarray of Size K (easy)",
-      "path": "Grokking the Coding Interview/1. Pattern Sliding Window/2. Maximum Sum Subarray of Size K (easy).md"
-    },
-    {
-      "basename": "JeffreySu_Resume",
-      "path": "05 - Archives/JeffreySu_Resume.pdf"
-    },
-    {
-      "basename": "Git by Tech With Tim",
-      "path": "05 - Archives/Git by Tech With Tim.md"
-    },
-    {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
-    },
-    {
-      "basename": "Deleting Dual Boot",
-      "path": "05 - Archives/Deleting Dual Boot.md"
-    },
-    {
-      "basename": "Some Useful Website",
-      "path": "05 - Archives/Some Useful Website.md"
-    },
-    {
-      "basename": "Sites Library",
-      "path": "05 - Archives/Sites Library.md"
-    },
-    {
-      "basename": "Resume or CV making",
-      "path": "05 - Archives/Resume or CV making.md"
-    },
-    {
-      "basename": "My Resume",
-      "path": "05 - Archives/My Resume.md"
-    },
-    {
-      "basename": "Kadane's Algorithm",
-      "path": "04 - Permanent/02 - DSA/Kadane's Algorithm.md"
-    },
-    {
-      "basename": "Notes System",
-      "path": "06 - Atomic/Notes System.md"
-    },
-    {
-      "basename": "C++ cookbook",
-      "path": "99 - Meta/attachments/C++ cookbook.pdf"
-    },
-    {
-      "basename": "Secure Boot",
-      "path": "06 - Atomic/Secure Boot.md"
-    },
-    {
-      "basename": "Indexing Format",
-      "path": "06 - Atomic/Indexing Format.md"
-    },
-    {
-      "basename": "Advanced Photoshop by Envato Tuts+",
-      "path": "08 - Gamedev/Editing/Advanced Photoshop by Envato Tuts+.md"
     }
   ],
   "omittedPaths": [],
