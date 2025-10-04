@@ -16,10 +16,14 @@ completedLabel: Did you?//
 
 ![[6-00 Homepage.jpg|900x469]]
 
-![[фрози (frozy), dbb - Parano (Inuhaya version).mp4]]
+
+```audio-player
+[[Aria Math.mp3]]
+```
 
 
 ---
+
 # <code style="color:Blue">Eternity</code>
 
 

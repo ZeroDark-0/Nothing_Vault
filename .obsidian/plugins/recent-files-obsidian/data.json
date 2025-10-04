@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "HTML by Bro Code",
       "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Body Structures (male)",
@@ -195,10 +199,6 @@
     {
       "basename": "DevOps Day-5",
       "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-5.md"
-    },
-    {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf"
     }
   ],
   "omittedPaths": [],

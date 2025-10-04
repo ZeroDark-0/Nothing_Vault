@@ -25,15 +25,16 @@
             "id": "64e905644f1f74b4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file-text",
+              "title": "1-DSA by iNeuron"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 299.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00 Homepage"
+              "title": "Backlinks for 1-DSA by iNeuron"
             }
           },
           {
@@ -242,8 +243,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -281,8 +281,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a6b10fcc78ff255",
+  "active": "64e905644f1f74b4",
   "lastOpenFiles": [
+    "00 - Maps of Content/00 Homepage.md",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
+    "99 - Meta/attachments/Aria Math.mp3",
+    "99 - Meta/attachments/[SPOTDOWNLOADER.COM] Aria Math (Handpan Version).mp3",
+    "99 - Meta/attachments/2-00 Homepage.mp3",
+    "99 - Meta/attachments/1-00 Homepage.mp3",
     "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
     "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md",
@@ -299,7 +305,6 @@
     "01 - Projects/Github Dynamic ReadMe.md",
     "00 - Maps of Content/99 Meetings.md",
     "00 - Maps of Content/01 Map.md",
-    "00 - Maps of Content/00 Homepage.md",
     "02 - Areas/2D Art/Core body/Body Structures (male).md",
     "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md",
     "02 - Areas/2D Art/Clothing/Girls denim shorts.md",
@@ -308,21 +313,15 @@
     "02 - Areas/2D Art/Arms/Male Armpit and elbow.md",
     "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
     "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md",
-    "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md",
     "04 - Permanent/01 - Coding Languages/11 - HTML",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.png",
     "05 - Archives/JeffreySu_Resume.pdf",
-    "99 - Meta/attachments/C++ cookbook.pdf",
     "99 - Meta/attachments/image-2.png",
     "99 - Meta/attachments/image-1.png",
-    "99 - Meta/attachments/фрози (frozy), dbb - Parano (Inuhaya version).mp4",
-    "04 - Permanent/04 - Problems",
-    "non-index",
     "99 - Meta/attachments/1-Basic of Fibonacci (dp).png",
-    "99 - Meta/attachments/1-00 Homepage.mp4",
     "99 - Meta/attachments/5-00 Homepage.jpg",
     "99 - Meta/attachments/1-Upper Body and Underwear.png",
     "99 - Meta/attachments/3-Untitled.png",
