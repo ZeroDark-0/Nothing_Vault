@@ -17,11 +17,6 @@ completedLabel: Did you?//
 ![[6-00 Homepage.jpg|900x469]]
 
 
-```audio-player
-[[Aria Math.mp3]]
-```
-
-
 ---
 
 # <code style="color:Blue">Eternity</code>

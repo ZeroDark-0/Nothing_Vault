@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a6b10fcc78ff255",
+            "id": "f2b9d2270ec48d75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML by Bro Code"
-            }
-          },
-          {
-            "id": "64e905644f1f74b4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1-DSA by iNeuron"
+              "title": "01 Map"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +94,16 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "49847b69db2c92b4",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
           }
         ]
       },
@@ -129,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 318.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -256,6 +253,7 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
       "bases:Create new base": false,
       "obsidian-rich-links:Rich Links": false,
       "daily-notes:Open today's daily note": false,
@@ -281,15 +279,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64e905644f1f74b4",
+  "active": "48db5e5e042efd58",
   "lastOpenFiles": [
-    "00 - Maps of Content/00 Homepage.md",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
+    "00 - Maps of Content/01 Map.md",
+    "2025101sample21922.md",
+    "99 - Meta/attachments/фрози (frozy), dbb - Parano (Inuhaya version).mp4",
+    "99 - Meta/attachments/1-00 Homepage.mp3",
     "99 - Meta/attachments/Aria Math.mp3",
+    "X/Target or Crosshair.md",
+    "X/Aimer7 Routine Addendum.pdf",
+    "X/Tammas' Routine Addendum (edited).pdf",
+    "X/kovaaks-playlist-compendium.md",
+    "X/Improve 7X Faster.md",
+    "X/Game Sense.md",
+    "X",
+    "03 - Resources/C++/endl vs backslash n.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
+    "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "99 - Meta/attachments/[SPOTDOWNLOADER.COM] Aria Math (Handpan Version).mp3",
     "99 - Meta/attachments/2-00 Homepage.mp3",
-    "99 - Meta/attachments/1-00 Homepage.mp3",
-    "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
     "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md",
     "03 - Resources/C#/C++++ brocode.md",
@@ -304,21 +314,9 @@
     "01 - Projects/Rust.md",
     "01 - Projects/Github Dynamic ReadMe.md",
     "00 - Maps of Content/99 Meetings.md",
-    "00 - Maps of Content/01 Map.md",
     "02 - Areas/2D Art/Core body/Body Structures (male).md",
-    "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md",
-    "02 - Areas/2D Art/Clothing/Girls denim shorts.md",
-    "02 - Areas/2D Art/Clothing/Cap.md",
-    "02 - Areas/2D Art/Chest/sample.md",
-    "02 - Areas/2D Art/Arms/Male Armpit and elbow.md",
-    "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md",
-    "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md",
     "04 - Permanent/01 - Coding Languages/11 - HTML",
-    "04 - Permanent/01 - Coding Languages/10 - JavaScript",
-    "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 2/1-DSA by iNeuron.pdf",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.png",
-    "05 - Archives/JeffreySu_Resume.pdf",
     "99 - Meta/attachments/image-2.png",
     "99 - Meta/attachments/image-1.png",
     "99 - Meta/attachments/1-Basic of Fibonacci (dp).png",

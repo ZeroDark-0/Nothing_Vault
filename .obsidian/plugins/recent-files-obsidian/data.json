@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "1-DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
+      "basename": "HTML by Bro Code",
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "endl vs backslash n",
+      "path": "03 - Resources/C++/endl vs backslash n.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "HTML by Bro Code",
-      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
     {
       "basename": "Cohort2.0 Week1.2 by 100xdevs",
@@ -67,10 +79,6 @@
     {
       "basename": "99 Meetings",
       "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Body Structures (male)",
@@ -187,18 +195,6 @@
     {
       "basename": "Discord Bot",
       "path": "01 - Projects/Discord Bot/Discord Bot.md"
-    },
-    {
-      "basename": "Live2D",
-      "path": "02 - Areas/Live2D.md"
-    },
-    {
-      "basename": "DevOps Day-12",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-12.md"
-    },
-    {
-      "basename": "DevOps Day-5",
-      "path": "04 - Permanent/03 - DevOps/NG/DevOps Day-5.md"
     }
   ],
   "omittedPaths": [],

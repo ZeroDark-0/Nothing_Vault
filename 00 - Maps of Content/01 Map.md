@@ -8,7 +8,7 @@ cssclasses:
   - center-images
 ---
 
-![[Miku's eyes.gif]]
+![[Miku's eyes.gif|601x285]]
 
 ---
 ![[2-01 Map.gif]]

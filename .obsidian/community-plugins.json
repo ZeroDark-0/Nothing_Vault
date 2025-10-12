@@ -18,7 +18,6 @@
   "cmdr",
   "dataview",
   "dbfolder",
-  "janitor",
   "obsidian-kanban",
   "note-refactor-obsidian",
   "obsidian-reading-time",
@@ -48,5 +47,5 @@
   "execute-code",
   "image-converter",
   "widgets",
-  "obsidian-audio-player"
+  "obsidian-trash-explorer"
 ]
