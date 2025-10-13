@@ -1,0 +1,73 @@
+---
+date: 2025-10-13T22:24
+tags: []
+---
+
+As in the standard library there are many types of containers that store the collection of data includes the sequence containers (such as vector, array, and list)->ordered and unordered
+well there are more advanced sequence container such as queue and stack. All of them are implemented as class templates and every one of them are used on the based situation which not only provide good performance in terms of speed of inserts, deletes, access to elements, and memory usage but also makes the code easy to read and maintain.
+
+as for first we start from <code style="font-size:30px; color:cyan">vectors, arrays, and list</code>
+
+```cpp
+double d[3];                   //static aloocation of array of 3 doubles
+int* arr = new int[5];         //dynamic allocation of array of 5 ints
+```
+
+### Some Methods for the vector class(that i don't know or less used by me)
+
+Initialization from another container:-
+
+```cpp
+
+std::list<int> l{1, 2, 3, 4 ,5};
+std::vector<int> v3(l.begin(), l.end()); //{1, 2, 3, 4 ,5}
+```
+
+
+Assign from another sequence defined by a begin and end iterator with `assign()`:
+
+```cpp
+int arr[] = {1, 2, 3, 4 ,5};
+std::vector <int> v31;
+v31.assign(arr, arr + 5);
+std:: vector<int> v32;
+v32.assign(arr + 1, arr + 4);     //{2, 3, 4}
+```
+
+
+Swap function:
+
+```cpp
+vector <int> v3 = {10, 20, 30};
+vector <int> v4 = {1, 2, 3, 4, 5};
+v3.swap(v4);            //  v3 = {1, 2, 3, 4, 5}; v4 = {10, 20, 30};
+```
+
+
+---
+
+`assign_range`:
+
+```cpp
+
+std::list<int>   l{ 1, 2, 3, 4, 5 };
+std::vector<int> v;
+v.assign_range(l); // v = {1, 2, 3, 4, 5}
+```
+
+`append_range`:
+
+```cpp
+std::list<int>   l{ 3, 4, 5 };
+std::vector<int> v{ 1, 2 };
+v.append_range(l);  // v = {1, 2, 3, 4, 5}
+```
+
+`insert_range`:
+
+```cpp
+std::list<int>   l{ 2, 3, 4 };
+std::vector<int> v{ 1, 5 };
+v.insert_range(v.begin() + 1, l); // v = {1, 2, 3, 4, 5}
+```
+

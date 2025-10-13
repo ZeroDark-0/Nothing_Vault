@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "HTML by Bro Code",
-      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+      "basename": "Using Vector as a default container",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/Using Vector as a default container.md"
     },
     {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
-      "basename": "endl vs backslash n",
-      "path": "03 - Resources/C++/endl vs backslash n.md"
+      "basename": "Modern C++ Programming Cookbook",
+      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Modern C++ Programming Cookbook",
-      "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
+      "basename": "Input and Output used in Competitive Programming",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Input and Output used in Competitive Programming.md"
+    },
+    {
+      "basename": "Split, Map, and Filter Functions",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Split, Map, and Filter Functions.md"
+    },
+    {
+      "basename": "Competitive Programming",
+      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
+    },
+    {
+      "basename": "HTML by Bro Code",
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+    },
+    {
+      "basename": "endl vs backslash n",
+      "path": "03 - Resources/C++/endl vs backslash n.md"
     },
     {
       "basename": "1-DSA by iNeuron",
@@ -51,10 +67,6 @@
     {
       "basename": "Latex",
       "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "Competitive Programming",
-      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
     },
     {
       "basename": "Main",
@@ -170,10 +182,6 @@
     },
     {
       "basename": "sample",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/sample.md"
-    },
-    {
-      "basename": "sample",
       "path": "04 - Permanent/01 - Coding Languages/02 - C Programming/sample.md"
     },
     {
@@ -191,10 +199,6 @@
     {
       "basename": "sample",
       "path": "02 - Areas/2D Art/Face/sample.md"
-    },
-    {
-      "basename": "Discord Bot",
-      "path": "01 - Projects/Discord Bot/Discord Bot.md"
     }
   ],
   "omittedPaths": [],

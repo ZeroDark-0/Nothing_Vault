@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/Using Vector as a default container.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using Vector as a default container"
+            }
+          },
+          {
+            "id": "afe161ca1c20b0f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "00 - Maps of Content/01 Map.md",
                 "mode": "source",
                 "source": false
@@ -126,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 333.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -267,7 +281,6 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
-      "janitor:Janitor: scan vault": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
@@ -279,9 +292,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48db5e5e042efd58",
+  "active": "f2b9d2270ec48d75",
   "lastOpenFiles": [
     "00 - Maps of Content/01 Map.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/Using Vector as a default container.md",
+    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Input and Output used in Competitive Programming.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Split, Map, and Filter Functions.md",
+    "03 - Resources/01 - Programming/Competitive Programming.md",
     "2025101sample21922.md",
     "99 - Meta/attachments/фрози (frozy), dbb - Parano (Inuhaya version).mp4",
     "99 - Meta/attachments/1-00 Homepage.mp3",
@@ -294,12 +315,9 @@
     "X/Game Sense.md",
     "X",
     "03 - Resources/C++/endl vs backslash n.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
     "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "99 - Meta/attachments/[SPOTDOWNLOADER.COM] Aria Math (Handpan Version).mp3",
-    "99 - Meta/attachments/2-00 Homepage.mp3",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
     "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md",
     "03 - Resources/C#/C++++ brocode.md",
@@ -307,15 +325,11 @@
     "03 - Resources/02 - DSA/Introduction to Algorithms.md",
     "03 - Resources/01 - Programming/packt.md",
     "03 - Resources/01 - Programming/Latex.md",
-    "03 - Resources/01 - Programming/Competitive Programming.md",
     "01 - Projects/Main.md",
     "01 - Projects/Multiplayer Game.md",
     "01 - Projects/Obsidian theme Plugin (can add custom themes).md",
     "01 - Projects/Rust.md",
     "01 - Projects/Github Dynamic ReadMe.md",
-    "00 - Maps of Content/99 Meetings.md",
-    "02 - Areas/2D Art/Core body/Body Structures (male).md",
-    "04 - Permanent/01 - Coding Languages/11 - HTML",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.png",
     "99 - Meta/attachments/image-2.png",
     "99 - Meta/attachments/image-1.png",
