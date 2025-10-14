@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/Using Vector as a default container.md",
+                "file": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using Vector as a default container"
+              "title": "5. Finding elements in a range"
             }
           },
           {
@@ -294,10 +294,11 @@
   },
   "active": "f2b9d2270ec48d75",
   "lastOpenFiles": [
-    "00 - Maps of Content/01 Map.md",
-    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/Using Vector as a default container.md",
-    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/1. Using Vector as a default container.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
     "00 - Maps of Content/00 Homepage.md",
+    "00 - Maps of Content/01 Map.md",
+    "03 - Resources/C++/Modern C++ Programming Cookbook.md",
     "04 - Permanent/01 - Coding Languages/03 - C++/Input and Output used in Competitive Programming.md",
     "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators",
     "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook",
@@ -329,7 +330,6 @@
     "01 - Projects/Multiplayer Game.md",
     "01 - Projects/Obsidian theme Plugin (can add custom themes).md",
     "01 - Projects/Rust.md",
-    "01 - Projects/Github Dynamic ReadMe.md",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.png",
     "99 - Meta/attachments/image-2.png",
     "99 - Meta/attachments/image-1.png",

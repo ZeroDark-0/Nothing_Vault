@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Using Vector as a default container",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/Using Vector as a default container.md"
+      "basename": "5. Finding elements in a range",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
+    },
+    {
+      "basename": "1. Using Vector as a default container",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/1. Using Vector as a default container.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "01 Map",
@@ -11,10 +19,6 @@
     {
       "basename": "Modern C++ Programming Cookbook",
       "path": "03 - Resources/C++/Modern C++ Programming Cookbook.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "Input and Output used in Competitive Programming",
@@ -195,10 +199,6 @@
     {
       "basename": "Sample",
       "path": "02 - Areas/2D Art/Feets/Sample.md"
-    },
-    {
-      "basename": "sample",
-      "path": "02 - Areas/2D Art/Face/sample.md"
     }
   ],
   "omittedPaths": [],
