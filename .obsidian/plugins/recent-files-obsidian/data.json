@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "5. Finding elements in a range",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
+      "basename": "C++ STL",
+      "path": "C++ STL.md"
     },
     {
-      "basename": "1. Using Vector as a default container",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/1. Using Vector as a default container.md"
+      "basename": "Random.excalidraw",
+      "path": "non-index/Random.excalidraw.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "5. Finding elements in a range",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "1. Using Vector as a default container",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/1. Using Vector as a default container.md"
     },
     {
       "basename": "Modern C++ Programming Cookbook",
@@ -137,10 +145,6 @@
       "path": "Cohort2.0 Week1.3 by 100xdevs.md"
     },
     {
-      "basename": "Random.excalidraw",
-      "path": "non-index/Random.excalidraw.md"
-    },
-    {
       "basename": "One and Two Year Way",
       "path": "non-index/One and Two Year Way.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Sample",
       "path": "02 - Areas/2D Art/Hands/Sample.md"
-    },
-    {
-      "basename": "Sample",
-      "path": "02 - Areas/2D Art/Feets/Sample.md"
     }
   ],
   "omittedPaths": [],
