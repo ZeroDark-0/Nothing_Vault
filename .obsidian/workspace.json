@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "63d7ddda8ad8c4db",
+            "id": "1bec6f69619486ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md",
+                "file": "00 - Maps of Content/01 Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++ STL for Competitive Programming"
+              "title": "01 Map"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -308,17 +308,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d1e83701deb8513d",
+  "active": "48db5e5e042efd58",
   "lastOpenFiles": [
-    "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md",
+    "00 - Maps of Content/00 Homepage.md",
     "04 - Permanent/01 - Coding Languages/03 - C++/C++.md",
+    "99 - Meta/Backgrounds/Sakura_Nene_CPP.jpg",
+    "99 - Meta/Backgrounds/1-C++.jpg",
+    "99 - Meta/Backgrounds/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md",
     "00 - Maps of Content/01 Map.md",
     "08 - Gamedev/Non-Index/00 - Gamedev Index.md",
-    "00 - Maps of Content/00 Homepage.md",
     "04 - Permanent/01 - Coding Languages/01 - Mark Down/Mark Down.md",
     "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)",
     "202510221517.md",
-    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
     "non-index/One and Two Year Way.md",
     "non-index/Random.md",
     "non-index/Random.excalidraw.md",
@@ -345,7 +348,6 @@
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
     "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md",
-    "03 - Resources/C#/C++++ brocode.md",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.png",
     "99 - Meta/attachments/image-2.png",
     "99 - Meta/attachments/image-1.png",
@@ -353,9 +355,6 @@
     "99 - Meta/attachments/5-00 Homepage.jpg",
     "99 - Meta/attachments/1-Upper Body and Underwear.png",
     "99 - Meta/attachments/3-Untitled.png",
-    "99 - Meta/attachments/2-Untitled.png",
-    "99 - Meta/attachments/1-Untitled.png",
-    "99 - Meta/attachments/1-1..png",
     "Untitled.canvas",
     "03 - Resources/Untitled.canvas"
   ]

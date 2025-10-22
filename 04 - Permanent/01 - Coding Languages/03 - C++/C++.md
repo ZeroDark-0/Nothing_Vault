@@ -1,7 +1,8 @@
 ---
 date: 2025-10-22T15:55
 tags: []
-banner:
+banner: "![[Sakura_Nene_CPP.jpg]]"
+banner_y: 1
 ---
 
 ## <code style="color:cyan">Mordern C++ Cookbook</code>

@@ -1,32 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "C++",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/C++.md"
-    },
-    {
-      "basename": "C++ STL for Competitive Programming",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md"
-    },
-    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/Non-Index/00 - Gamedev Index.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Coding Languages/01 - Mark Down/Mark Down.md"
+      "basename": "C++",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/C++.md"
     },
     {
       "basename": "5. Finding elements in a range",
       "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
+    },
+    {
+      "basename": "C++ STL for Competitive Programming",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/Non-Index/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Coding Languages/01 - Mark Down/Mark Down.md"
     },
     {
       "basename": "One and Two Year Way",
@@ -195,10 +195,6 @@
     {
       "basename": "sample",
       "path": "04 - Permanent/01 - Coding Languages/05 - Python/sample.md"
-    },
-    {
-      "basename": "sample",
-      "path": "04 - Permanent/01 - Coding Languages/02 - C Programming/sample.md"
     }
   ],
   "omittedPaths": [],
