@@ -84,7 +84,7 @@ SORT file.name ASC
  - 4.1 Coding Language
     1. Markdown [[Mark Down]]
     2. C Programming 
-    3. C++
+    3. C++ [[C++]]
     4. C#
     5. Python
     6. BrainFuck

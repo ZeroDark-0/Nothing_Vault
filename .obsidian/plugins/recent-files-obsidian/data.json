@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "C++ STL",
-      "path": "C++ STL.md"
+      "basename": "C++",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/C++.md"
     },
     {
-      "basename": "Random.excalidraw",
-      "path": "non-index/Random.excalidraw.md"
+      "basename": "C++ STL for Competitive Programming",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/Non-Index/00 - Gamedev Index.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "Mark Down",
+      "path": "04 - Permanent/01 - Coding Languages/01 - Mark Down/Mark Down.md"
+    },
+    {
       "basename": "5. Finding elements in a range",
       "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "One and Two Year Way",
+      "path": "non-index/One and Two Year Way.md"
+    },
+    {
+      "basename": "Random",
+      "path": "non-index/Random.md"
+    },
+    {
+      "basename": "Random.excalidraw",
+      "path": "non-index/Random.excalidraw.md"
     },
     {
       "basename": "1. Using Vector as a default container",
@@ -142,19 +162,7 @@
     },
     {
       "basename": "Cohort2.0 Week1.3 by 100xdevs",
-      "path": "Cohort2.0 Week1.3 by 100xdevs.md"
-    },
-    {
-      "basename": "One and Two Year Way",
-      "path": "non-index/One and Two Year Way.md"
-    },
-    {
-      "basename": "Random",
-      "path": "non-index/Random.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/Non-Index/00 - Gamedev Index.md"
+      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.3 by 100xdevs.md"
     },
     {
       "basename": "Other Game dev related",
@@ -191,14 +199,6 @@
     {
       "basename": "sample",
       "path": "04 - Permanent/01 - Coding Languages/02 - C Programming/sample.md"
-    },
-    {
-      "basename": "Sample",
-      "path": "02 - Areas/2D Art/Legs/Sample.md"
-    },
-    {
-      "basename": "Sample",
-      "path": "02 - Areas/2D Art/Hands/Sample.md"
     }
   ],
   "omittedPaths": [],

@@ -27,28 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++ STL.md",
+                "file": "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++ STL"
+              "title": "C++ STL for Competitive Programming"
             }
           },
           {
-            "id": "39f3f75bf5fef942",
+            "id": "d1e83701deb8513d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "non-index/Random.excalidraw.md"
+                "file": "04 - Permanent/01 - Coding Languages/03 - C++/C++.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Random.excalidraw"
+              "icon": "lucide-file",
+              "title": "C++"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 292.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -267,7 +269,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -305,13 +308,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "63d7ddda8ad8c4db",
+  "active": "d1e83701deb8513d",
   "lastOpenFiles": [
-    "non-index/Random.excalidraw.md",
-    "00 - Maps of Content/00 Homepage.md",
-    "C++ STL.md",
-    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/C++.md",
     "00 - Maps of Content/01 Map.md",
+    "08 - Gamedev/Non-Index/00 - Gamedev Index.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "04 - Permanent/01 - Coding Languages/01 - Mark Down/Mark Down.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)",
+    "202510221517.md",
+    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
+    "non-index/One and Two Year Way.md",
+    "non-index/Random.md",
+    "non-index/Random.excalidraw.md",
     "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/1. Using Vector as a default container.md",
     "03 - Resources/C++/Modern C++ Programming Cookbook.md",
     "04 - Permanent/01 - Coding Languages/03 - C++/Input and Output used in Competitive Programming.md",
@@ -333,16 +343,9 @@
     "03 - Resources/C++/endl vs backslash n.md",
     "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
-    "99 - Meta/attachments/[SPOTDOWNLOADER.COM] Aria Math (Handpan Version).mp3",
     "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md",
     "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md",
     "03 - Resources/C#/C++++ brocode.md",
-    "03 - Resources/03 - Operating System/Secure Boot YT(202501031505).md",
-    "03 - Resources/02 - DSA/Introduction to Algorithms.md",
-    "03 - Resources/01 - Programming/packt.md",
-    "03 - Resources/01 - Programming/Latex.md",
-    "01 - Projects/Main.md",
-    "01 - Projects/Multiplayer Game.md",
     "99 - Meta/attachments/1-Cohort2.0 Week1.2 by 100xdevs.png",
     "99 - Meta/attachments/image-2.png",
     "99 - Meta/attachments/image-1.png",
