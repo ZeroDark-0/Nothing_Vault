@@ -14,6 +14,13 @@ for master course and illustration course..
 
 --> tutorial for live2d 
 
-<iframe src="https://www.youtube.com/embed/videoseries?list=PLqbLt-S6_fh6iH6cuL-CfmiBLNZksB2PP" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
+```embed
+title: "【1】 BEGINNER Live2D tutorial Intro + layering (+Free model PSD giveaway)"
+image: "https://i.ytimg.com/vi/QWxgh1PP4z0/maxresdefault.jpg"
+description: "Free Poopoo model PSD: https://ko-fi.com/s/b953aacd86Fully rigged cmo3 & Vtube studio model file: https://ko-fi.com/s/3698a22e6aLive2d software: https://www...."
+url: "https://youtu.be/QWxgh1PP4z0?si=C5AY4jOTDD60vAhz"
+favicon: ""
+aspectRatio: "56.25"
+```
 
 

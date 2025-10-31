@@ -52,13 +52,13 @@ SORT file.name ASC
 
  + 3.2 DSA
      - [[00 - DSA by iNeuron]]
-     - [[Introduction to Algorithms]]
+     - [[Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf]]
      - 
 
 ---
 
  + 3.3 Operating System
-     -  [[Secure Boot]]
+     -  [[Secure Boot YT]]
      - 
 
 ---
@@ -72,7 +72,7 @@ SORT file.name ASC
 
  + 3.5 C++
      + [[endl vs backslash n]]
-     + [[Modern C++ Programming Cookbook]]
+     + [[C++ cookbook.pdf]]
 
 ![[2-01 Map.gif]]
 
@@ -81,28 +81,7 @@ SORT file.name ASC
 
 # <code style="color:#9446f8">4. Permanent</code>
 
- - 4.1 Coding Language
-    1. Markdown [[Mark Down]]
-    2. C Programming 
-    3. C++ [[C++]]
-    4. C#
-    5. Python
-    6. BrainFuck
-    7. Rust
-    8. Latex
-    9. Java
-    10. JavaScript 
-    11. HTML
-
----
- + 4.2 DSA
-    + [[Kadane's Algorithm]]
-    + 
-
- + 4.3 DevOps
-    + NG
-
-
+- [[00 - Permanent]]
 
 
 ![[2-01 Map.gif]]

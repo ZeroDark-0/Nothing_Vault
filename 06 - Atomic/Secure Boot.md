@@ -4,7 +4,7 @@ tags:
   - Operating_System
 ---
 
-### <code style="color : aqua">Source</code> - [[Secure Boot YT(202501031505)]]
+### <code style="color : aqua">Source</code> - [[Secure Boot YT]]
 
 The secure boot is a security feature that design to prevent to give excess to un-authorized software. This is already installed by the motherboard manufacturer. 
 

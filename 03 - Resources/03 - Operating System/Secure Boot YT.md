@@ -5,7 +5,15 @@ tags:
   - resource
 ---
 
-### <code style="color : aqua">Source</code> - <iframe title="Windows Secure Boot Compromised!  What You Need to Know by a Retired Microsoft Engineer" src="https://www.youtube.com/embed/7sYzwb6eUgQ?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 16 / 9; width: 100%; height: 100%;"></iframe>
+### <code style="color : aqua">Source</code> - 
+```embed
+title: "Windows Secure Boot Compromised!  What You Need to Know by a Retired Microsoft Engineer"
+image: "https://i.ytimg.com/vi/7sYzwb6eUgQ/hqdefault.jpg"
+description: "Dave explains how the secure boot process works, why it's there, how it's been compromised, and the risk of UEFI rootkits and similar attacks following the s..."
+url: "https://youtu.be/7sYzwb6eUgQ?si=OUKwjdWy0U-p9Loq"
+favicon: ""
+aspectRatio: "75"
+```
 
 
 The video explains a recently discovered vulnerability that compromises the secure boot mechanism on over 200 device models from prominent manufacturers including Acer, Dell, Gigabyte, Intel, and Supermicro.
