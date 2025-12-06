@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "202512061529",
+      "path": "202512061529.md"
+    },
+    {
+      "basename": "00 - Permanent",
+      "path": "04 - Permanent/00 - Permanent.md"
+    },
+    {
       "basename": "01 Map",
       "path": "00 - Maps of Content/01 Map.md"
     },
     {
+      "basename": "5. Finding elements in a range",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
+    },
+    {
+      "basename": "Random",
+      "path": "non-index/Random.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/06 - BrainFuck/sample.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "05 - Array in Java",
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md"
+    },
+    {
+      "basename": "04 - Flow Control",
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/04 - Flow Control.md"
+    },
+    {
+      "basename": "03 - Java Input n Output",
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/03 - Java Input n Output.md"
+    },
+    {
+      "basename": "02 - Variable and Data type in Java",
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/02 - Variable and Data type in Java.md"
+    },
+    {
+      "basename": "01 - Java Introduction",
+      "path": "04 - Permanent/01 - Coding Languages/09 - Java/01 - Java Introduction.md"
+    },
+    {
+      "basename": "sample",
+      "path": "04 - Permanent/01 - Coding Languages/08 - Latex/sample.md"
     },
     {
       "basename": "00 - Gamedev Index",
@@ -77,16 +121,8 @@
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
     {
-      "basename": "5. Finding elements in a range",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
-    },
-    {
       "basename": "Live2D",
       "path": "02 - Areas/Live2D.md"
-    },
-    {
-      "basename": "Random",
-      "path": "non-index/Random.md"
     },
     {
       "basename": "Vulkan's Canonical View Volume",
@@ -163,42 +199,6 @@
     {
       "basename": "Obsidian theme Plugin (can add custom themes)",
       "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
-    },
-    {
-      "basename": "Rust",
-      "path": "01 - Projects/Rust.md"
-    },
-    {
-      "basename": "Github Dynamic ReadMe",
-      "path": "01 - Projects/Github Dynamic ReadMe.md"
-    },
-    {
-      "basename": "99 Meetings",
-      "path": "00 - Maps of Content/99 Meetings.md"
-    },
-    {
-      "basename": "Body Structures (male)",
-      "path": "02 - Areas/2D Art/Core body/Body Structures (male).md"
-    },
-    {
-      "basename": "Upper Body and Underwear",
-      "path": "02 - Areas/2D Art/Clothing/Upper Body and Underwear.md"
-    },
-    {
-      "basename": "Girls denim shorts",
-      "path": "02 - Areas/2D Art/Clothing/Girls denim shorts.md"
-    },
-    {
-      "basename": "Cap",
-      "path": "02 - Areas/2D Art/Clothing/Cap.md"
-    },
-    {
-      "basename": "sample",
-      "path": "02 - Areas/2D Art/Chest/sample.md"
-    },
-    {
-      "basename": "Male Armpit and elbow",
-      "path": "02 - Areas/2D Art/Arms/Male Armpit and elbow.md"
     }
   ],
   "omittedPaths": [],

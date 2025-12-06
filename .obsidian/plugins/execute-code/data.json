@@ -98,7 +98,7 @@
   "cppInject": "",
   "cppArgs": "",
   "cppUseMain": false,
-  "clingPath": "E:/mingw64/bin/g++.exe",
+  "clingPath": "E:/mingw64/bin/cpp",
   "clingArgs": "",
   "clingStd": "c++17",
   "rustFileExtension": "rs",
