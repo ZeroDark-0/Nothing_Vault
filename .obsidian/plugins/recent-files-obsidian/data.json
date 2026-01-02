@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "202512061529",
-      "path": "202512061529.md"
+      "basename": "Understanding .NET",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
+    },
+    {
+      "basename": "Random",
+      "path": "non-index/Random.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "C++++ brocode",
+      "path": "03 - Resources/C#/C++++ brocode.md"
+    },
+    {
+      "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
+      "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "00 - Permanent",
@@ -17,16 +45,8 @@
       "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
     },
     {
-      "basename": "Random",
-      "path": "non-index/Random.md"
-    },
-    {
       "basename": "sample",
       "path": "04 - Permanent/01 - Coding Languages/06 - BrainFuck/sample.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "05 - Array in Java",
@@ -85,10 +105,6 @@
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
     },
     {
-      "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
-      "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
-    },
-    {
       "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
       "path": "03 - Resources/02 - DSA/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
     },
@@ -123,14 +139,6 @@
     {
       "basename": "Live2D",
       "path": "02 - Areas/Live2D.md"
-    },
-    {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
-    },
-    {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
     },
     {
       "basename": "C++ STL for Competitive Programming",
@@ -173,14 +181,6 @@
       "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
     },
     {
-      "basename": "sample",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C-Sharp/sample.md"
-    },
-    {
-      "basename": "C++++ brocode",
-      "path": "03 - Resources/C#/C++++ brocode.md"
-    },
-    {
       "basename": "packt",
       "path": "03 - Resources/01 - Programming/packt.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Multiplayer Game",
       "path": "01 - Projects/Multiplayer Game.md"
-    },
-    {
-      "basename": "Obsidian theme Plugin (can add custom themes)",
-      "path": "01 - Projects/Obsidian theme Plugin (can add custom themes).md"
     }
   ],
   "omittedPaths": [],

@@ -23,7 +23,6 @@ completedLabel: Did you?//
 
 
 
-- [x] Photoshop tut 🔼 ✅ 2025-07-10
 - [ ] Docker 3 vids ⏫  
 - [ ] Game Math⏫ 
 - [ ] DSA ⏫ 
@@ -31,9 +30,6 @@ completedLabel: Did you?//
 
 
 
- - [ ] Multi Player System
- - [ ] Obsidian plugin css file 🔴
- - [ ] Github Profile Markdown
  
 
 ---

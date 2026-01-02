@@ -56,6 +56,7 @@ and the remaining is the third row -> remember that every component is divided b
 So to do that we can have Z * Z in the final matrix cuz z * z is z itself ..
 meaning we got only 2 unknown component for the perspective matrix..
 ![[10-Perspective Projection (Math behind 3D).png]]
+
 ![[11-Perspective Projection (Math behind 3D).png]]
 
 putting this in the z component making Z^2 = ![[12-Perspective Projection (Math behind 3D).png]]
