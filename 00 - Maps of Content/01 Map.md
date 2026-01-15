@@ -11,16 +11,17 @@ cssclasses:
 ![[Miku's eyes.gif|601x285]]
 
 ---
+
 ![[2-01 Map.gif]]
+
 # <code style="color:Cyan">1. Projects </code> 
   
-  ```dataview
+``` dataview
 TABLE status, deadline, area
 FROM #project
 WHERE !contains(file.path, "00 - Templates")
 SORT deadline ASC
 ```
-
 
 ![[2-01 Map.gif]]
 
