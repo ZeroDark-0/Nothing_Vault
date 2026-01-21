@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush",
+      "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
+    },
+    {
+      "basename": "Understanding .NET",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "3.Branding Fundamentals",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
+    },
+    {
+      "basename": "2.Photoshop -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
+    },
+    {
+      "basename": "1.Steam Wishlist -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
+    },
+    {
+      "basename": "0. Course Overview",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
+    },
+    {
       "basename": "Random",
       "path": "non-index/Random.md"
     },
     {
-      "basename": "Understanding .NET",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "05 - Array in Java",
@@ -25,24 +65,12 @@
       "path": "04 - Permanent/01 - Coding Languages/09 - Java/04 - Flow Control.md"
     },
     {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
-    },
-    {
       "basename": "C++++ brocode",
       "path": "03 - Resources/C#/C++++ brocode.md"
     },
     {
       "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
       "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
-    },
-    {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
     },
     {
       "basename": "00 - Permanent",
@@ -171,30 +199,6 @@
     {
       "basename": "Competitive Programming",
       "path": "03 - Resources/01 - Programming/Competitive Programming.md"
-    },
-    {
-      "basename": "HTML by Bro Code",
-      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
-    },
-    {
-      "basename": "Cohort2.0 Week1.2 by 100xdevs",
-      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.2 by 100xdevs.md"
-    },
-    {
-      "basename": "packt",
-      "path": "03 - Resources/01 - Programming/packt.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "03 - Resources/01 - Programming/Latex.md"
-    },
-    {
-      "basename": "Main",
-      "path": "01 - Projects/Main.md"
-    },
-    {
-      "basename": "Multiplayer Game",
-      "path": "01 - Projects/Multiplayer Game.md"
     }
   ],
   "omittedPaths": [],

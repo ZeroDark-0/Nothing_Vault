@@ -17,3 +17,14 @@ favicon: ""
 aspectRatio: "50"
 ```
 
+## Topics Covered and the Detailed : 
+
+- All Character Movement <code style="color:red">(file number from 1 - 3, 5 - 7, 11 - 14, 20, 23)</code> <code style="color:cyan">include vector and physics, vector scaling, unit-length, adding vector, cross product, matrices, matrix translation)</code>
+- Distance Comparison <code style="color:red">(file number 4)</code> <code style="color:cyan">the distance between the an entity/object from the character</code>
+- Where the target is facing <code style="color:red">(file number 9 - 10)</code> 
+- Collision <code style="color:red">(file number 15 - 16, 25 - 27)</code> <code style="color:cyan">Colliding of the object with each other</code>
+- Explosion <code style="color:red">(file number 17)</code> <code style="color:cyan"> {impacting}</code>
+- Scaling <code style="color:red">(file number 21)</code> <code style="color:cyan">{basically the Scaling for the enemy or the  entities}</code> 
+- Frustum Culling <code style="color:red">(file number 29)</code> <code style="color:cyan">{for the performance problem / also like render the entities in the FOV and not the entire surrounding}</code>
+- Rotation <code style="color:red">(file number 22, 30 - </code> <code style="color:cyan">Axis-angle rotation and Quaternion,Quaternion Inverse </code>
+- 
