@@ -5,36 +5,60 @@
       "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
     },
     {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
       "basename": "Perspective Projection (Math behind 3D)",
       "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
     },
     {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+      "basename": "kovaaks-playlist-compendium",
+      "path": "X/kovaaks-playlist-compendium.md"
+    },
+    {
+      "basename": "Improve 7X Faster",
+      "path": "X/Improve 7X Faster.md"
+    },
+    {
+      "basename": "Game Sense",
+      "path": "X/Game Sense.md"
+    },
+    {
+      "basename": "Aimer7 Routine Addendum",
+      "path": "X/Aimer7 Routine Addendum.pdf"
+    },
+    {
+      "basename": "Software for Game dev",
+      "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
     },
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
       "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
     },
     {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
-    },
-    {
       "basename": "Game development Tools by Thomas brush",
       "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
     },
     {
-      "basename": "Understanding .NET",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
     },
     {
       "basename": "3.Branding Fundamentals",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
+    },
+    {
+      "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
+      "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "Understanding .NET",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
     },
     {
       "basename": "2.Photoshop -Pre-Marketing-",
@@ -67,10 +91,6 @@
     {
       "basename": "C++++ brocode",
       "path": "03 - Resources/C#/C++++ brocode.md"
-    },
-    {
-      "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
-      "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
     },
     {
       "basename": "00 - Permanent",
@@ -179,26 +199,6 @@
     {
       "basename": "One and Two Year Way",
       "path": "non-index/One and Two Year Way.md"
-    },
-    {
-      "basename": "Random.excalidraw",
-      "path": "non-index/Random.excalidraw.md"
-    },
-    {
-      "basename": "1. Using Vector as a default container",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/1. Using Vector as a default container.md"
-    },
-    {
-      "basename": "Input and Output used in Competitive Programming",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Input and Output used in Competitive Programming.md"
-    },
-    {
-      "basename": "Split, Map, and Filter Functions",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Split, Map, and Filter Functions.md"
-    },
-    {
-      "basename": "Competitive Programming",
-      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
     }
   ],
   "omittedPaths": [],

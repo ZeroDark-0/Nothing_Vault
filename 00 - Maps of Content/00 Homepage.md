@@ -25,7 +25,7 @@ completedLabel: Did you?//
 
 - [ ] Docker 3 vids ⏫  
 - [ ] Game Math⏫ 
-- [ ] DSA ⏫ 
+- [ ] CP ⏫ 
 - [ ] Full Time Game Dev ⏫ 
 
 
