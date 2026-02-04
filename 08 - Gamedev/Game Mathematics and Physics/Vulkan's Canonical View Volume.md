@@ -1,7 +1,9 @@
 ---
 date: 2025-05-18T19:30
-tags: 
+tags:
 link: https://youtu.be/dvioALNs_Bc?si=DVXUqU1ulXUSBZ9O
+cssclasses:
+  - center-images
 ---
 
 So basically the software worked on the bases of the API's whether a non- graphic or a graphic...
@@ -9,7 +11,7 @@ The directX and Vulkan's are the two are type of API that your hardware used whe
 
 And also the Vulkan's was working with AMD..
 Here the Vulkan's is a successor of the openGL which is the competitor of directX 
-![[1-Vulkan's Canonical View Volume.png]]
+![[1-Vulkan's Canonical View Volume.png|808x535]]
 
 But the difference arise between DirectX and Vulkan's in which the directX on run on Windows meanwhile the Vulkan's can support windows, OSX, Linux and android..
 
