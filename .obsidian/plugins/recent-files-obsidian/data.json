@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+      "basename": "202602201501",
+      "path": "202602201501.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Cohort2.0 Week1.3 by 100xdevs",
+      "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.3 by 100xdevs.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
+      "path": "03 - Resources/02 - DSA/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
+    },
+    {
+      "basename": "Competitive Programming",
+      "path": "03 - Resources/01 - Programming/Competitive Programming.md"
+    },
+    {
+      "basename": "DevOps Day-1",
+      "path": "04 - Permanent/03 - DevOps/NG - AWS/DevOps Day-1.md"
     },
     {
       "basename": "Perspective Projection (Math behind 3D)",
@@ -35,10 +59,6 @@
     {
       "basename": "Software for Game dev",
       "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "Game development Tools by Thomas brush",
@@ -153,10 +173,6 @@
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
     },
     {
-      "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
-      "path": "03 - Resources/02 - DSA/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf"
-    },
-    {
       "basename": "P, NP, NP-Hard and NP-Complete",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 41/P, NP, NP-Hard and NP-Complete.pdf"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
-    },
-    {
-      "basename": "Live2D",
-      "path": "02 - Areas/Live2D.md"
-    },
-    {
-      "basename": "C++ STL for Competitive Programming",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/STL (Competitive Programming)/C++ STL for Competitive Programming.md"
-    },
-    {
-      "basename": "Mark Down",
-      "path": "04 - Permanent/01 - Coding Languages/01 - Mark Down/Mark Down.md"
-    },
-    {
-      "basename": "One and Two Year Way",
-      "path": "non-index/One and Two Year Way.md"
     }
   ],
   "omittedPaths": [],

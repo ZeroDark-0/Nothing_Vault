@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3e4501a944df8a35",
+        "id": "0bf387e79cdedb56",
         "type": "tabs",
         "children": [
           {
-            "id": "637c7cf834d27ac0",
+            "id": "3d7c8d0b9fd91135",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
+                "file": "202602201501.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Mathematics by Jorge Rodriguez"
+              "title": "202602201501"
+            }
+          },
+          {
+            "id": "11e48f562a1f1ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Maps of Content/00 Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Homepage"
             }
           }
         ]
@@ -33,7 +47,7 @@
       {
         "id": "1633a2e82699072f",
         "type": "tabs",
-        "dimension": 65.8669574700109,
+        "dimension": 78.18974918211559,
         "children": [
           {
             "id": "48db5e5e042efd58",
@@ -100,7 +114,7 @@
       {
         "id": "5118e9db2e3d4256",
         "type": "tabs",
-        "dimension": 34.13304252998909,
+        "dimension": 21.81025081788441,
         "children": [
           {
             "id": "d30463d87258ed7b",
@@ -116,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 394.5
   },
   "right": {
     "id": "e2923ca1019dc92a",
@@ -269,18 +283,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "637c7cf834d27ac0",
+  "active": "3d7c8d0b9fd91135",
   "lastOpenFiles": [
     "00 - Maps of Content/00 Homepage.md",
-    "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
     "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
+    "202602201501.md",
+    "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.3 by 100xdevs.md",
+    "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md",
+    "03 - Resources/02 - DSA/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
+    "03 - Resources/01 - Programming/Competitive Programming.md",
+    "04 - Permanent/03 - DevOps/NG - AWS/DevOps Day-1.md",
+    "99 - Meta/attachments/1-DevOps Day-1.mp4",
+    "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
     "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
     "X/kovaaks-playlist-compendium.md",
     "X/Improve 7X Faster.md",
     "X/Game Sense.md",
     "X/Aimer7 Routine Addendum.pdf",
     "08 - Gamedev/GameDev Resources/Software for Game dev.md",
-    "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md",
     "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md",
     "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md",
     "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf",
@@ -297,16 +317,10 @@
     "04 - Permanent/01 - Coding Languages/04 - C#/sample.md",
     "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8",
     "03 - Resources/C.md",
-    "03 - Resources/C#/C++++ brocode.md",
-    "202512061529.md",
-    "04 - Permanent/00 - Permanent.md",
-    "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
     "03 - Resources/C++/C++ cookbook.pdf",
-    "03 - Resources/02 - DSA/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 41/P, NP, NP-Hard and NP-Complete.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 30/1-DSA by iNeuron.pdf",
     "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 15/15-Live Session Notes.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 8/8-DSA by iNeuron.pdf",
     "99 - Meta/Backgrounds/Sakura_Nene_CPP.jpg",
     "99 - Meta/Backgrounds/1-C++.jpg",
     "99 - Meta/Backgrounds/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png",

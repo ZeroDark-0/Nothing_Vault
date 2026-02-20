@@ -1,7 +1,0 @@
-{
-  "outputDirectory": "FieldNotes",
-  "alphaThreshold": 190,
-  "fileNameTemplate": "field-note-{date}-{shortId}",
-  "convertToGrayscale": false,
-  "useLuminosityForAlpha": true
-}

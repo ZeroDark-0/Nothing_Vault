@@ -2,7 +2,7 @@
 date: 2025-06-13T17:41
 tags: []
 share_link: https://share.note.sx/5hzrjmt1#3ObqL6FX3kPv+TGJOB8sqZAqhFda2qbgMTTwzAuSULk
-share_updated: 2025-06-14T16:46:01+08:00
+share_updated: 2026-02-11T02:07:15+08:00
 ---
 
 ## <code style="color:red"> DevOps </code>
