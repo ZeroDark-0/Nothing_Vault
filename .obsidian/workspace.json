@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0bf387e79cdedb56",
+        "id": "cd2938c10b3b9d47",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7c8d0b9fd91135",
+            "id": "647a2ae56056cce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202602201501.md",
+                "file": "#flashcards/Hiragana Basic/hiragana basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202602201501"
-            }
-          },
-          {
-            "id": "11e48f562a1f1ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "hiragana basic"
             }
           }
         ]
@@ -47,7 +33,7 @@
       {
         "id": "1633a2e82699072f",
         "type": "tabs",
-        "dimension": 78.18974918211559,
+        "dimension": 65.53980370774264,
         "children": [
           {
             "id": "48db5e5e042efd58",
@@ -68,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +100,7 @@
       {
         "id": "5118e9db2e3d4256",
         "type": "tabs",
-        "dimension": 21.81025081788441,
+        "dimension": 34.460196292257365,
         "children": [
           {
             "id": "d30463d87258ed7b",
@@ -146,17 +132,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
+                "file": "#flashcards/Hiragana Basic/hiragana basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1-DSA by iNeuron"
+              "title": "Backlinks for hiragana basic"
             }
           },
           {
@@ -165,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md",
+                "file": "#flashcards/Hiragana Basic/hiragana basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. Finding elements in a range"
+              "title": "Outgoing links from hiragana basic"
             }
           },
           {
@@ -208,10 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 - Atomic/02 - Operating System/Secure Boot (202501010734).md"
+                "file": "#flashcards/Hiragana Basic/hiragana basic.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Secure Boot (202501010734)"
+              "title": "Outline of hiragana basic"
             }
           },
           {
@@ -229,9 +218,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "#flashcards/Hiragana Basic/hiragana basic.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for hiragana basic"
             }
           },
           {
@@ -245,11 +236,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
+    "width": 457.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -265,9 +256,9 @@
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-importer:Open Importer": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -283,44 +274,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d7c8d0b9fd91135",
+  "active": "647a2ae56056cce5",
   "lastOpenFiles": [
     "00 - Maps of Content/00 Homepage.md",
-    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
-    "202602201501.md",
-    "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.3 by 100xdevs.md",
-    "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md",
-    "03 - Resources/02 - DSA/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
-    "03 - Resources/01 - Programming/Competitive Programming.md",
-    "04 - Permanent/03 - DevOps/NG - AWS/DevOps Day-1.md",
-    "99 - Meta/attachments/1-DevOps Day-1.mp4",
-    "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
-    "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
-    "X/kovaaks-playlist-compendium.md",
-    "X/Improve 7X Faster.md",
-    "X/Game Sense.md",
-    "X/Aimer7 Routine Addendum.pdf",
-    "08 - Gamedev/GameDev Resources/Software for Game dev.md",
-    "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md",
-    "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md",
-    "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf",
-    "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
-    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md",
-    "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md",
-    "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md",
-    "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md",
-    "non-index/Random.md",
+    "#flashcards/katagana.md",
+    "#flashcards/Hiragana Dakuten/hiragana dakuten.md",
+    "#flashcards/Hiragana Basic/hiragana basic.md",
+    "#flashcards/Hiragana Combination/hiragana combination.md",
+    "#flashcards/Hiragana Basic/Basic.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "#flashcards/Hiragana Basic/hiragana dakuten.md",
+    "#flashcards/Hiragana Dakuten",
+    "#flashcards/Hiragana Basic/hiragana combination.md",
+    "#flashcards/Hiragana Combination",
+    "#flashcards/Hiragana Basic",
+    "textgenerator/templates/default/getTitles.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/default/summarize.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getTags.md",
+    "textgenerator/templates/default/summarizeLarge.md",
+    "textgenerator/templates/default/getEmailPos.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/simplify.md",
+    "textgenerator/templates/default/rewrite.md",
+    "textgenerator/templates/default/getOutline.md",
+    "textgenerator/templates/default",
+    "textgenerator/templates",
+    "textgenerator",
+    "#flashcards",
+    "Flash Cards.md",
+    "09 - Periodic/00 - Daily/2026-03-12.md",
     "00 - Maps of Content/01 Map.md",
-    "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md",
-    "04 - Permanent/01 - Coding Languages/09 - Java/04 - Flow Control.md",
-    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!",
-    "04 - Permanent/01 - Coding Languages/04 - C#/sample.md",
-    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8",
-    "03 - Resources/C.md",
-    "03 - Resources/C++/C++ cookbook.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 41/P, NP, NP-Hard and NP-Complete.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 30/1-DSA by iNeuron.pdf",
-    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 15/15-Live Session Notes.pdf",
+    "202602201501.md",
+    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
+    "03 - Resources/02 - DSA/Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li.pdf",
+    "99 - Meta/attachments/1-DevOps Day-1.mp4",
+    "X/Aimer7 Routine Addendum.pdf",
     "99 - Meta/Backgrounds/Sakura_Nene_CPP.jpg",
     "99 - Meta/Backgrounds/1-C++.jpg",
     "99 - Meta/Backgrounds/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png",
