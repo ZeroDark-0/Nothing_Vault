@@ -75,7 +75,6 @@
       "tags": "OpenAI,markdown,gpt-4-vision,vision,images",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-vision",
-      "installed": false,
       "downloads": 0
     },
     "smartConnections": {
@@ -88,7 +87,6 @@
       "tags": "smartConnections,smart-connections",
       "authorUrl": "https://www.buymeacoffee.com/haouarine",
       "repo": "text-gen/tg-smartConnections",
-      "installed": false,
       "downloads": 0
     },
     "Experimental": {
@@ -134,97 +132,10 @@
       "core": true,
       "folderName": "excalidrawPackage",
       "price": 2,
-      "installed": false,
       "downloads": 0
     }
   },
   "resources": {},
-  "installedPackagesHash": {
-    "default": {
-      "packageId": "default",
-      "prompts": [
-        {
-          "promptId": "getEmailNeg"
-        },
-        {
-          "promptId": "getEmailPos"
-        },
-        {
-          "promptId": "getIdeas"
-        },
-        {
-          "promptId": "getOutline"
-        },
-        {
-          "promptId": "getParagraph"
-        },
-        {
-          "promptId": "getTags"
-        },
-        {
-          "promptId": "getTitles"
-        },
-        {
-          "promptId": "rewrite"
-        },
-        {
-          "promptId": "simplify"
-        },
-        {
-          "promptId": "summarize"
-        },
-        {
-          "promptId": "summarizeLarge"
-        }
-      ],
-      "installedPrompts": [
-        {
-          "promptId": "getOutline",
-          "version": ""
-        },
-        {
-          "promptId": "rewrite",
-          "version": ""
-        },
-        {
-          "promptId": "simplify",
-          "version": ""
-        },
-        {
-          "promptId": "getParagraph",
-          "version": ""
-        },
-        {
-          "promptId": "getEmailPos",
-          "version": ""
-        },
-        {
-          "promptId": "summarizeLarge",
-          "version": ""
-        },
-        {
-          "promptId": "getTags",
-          "version": ""
-        },
-        {
-          "promptId": "getIdeas",
-          "version": ""
-        },
-        {
-          "promptId": "summarize",
-          "version": ""
-        },
-        {
-          "promptId": "getEmailNeg",
-          "version": ""
-        },
-        {
-          "promptId": "getTitles",
-          "version": ""
-        }
-      ],
-      "version": "0.0.5"
-    }
-  },
+  "installedPackagesHash": {},
   "subscriptions": []
 }
