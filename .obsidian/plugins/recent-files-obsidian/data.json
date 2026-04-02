@@ -5,8 +5,60 @@
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "Bitwise Operator",
+      "path": "Bitwise Operator.md"
+    },
+    {
+      "basename": "Random.excalidraw",
+      "path": "non-index/Random.excalidraw.md"
+    },
+    {
+      "basename": "Random",
+      "path": "non-index/Random.md"
+    },
+    {
       "basename": "hiragana basic",
       "path": "#flashcards/Hiragana Basic/hiragana basic.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+    },
+    {
+      "basename": "My Resume",
+      "path": "05 - Archives/My Resume.md"
+    },
+    {
+      "basename": "JeffreySu_Resume",
+      "path": "05 - Archives/JeffreySu_Resume.pdf"
+    },
+    {
+      "basename": "Git by Tech With Tim",
+      "path": "05 - Archives/Git by Tech With Tim.md"
+    },
+    {
+      "basename": "Some Useful Website",
+      "path": "05 - Archives/Some Useful Website.md"
+    },
+    {
+      "basename": "Sites Library",
+      "path": "05 - Archives/Sites Library.md"
+    },
+    {
+      "basename": "Resume or CV making",
+      "path": "05 - Archives/Resume or CV making.md"
+    },
+    {
+      "basename": "Understanding .NET",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
+    },
+    {
+      "basename": "Male Armpit and elbow",
+      "path": "02 - Areas/2D Art/Arms/Male Armpit and elbow.md"
     },
     {
       "basename": "hiragana dakuten",
@@ -49,14 +101,6 @@
       "path": "04 - Permanent/03 - DevOps/NG - AWS/DevOps Day-1.md"
     },
     {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
-    },
-    {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
-    },
-    {
       "basename": "kovaaks-playlist-compendium",
       "path": "X/kovaaks-playlist-compendium.md"
     },
@@ -93,10 +137,6 @@
       "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
     },
     {
-      "basename": "Understanding .NET",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
-    },
-    {
       "basename": "2.Photoshop -Pre-Marketing-",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
     },
@@ -107,10 +147,6 @@
     {
       "basename": "0. Course Overview",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
-    },
-    {
-      "basename": "Random",
-      "path": "non-index/Random.md"
     },
     {
       "basename": "05 - Array in Java",
@@ -163,30 +199,6 @@
     {
       "basename": "Arch Linux Installation (202501010710)",
       "path": "05 - Archives/Arch Linux Installation and command/Arch Linux Installation (202501010710).md"
-    },
-    {
-      "basename": "Secure Boot",
-      "path": "06 - Atomic/Secure Boot.md"
-    },
-    {
-      "basename": "Secure Boot YT",
-      "path": "03 - Resources/03 - Operating System/Secure Boot YT.md"
-    },
-    {
-      "basename": "Deleting Dual Boot",
-      "path": "05 - Archives/Deleting Dual Boot.md"
-    },
-    {
-      "basename": "C++ cookbook",
-      "path": "03 - Resources/C++/C++ cookbook.pdf"
-    },
-    {
-      "basename": "00 - DSA by iNeuron",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/00 - DSA by iNeuron.md"
-    },
-    {
-      "basename": "P, NP, NP-Hard and NP-Complete",
-      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 41/P, NP, NP-Hard and NP-Complete.pdf"
     }
   ],
   "omittedPaths": [],

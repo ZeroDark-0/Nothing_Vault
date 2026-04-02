@@ -7,7 +7,5 @@ tags: []
 ![[1-My Resume.pdf]]
 
 
-Parent Sample Resume 
 
-![[2-My Resume.pdf]]
 
