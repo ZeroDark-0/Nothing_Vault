@@ -1,5 +1,4 @@
 [
-  "obsidian-spaced-repetition",
   "obsidian-importer",
   "settings-search",
   "obsidian-completr",
@@ -22,7 +21,6 @@
   "note-refactor-obsidian",
   "obsidian-reading-time",
   "obsidian-tasks-plugin",
-  "obsidian-textgenerator-plugin",
   "obsidian-tracker",
   "nldates-obsidian",
   "darlal-switcher-plus",
@@ -47,6 +45,5 @@
   "execute-code",
   "image-converter",
   "widgets",
-  "obsidian-trash-explorer",
-  "contribution-graph"
+  "obsidian-trash-explorer"
 ]
