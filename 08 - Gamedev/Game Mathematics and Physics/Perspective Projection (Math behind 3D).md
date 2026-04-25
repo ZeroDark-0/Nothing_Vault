@@ -33,7 +33,7 @@ By applying this method -> the object within the reason occupied by orthographic
 
 But the orthographic view volume doesn't apply perspective and so do that we require a viewing volume like a square frustum..
 
-![[5-Perspective Projection (Math behind 3D).png]]
+![[5-Perspective Projection (Math behind 3D).png|807x415]]
 
 ![[6-Perspective Projection (Math behind 3D).png|880x484]]
 
@@ -41,7 +41,7 @@ To do this we have to get a 4X4 Matrix for the preceptive matrix. (Ax=B) but the
 For that-> we use..\
 
 ## <code style = "color:yellow">Homogeneous Vector</code>
-![[8-Perspective Projection (Math behind 3D).png]]
+![[8-Perspective Projection (Math behind 3D).png|668x329]]
 
 We use the "W" as a forth component which set that -> W is always equals to one..
 and initially define the "W" as the denominator of X,Y and Z component..\

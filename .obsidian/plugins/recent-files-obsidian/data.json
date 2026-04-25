@@ -13,6 +13,10 @@
       "path": "05 - Archives/Git by Tech With Tim.md"
     },
     {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
+    },
+    {
       "basename": "inkporter_model_testing",
       "path": "non-index/inkporter_model_testing.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Random",
       "path": "non-index/Random.md"
-    },
-    {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
     },
     {
       "basename": "Vulkan's Canonical View Volume",

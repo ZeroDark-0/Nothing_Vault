@@ -29,6 +29,5 @@ completedLabel: Did you?//
 - [ ] Full Time Game Dev : in progress
 
 
-
 ---
 
