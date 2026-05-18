@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9205f7696d3d89b",
+        "id": "f0a9012be83700f9",
         "type": "tabs",
         "children": [
           {
-            "id": "f6fc1f0302747b08",
+            "id": "65ab7d8100d19d4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/00 Homepage.md",
+                "file": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Homepage"
+              "title": "Understanding .NET"
             }
           }
         ]
@@ -82,7 +82,7 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           },
           {
@@ -267,53 +267,54 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-git:Open Git source control": false,
       "markdown-importer:Open format converter": false,
-      "widgets:Add widget": false
+      "widgets:Add widget": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "f6fc1f0302747b08",
+  "active": "48db5e5e042efd58",
   "lastOpenFiles": [
+    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/4. Writing, Debugging, and Testing Functions",
+    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/3. Controlling Flow, Converting Type, and Handling Exceptions",
+    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#",
+    "non-index/Random.excalidraw.md",
+    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md",
+    "00 - Maps of Content/00 Homepage.md",
+    "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf",
+    "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 4/4-DSA by iNeuron.pdf",
+    "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md",
+    "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
+    "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
+    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
+    "08 - Gamedev/3D Art Resource and Notes/PBR Videos.md",
+    "08 - Gamedev/3D Art Resource and Notes/Blender shortcut.md",
+    "08 - Gamedev/GameDev Resources/Develop.games by Thor.md",
+    "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md",
+    "08 - Gamedev/GameDev Resources/Software for Game dev.md",
+    "non-index/inkporter_model_testing.md",
+    "99 - Meta/attachments/1-202604030018.png",
+    "08 - Gamedev/Non-Index/00 - Gamedev Index.md",
+    "08 - Gamedev/Non-Index/Other Game dev related.md",
+    "08 - Gamedev/Non-Index/Portfolio for Gamedev.md",
+    "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md",
+    "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md",
+    "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md",
+    "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md",
     "202604241650.md",
     "05 - Archives/Git by Nick White.md",
     "05 - Archives/Git by Tech With Tim.md",
-    "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md",
-    "00 - Maps of Content/00 Homepage.md",
-    "non-index/inkporter_model_testing.md",
     "ED-202604031607.excalidraw.md",
-    "#flashcards/Hiragana Basic/hiragana basic.md",
-    "Bitwise Operator.md",
-    "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md",
     "99 - Meta/attachments/inkporter_test_result-3.png",
     "99 - Meta/attachments/inkporter_test_result-2.png",
     "99 - Meta/attachments/2-202604030018.png",
-    "99 - Meta/attachments/1-202604030018.png",
     "99 - Meta/attachments/inkporter_test_result-1.png",
     "99 - Meta/attachments/inkporter_test_result.png",
-    "non-index/Random.excalidraw.md",
-    "non-index/Random.md",
-    "non-index/One and Two Year Way.md",
-    "ED-202604022052.excalidraw.md",
-    "ED-202603180426.excalidraw.md",
-    "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md",
-    "05 - Archives/My Resume.md",
     "05 - Archives/JeffreySu_Resume.pdf",
-    "05 - Archives/Some Useful Website.md",
-    "05 - Archives/Sites Library.md",
-    "05 - Archives/Resume or CV making.md",
-    "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md",
-    "ED-202603140243.excalidraw.md",
-    "02 - Areas/2D Art/Arms/Male Armpit and elbow.md",
-    "ED-202603132351.excalidraw.md",
-    "textgenerator/templates/trash/default/summarizeLarge.md",
-    "textgenerator/templates/trash/default/summarize.md",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash",
     "#flashcards/Hiragana Dakuten",
     "#flashcards/Hiragana Combination",
     "#flashcards/Hiragana Basic",
-    "textgenerator/templates/default",
-    "textgenerator/templates",
-    "textgenerator",
-    "#flashcards",
     "99 - Meta/Backgrounds/Sakura_Nene_CPP.jpg",
     "99 - Meta/Backgrounds/1-C++.jpg",
     "99 - Meta/Backgrounds/Bocchi_the_rock_Hitori_Gotoh_the_c++_programming_language.png",

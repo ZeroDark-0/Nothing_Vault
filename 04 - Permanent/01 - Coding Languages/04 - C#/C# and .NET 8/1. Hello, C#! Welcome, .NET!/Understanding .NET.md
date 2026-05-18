@@ -14,3 +14,13 @@ Basically there are the type for the updates you will be getting on .NET describ
   
 + ***Preview*** >> releases are for public testing, Preview releases are not usually supported by Microsoft, but some preview or **Release Candidate** (**RC**) releases may be declared **Go Live**, meaning they are supported by Microsoft in production.
 
+
+## <code style = "color:cyan">Understanding intermediate language</code>
+
+The C# complier (named <code style="color:orange"><b>Roslyn</b></code>) used by the dotnet CLI tool converts C# code into Intermediate Language and then save that in the assembly ***(DLL or EXE)***. The Intermediate language are like assembly language which are executed by .NET's virtual machine known as CoreCLR. 
+
+At the runtime, CoreCLR loads the Intermediate Language from the assembly, the just-in-time(JIT complier) compiles it into naive CPU instruction, and then it executed by the CPU on your machine..
+
+#### -> why the two step compilation?
+
+this can create Common Language Runtimes (CLRs) for Linux and macOS as well as Windows..

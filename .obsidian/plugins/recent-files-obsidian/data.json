@@ -1,8 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Understanding .NET",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
+    },
+    {
+      "basename": "Random.excalidraw",
+      "path": "non-index/Random.excalidraw.md"
+    },
+    {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "1-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "4-DSA by iNeuron",
+      "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 4/4-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "Game development Tools by Thomas brush",
+      "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
+    },
+    {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "PBR Videos",
+      "path": "08 - Gamedev/3D Art Resource and Notes/PBR Videos.md"
+    },
+    {
+      "basename": "Blender shortcut",
+      "path": "08 - Gamedev/3D Art Resource and Notes/Blender shortcut.md"
+    },
+    {
+      "basename": "Develop.games by Thor",
+      "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "Software for Game dev",
+      "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
+    },
+    {
+      "basename": "Random",
+      "path": "non-index/Random.md"
+    },
+    {
+      "basename": "inkporter_model_testing",
+      "path": "non-index/inkporter_model_testing.md"
+    },
+    {
+      "basename": "00 - Gamedev Index",
+      "path": "08 - Gamedev/Non-Index/00 - Gamedev Index.md"
+    },
+    {
+      "basename": "Other Game dev related",
+      "path": "08 - Gamedev/Non-Index/Other Game dev related.md"
+    },
+    {
+      "basename": "Portfolio for Gamedev",
+      "path": "08 - Gamedev/Non-Index/Portfolio for Gamedev.md"
+    },
+    {
+      "basename": "0. Course Overview",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
+    },
+    {
+      "basename": "1.Steam Wishlist -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
+    },
+    {
+      "basename": "2.Photoshop -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
+    },
+    {
+      "basename": "3.Branding Fundamentals",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
     },
     {
       "basename": "Git by Nick White",
@@ -11,30 +103,6 @@
     {
       "basename": "Git by Tech With Tim",
       "path": "05 - Archives/Git by Tech With Tim.md"
-    },
-    {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
-    },
-    {
-      "basename": "inkporter_model_testing",
-      "path": "non-index/inkporter_model_testing.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
-      "basename": "Random.excalidraw",
-      "path": "non-index/Random.excalidraw.md"
-    },
-    {
-      "basename": "Random",
-      "path": "non-index/Random.md"
-    },
-    {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
     },
     {
       "basename": "My Resume",
@@ -57,10 +125,6 @@
       "path": "05 - Archives/Resume or CV making.md"
     },
     {
-      "basename": "Understanding .NET",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
-    },
-    {
       "basename": "Male Armpit and elbow",
       "path": "02 - Areas/2D Art/Arms/Male Armpit and elbow.md"
     },
@@ -75,10 +139,6 @@
     {
       "basename": "Cohort2.0 Week1.3 by 100xdevs",
       "path": "04 - Permanent/01 - Coding Languages/10 - JavaScript/Cohort2.0 Week1.3 by 100xdevs.md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/GameDev Resources/Game Mathematics by Jorge Rodriguez.md"
     },
     {
       "basename": "Cormen, Thomas H._ Leiserson, Charles E._ Rivest, Ronald L._ Ste - Introduction to Algorithms (2022) - libgen.li",
@@ -109,36 +169,8 @@
       "path": "X/Aimer7 Routine Addendum.pdf"
     },
     {
-      "basename": "Software for Game dev",
-      "path": "08 - Gamedev/GameDev Resources/Software for Game dev.md"
-    },
-    {
-      "basename": "Game development Tools by Thomas brush",
-      "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
-    },
-    {
-      "basename": "3.Branding Fundamentals",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
-    },
-    {
       "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
       "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
-    },
-    {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
-    },
-    {
-      "basename": "2.Photoshop -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
-    },
-    {
-      "basename": "1.Steam Wishlist -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
-    },
-    {
-      "basename": "0. Course Overview",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
     },
     {
       "basename": "05 - Array in Java",
@@ -167,26 +199,6 @@
     {
       "basename": "03 - Java Input n Output",
       "path": "04 - Permanent/01 - Coding Languages/09 - Java/03 - Java Input n Output.md"
-    },
-    {
-      "basename": "02 - Variable and Data type in Java",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/02 - Variable and Data type in Java.md"
-    },
-    {
-      "basename": "01 - Java Introduction",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/01 - Java Introduction.md"
-    },
-    {
-      "basename": "sample",
-      "path": "04 - Permanent/01 - Coding Languages/08 - Latex/sample.md"
-    },
-    {
-      "basename": "00 - Gamedev Index",
-      "path": "08 - Gamedev/Non-Index/00 - Gamedev Index.md"
-    },
-    {
-      "basename": "Arch Linux commands (202501011001)",
-      "path": "05 - Archives/Arch Linux Installation and command/Arch Linux commands (202501011001).md"
     }
   ],
   "omittedPaths": [],

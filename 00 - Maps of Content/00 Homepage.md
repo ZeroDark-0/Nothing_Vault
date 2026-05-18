@@ -14,7 +14,14 @@ completedLabel: Did you?//
 ```
 
 
-![[6-00 Homepage.jpg|900x469]]
+
+
+
+
+
+
+
+![[6-00 Homepage.jpg|880x469]]
 
 
 ---
