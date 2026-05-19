@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Introducing the Csharp language",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/Introducing the Csharp language.md"
+    },
+    {
+      "basename": "00 Homepage",
+      "path": "00 - Maps of Content/00 Homepage.md"
+    },
+    {
+      "basename": "HTML by Bro Code",
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+    },
+    {
       "basename": "Understanding .NET",
       "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
     },
     {
       "basename": "Random.excalidraw",
       "path": "non-index/Random.excalidraw.md"
-    },
-    {
-      "basename": "00 Homepage",
-      "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
       "basename": "The Secret to Finishing Your Game",
@@ -187,18 +195,6 @@
     {
       "basename": "00 - Permanent",
       "path": "04 - Permanent/00 - Permanent.md"
-    },
-    {
-      "basename": "5. Finding elements in a range",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/5. Standard Library Containers, Algorithm, and Iterators/5. Finding elements in a range.md"
-    },
-    {
-      "basename": "sample",
-      "path": "04 - Permanent/01 - Coding Languages/06 - BrainFuck/sample.md"
-    },
-    {
-      "basename": "03 - Java Input n Output",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/03 - Java Input n Output.md"
     }
   ],
   "omittedPaths": [],
