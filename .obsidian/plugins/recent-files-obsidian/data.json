@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Introducing the Csharp language",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/Introducing the Csharp language.md"
+      "basename": "2. Understanding csharp standards",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/2. Understanding csharp standards.md"
+    },
+    {
+      "basename": "1. Introducing the Csharp language",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/1. Introducing the Csharp language.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "HTML by Bro Code",
-      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Understanding .NET",
       "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
+    },
+    {
+      "basename": "HTML by Bro Code",
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
     },
     {
       "basename": "Random.excalidraw",
@@ -139,10 +147,6 @@
     {
       "basename": "2026-03-12",
       "path": "09 - Periodic/00 - Daily/2026-03-12.md"
-    },
-    {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
     },
     {
       "basename": "Cohort2.0 Week1.3 by 100xdevs",
