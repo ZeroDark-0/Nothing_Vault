@@ -5,36 +5,68 @@
       "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/2. Understanding csharp standards.md"
     },
     {
-      "basename": "1. Introducing the Csharp language",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/1. Introducing the Csharp language.md"
+      "basename": "My Resume",
+      "path": "05 - Archives/My Resume.md"
+    },
+    {
+      "basename": "JeffreySu_Resume",
+      "path": "05 - Archives/JeffreySu_Resume.pdf"
+    },
+    {
+      "basename": "Deleting Dual Boot",
+      "path": "05 - Archives/Deleting Dual Boot.md"
+    },
+    {
+      "basename": "Git by Nick White",
+      "path": "05 - Archives/Git by Nick White.md"
+    },
+    {
+      "basename": "Git by Tech With Tim",
+      "path": "05 - Archives/Git by Tech With Tim.md"
+    },
+    {
+      "basename": "Partial and Completely Object Oriented Language",
+      "path": "05 - Archives/Partial and Completely Object Oriented Language.md"
+    },
+    {
+      "basename": "Resume or CV making",
+      "path": "05 - Archives/Resume or CV making.md"
+    },
+    {
+      "basename": "Sites Library",
+      "path": "05 - Archives/Sites Library.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
-      "basename": "01 Map",
-      "path": "00 - Maps of Content/01 Map.md"
+      "basename": "1. Introducing the Csharp language",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/1. Introducing the Csharp language.md"
     },
     {
       "basename": "Understanding .NET",
       "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
     },
     {
-      "basename": "HTML by Bro Code",
-      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
-    },
-    {
       "basename": "Random.excalidraw",
       "path": "non-index/Random.excalidraw.md"
     },
     {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
-    },
-    {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
+    },
+    {
+      "basename": "01 Map",
+      "path": "00 - Maps of Content/01 Map.md"
+    },
+    {
+      "basename": "HTML by Bro Code",
+      "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
     },
     {
       "basename": "4-DSA by iNeuron",
@@ -113,32 +145,8 @@
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
     },
     {
-      "basename": "Git by Nick White",
-      "path": "05 - Archives/Git by Nick White.md"
-    },
-    {
-      "basename": "Git by Tech With Tim",
-      "path": "05 - Archives/Git by Tech With Tim.md"
-    },
-    {
-      "basename": "My Resume",
-      "path": "05 - Archives/My Resume.md"
-    },
-    {
-      "basename": "JeffreySu_Resume",
-      "path": "05 - Archives/JeffreySu_Resume.pdf"
-    },
-    {
       "basename": "Some Useful Website",
       "path": "05 - Archives/Some Useful Website.md"
-    },
-    {
-      "basename": "Sites Library",
-      "path": "05 - Archives/Sites Library.md"
-    },
-    {
-      "basename": "Resume or CV making",
-      "path": "05 - Archives/Resume or CV making.md"
     },
     {
       "basename": "Male Armpit and elbow",
@@ -191,14 +199,6 @@
     {
       "basename": "04 - Flow Control",
       "path": "04 - Permanent/01 - Coding Languages/09 - Java/04 - Flow Control.md"
-    },
-    {
-      "basename": "C++++ brocode",
-      "path": "03 - Resources/C#/C++++ brocode.md"
-    },
-    {
-      "basename": "00 - Permanent",
-      "path": "04 - Permanent/00 - Permanent.md"
     }
   ],
   "omittedPaths": [],
