@@ -1,24 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Modern Core Language",
-      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/1. Learning Modern Core Language Features/1. Modern Core Language.md"
+      "basename": "Piracy",
+      "path": "Piracy.md"
     },
     {
       "basename": "00 Homepage",
       "path": "00 - Maps of Content/00 Homepage.md"
     },
     {
+      "basename": "3.Branding Fundamentals",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
+    },
+    {
+      "basename": "Subtitle Generator guide",
+      "path": "Subtitle Generator guide.md"
+    },
+    {
+      "basename": "1. Modern Core Language",
+      "path": "04 - Permanent/01 - Coding Languages/03 - C++/Modern C++ Cookbook/1. Learning Modern Core Language Features/1. Modern Core Language.md"
+    },
+    {
       "basename": "2. Understanding csharp standards",
       "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/2. Understanding csharp standards.md"
     },
     {
-      "basename": "1. Introducing the Csharp language",
-      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/1. Introducing the Csharp language.md"
-    },
-    {
       "basename": "Understanding .NET",
       "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/1. Hello, C#! Welcome, .NET!/Understanding .NET.md"
+    },
+    {
+      "basename": "Subtitle Generator guide part 2",
+      "path": "Subtitle Generator guide part 2.md"
+    },
+    {
+      "basename": "ffmpeg installation",
+      "path": "06 - Atomic/ffmpeg installation.md"
+    },
+    {
+      "basename": "0. Course Overview",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
+    },
+    {
+      "basename": "Random.excalidraw",
+      "path": "non-index/Random.excalidraw.md"
+    },
+    {
+      "basename": "1.Steam Wishlist -Pre-Marketing-",
+      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
+    },
+    {
+      "basename": "The Secret to Finishing Your Game",
+      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
+    },
+    {
+      "basename": "Photoshop by Envato Tuts+",
+      "path": "08 - Gamedev/Editing/Photoshop by Envato Tuts+.md"
+    },
+    {
+      "basename": "Advanced Photoshop by Envato Tuts+",
+      "path": "08 - Gamedev/Editing/Advanced Photoshop by Envato Tuts+.md"
+    },
+    {
+      "basename": "Develop.games by Thor",
+      "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
+    },
+    {
+      "basename": "Vulkan's Canonical View Volume",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
+    },
+    {
+      "basename": "Perspective Projection (Math behind 3D)",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
+    },
+    {
+      "basename": "Game Mathematics by Jorge Rodriguez",
+      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
+    },
+    {
+      "basename": "1. Introducing the Csharp language",
+      "path": "04 - Permanent/01 - Coding Languages/04 - C#/C# and .NET 8/2. Speaking C#/1. Introducing the Csharp language.md"
     },
     {
       "basename": "My Resume",
@@ -53,10 +113,6 @@
       "path": "05 - Archives/Sites Library.md"
     },
     {
-      "basename": "Random.excalidraw",
-      "path": "non-index/Random.excalidraw.md"
-    },
-    {
       "basename": "1-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 1/1-DSA by iNeuron.pdf"
     },
@@ -69,10 +125,6 @@
       "path": "04 - Permanent/01 - Coding Languages/11 - HTML/HTML by Bro Code.md"
     },
     {
-      "basename": "The Secret to Finishing Your Game",
-      "path": "08 - Gamedev/Full Time Game Dev/The Secret to Finishing Your Game.md"
-    },
-    {
       "basename": "4-DSA by iNeuron",
       "path": "03 - Resources/02 - DSA/FAANG-DSA-Live-Batch-main/Lecture 4/4-DSA by iNeuron.pdf"
     },
@@ -81,28 +133,12 @@
       "path": "08 - Gamedev/GameDev Resources/Game development Tools by Thomas brush.md"
     },
     {
-      "basename": "Vulkan's Canonical View Volume",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Vulkan's Canonical View Volume.md"
-    },
-    {
-      "basename": "Perspective Projection (Math behind 3D)",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Perspective Projection (Math behind 3D).md"
-    },
-    {
-      "basename": "Game Mathematics by Jorge Rodriguez",
-      "path": "08 - Gamedev/Game Mathematics and Physics/Game Mathematics by Jorge Rodriguez.md"
-    },
-    {
       "basename": "PBR Videos",
       "path": "08 - Gamedev/3D Art Resource and Notes/PBR Videos.md"
     },
     {
       "basename": "Blender shortcut",
       "path": "08 - Gamedev/3D Art Resource and Notes/Blender shortcut.md"
-    },
-    {
-      "basename": "Develop.games by Thor",
-      "path": "08 - Gamedev/GameDev Resources/Develop.games by Thor.md"
     },
     {
       "basename": "Game Mathematics by Jorge Rodriguez",
@@ -133,20 +169,8 @@
       "path": "08 - Gamedev/Non-Index/Portfolio for Gamedev.md"
     },
     {
-      "basename": "0. Course Overview",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/0. Course Overview.md"
-    },
-    {
-      "basename": "1.Steam Wishlist -Pre-Marketing-",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/1.Steam Wishlist -Pre-Marketing-.md"
-    },
-    {
       "basename": "2.Photoshop -Pre-Marketing-",
       "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/2.Photoshop -Pre-Marketing-.md"
-    },
-    {
-      "basename": "3.Branding Fundamentals",
-      "path": "08 - Gamedev/Full Time Game Dev/Pre Marketing/3.Branding Fundamentals.md"
     },
     {
       "basename": "Some Useful Website",
@@ -175,30 +199,6 @@
     {
       "basename": "DevOps Day-1",
       "path": "04 - Permanent/03 - DevOps/NG - AWS/DevOps Day-1.md"
-    },
-    {
-      "basename": "kovaaks-playlist-compendium",
-      "path": "X/kovaaks-playlist-compendium.md"
-    },
-    {
-      "basename": "Improve 7X Faster",
-      "path": "X/Improve 7X Faster.md"
-    },
-    {
-      "basename": "Game Sense",
-      "path": "X/Game Sense.md"
-    },
-    {
-      "basename": "Aimer7 Routine Addendum",
-      "path": "X/Aimer7 Routine Addendum.pdf"
-    },
-    {
-      "basename": "1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development",
-      "path": "03 - Resources/C#/1-C-sharp 12 and .NET 8 – Modern Cross-Platform Development.pdf"
-    },
-    {
-      "basename": "05 - Array in Java",
-      "path": "04 - Permanent/01 - Coding Languages/09 - Java/05 - Array in Java.md"
     }
   ],
   "omittedPaths": [],
